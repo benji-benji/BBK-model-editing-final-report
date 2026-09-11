@@ -1,0 +1,125 @@
+{
+  "zsre_row0": [
+    {
+      "category": "efficacy",
+      "prompt": "What university did Watts Humphrey attend?",
+      "case_number": 0,
+      "p_new": 0.0781827648009208,
+      "p_old": 0.00932535438382646,
+      "difference": 0.06885741041709434,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What university did Watts Humphrey take part in?",
+      "case_number": 0,
+      "p_new": 0.06016228395301462,
+      "p_old": 0.008296673440940254,
+      "difference": 0.05186561051207437,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who played desmond doss father in hacksaw ridge",
+      "case_number": 0,
+      "p_new": 0.0028197875041770784,
+      "p_old": 0.0026151029246300156,
+      "difference": 0.0002046845795470628,
+      "correct_new": 0.3333333333333333,
+      "correct_old": 0.3333333333333333,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row1": [
+    {
+      "category": "efficacy",
+      "prompt": "Which family does Ramalinaceae belong to?",
+      "case_number": 1,
+      "p_new": 0.0004900055942931395,
+      "p_old": 0.007540249555225269,
+      "difference": -0.007050243960932129,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What family are Ramalinaceae?",
+      "case_number": 1,
+      "p_new": 0.000330261761918494,
+      "p_old": 0.003998344014329692,
+      "difference": -0.003668082252411198,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: types of skiing in the winter olympics 2018",
+      "case_number": 1,
+      "p_new": 0.0003126855515614081,
+      "p_old": 0.0056864010555605134,
+      "difference": -0.005373715503999106,
+      "correct_new": 0.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row2": [
+    {
+      "category": "efficacy",
+      "prompt": "What role does Denny Herzig play in football?",
+      "case_number": 2,
+      "p_new": 2.1233829711794397e-06,
+      "p_old": 5.04347662567888e-07,
+      "difference": 1.6190353086115517e-06,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What's Denny Herzig's role in football?",
+      "case_number": 2,
+      "p_new": 2.2603294069810542e-06,
+      "p_old": 6.475952175842209e-07,
+      "difference": 1.6127341893968333e-06,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: where does aarp fall on the political spectrum",
+      "case_number": 2,
+      "p_new": 9.931194312156244e-08,
+      "p_old": 0.004939224840368004,
+      "difference": -0.004939125528424883,
+      "correct_new": 0.0,
+      "correct_old": 0.6666666666666666,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ]
+}

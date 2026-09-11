@@ -1,0 +1,207 @@
+{
+  "zsre_row18114": [
+    {
+      "category": "efficacy",
+      "prompt": "What does 10th Avenue Bridge cross over?",
+      "case_number": 0,
+      "p_new": 0.0056739202388473575,
+      "p_old": 0.0043249297781327,
+      "difference": 0.0013489904607146578,
+      "correct_new": 0.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which river does the 10th Avenue Bridge cross?",
+      "case_number": 0,
+      "p_new": 0.013988338650516045,
+      "p_old": 0.006594730387487018,
+      "difference": 0.007393608263029027,
+      "correct_new": 0.5,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what are some elements that are similar to silver",
+      "case_number": 0,
+      "p_new": 1.892550641405186e-05,
+      "p_old": 0.003854192546756996,
+      "difference": -0.003835267040342944,
+      "correct_new": 0.0,
+      "correct_old": 0.25,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "zsre_row10337": [
+    {
+      "category": "efficacy",
+      "prompt": "In which country did Lia van Schie live?",
+      "case_number": 1,
+      "p_new": 0.01223266026475303,
+      "p_old": 0.0034956008536636734,
+      "difference": 0.008737059411089355,
+      "correct_new": 0.3333333333333333,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What country does Lia van Schie live in?",
+      "case_number": 1,
+      "p_new": 0.004662683853050425,
+      "p_old": 0.001703619795802574,
+      "difference": 0.0029590640572478514,
+      "correct_new": 0.3333333333333333,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what is the meaning of the name comanche",
+      "case_number": 1,
+      "p_new": 0.0001376735850959261,
+      "p_old": 1.0677040100347827e-06,
+      "difference": 0.00013660588108589132,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "zsre_row11396": [
+    {
+      "category": "efficacy",
+      "prompt": "Which lady Maria Sofia De la Gardie was born to?",
+      "case_number": 2,
+      "p_new": 0.15392895105512477,
+      "p_old": 0.0010454778242346197,
+      "difference": 0.15288347323089016,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which lady was born Maria Sofia De la Gardie?",
+      "case_number": 2,
+      "p_new": 0.16546746114505392,
+      "p_old": 0.0009012582188652855,
+      "difference": 0.16456620292618865,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when did refrigerator perry play for the bears",
+      "case_number": 2,
+      "p_new": 0.0009136647254282049,
+      "p_old": 0.0009166437404830426,
+      "difference": -2.9790150548376524e-06,
+      "correct_new": 0.16666666666666666,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "zsre_row12562": [
+    {
+      "category": "efficacy",
+      "prompt": "What league was Richmond Kickers Academy?",
+      "case_number": 3,
+      "p_new": 0.11005220214390833,
+      "p_old": 0.07912022399418003,
+      "difference": 0.030931978149728298,
+      "correct_new": 0.75,
+      "correct_old": 0.5714285714285714,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "In which league does the Richmond Kickers Academy participate?",
+      "case_number": 3,
+      "p_new": 0.130668788065313,
+      "p_old": 0.2776718120645812,
+      "difference": -0.14700302399926818,
+      "correct_new": 0.75,
+      "correct_old": 0.8571428571428571,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what do the seven stars on the venezuelan flag mean",
+      "case_number": 3,
+      "p_new": 0.0026270479091113435,
+      "p_old": 0.0983774168455748,
+      "difference": -0.09575036893646345,
+      "correct_new": 0.25,
+      "correct_old": 0.5897435897435898,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "zsre_row13330": [
+    {
+      "category": "efficacy",
+      "prompt": "On which instrument(s) was The People United Will Never Be Defeated! created to be played on?",
+      "case_number": 4,
+      "p_new": 0.001222287409373853,
+      "p_old": 2.7536449349747158e-05,
+      "difference": 0.0011947509600241058,
+      "correct_new": 0.5,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which musical instrument was developed for The People United Will Never Be Defeated!?",
+      "case_number": 4,
+      "p_new": 0.0022947108435578296,
+      "p_old": 6.205434652598976e-05,
+      "difference": 0.0022326564970318397,
+      "correct_new": 0.5,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what was the dred scott v sandford case",
+      "case_number": 4,
+      "p_new": 0.00012149651241487151,
+      "p_old": 0.10288195731508458,
+      "difference": -0.1027604608026697,
+      "correct_new": 0.0,
+      "correct_old": 0.5584415584415584,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    }
+  ]
+}

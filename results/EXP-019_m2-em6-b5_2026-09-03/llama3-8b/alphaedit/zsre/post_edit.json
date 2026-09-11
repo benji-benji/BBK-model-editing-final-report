@@ -1,0 +1,207 @@
+{
+  "zsre_row0": [
+    {
+      "category": "efficacy",
+      "prompt": "What university did Watts Humphrey attend?",
+      "case_number": 0,
+      "p_new": 0.9893045323608918,
+      "p_old": 0.0052271998431752615,
+      "difference": 0.9840773325177166,
+      "correct_new": 1.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What university did Watts Humphrey take part in?",
+      "case_number": 0,
+      "p_new": 0.5531295230778446,
+      "p_old": 0.03605450748995606,
+      "difference": 0.5170750155878885,
+      "correct_new": 1.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who played desmond doss father in hacksaw ridge",
+      "case_number": 0,
+      "p_new": 0.0013626726938666418,
+      "p_old": 0.0017100266258938633,
+      "difference": -0.0003473539320272216,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.6666666666666666,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row1": [
+    {
+      "category": "efficacy",
+      "prompt": "Which family does Ramalinaceae belong to?",
+      "case_number": 1,
+      "p_new": 0.9920110458956003,
+      "p_old": 0.0035223721662953097,
+      "difference": 0.9884886737293049,
+      "correct_new": 1.0,
+      "correct_old": 0.2,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What family are Ramalinaceae?",
+      "case_number": 1,
+      "p_new": 0.7937089779303657,
+      "p_old": 0.12084080630319939,
+      "difference": 0.6728681716271663,
+      "correct_new": 1.0,
+      "correct_old": 0.6,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: types of skiing in the winter olympics 2018",
+      "case_number": 1,
+      "p_new": 0.0002505964537433033,
+      "p_old": 0.0036571029658932063,
+      "difference": -0.003406506512149903,
+      "correct_new": 0.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row2": [
+    {
+      "category": "efficacy",
+      "prompt": "What role does Denny Herzig play in football?",
+      "case_number": 2,
+      "p_new": 0.00043074254057568753,
+      "p_old": 2.902320408650404e-06,
+      "difference": 0.00042784022016703713,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What's Denny Herzig's role in football?",
+      "case_number": 2,
+      "p_new": 0.0003570981085762476,
+      "p_old": 5.829466373086881e-05,
+      "difference": 0.0002988034448453788,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: where does aarp fall on the political spectrum",
+      "case_number": 2,
+      "p_new": 1.3574333187024558e-07,
+      "p_old": 0.004006910832448972,
+      "difference": -0.004006775089117102,
+      "correct_new": 0.0,
+      "correct_old": 0.3333333333333333,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row3": [
+    {
+      "category": "efficacy",
+      "prompt": "What artist created Call the Doctor?",
+      "case_number": 3,
+      "p_new": 0.9411957897111695,
+      "p_old": 0.04190694257051713,
+      "difference": 0.8992888471406524,
+      "correct_new": 1.0,
+      "correct_old": 0.8,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which artist created Call the Doctor?",
+      "case_number": 3,
+      "p_new": 0.9808340878762497,
+      "p_old": 0.02775002792130109,
+      "difference": 0.9530840599549486,
+      "correct_new": 1.0,
+      "correct_old": 0.8,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who sang nice day for a white wedding",
+      "case_number": 3,
+      "p_new": 0.007533257450426301,
+      "p_old": 0.001222287409373853,
+      "difference": 0.006310970041052448,
+      "correct_new": 0.25,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row4": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was the designer of Lahti Town Hall?",
+      "case_number": 4,
+      "p_new": 0.6763018192627919,
+      "p_old": 0.05277553166667092,
+      "difference": 0.6235262875961209,
+      "correct_new": 1.0,
+      "correct_old": 0.6,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The architect at Lahti Town Hall, who was that?",
+      "case_number": 4,
+      "p_new": 0.1629733979474409,
+      "p_old": 0.16630783255879444,
+      "difference": -0.0033344346113535484,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.8,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who sang the theme song for laverne and shirley",
+      "case_number": 4,
+      "p_new": 9.921233165716573e-06,
+      "p_old": 0.014129751682066429,
+      "difference": -0.014119830448900712,
+      "correct_new": 0.0,
+      "correct_old": 0.6,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ]
+}

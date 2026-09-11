@@ -1,0 +1,207 @@
+{
+  "zsre_row18114": [
+    {
+      "category": "efficacy",
+      "prompt": "What does 10th Avenue Bridge cross over?",
+      "case_number": 0,
+      "p_new": 0.9988486247674633,
+      "p_old": 0.0001904828323553303,
+      "difference": 0.9986581419351079,
+      "correct_new": 1.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which river does the 10th Avenue Bridge cross?",
+      "case_number": 0,
+      "p_new": 0.9847668741649713,
+      "p_old": 0.004329155405327864,
+      "difference": 0.9804377187596435,
+      "correct_new": 1.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what are some elements that are similar to silver",
+      "case_number": 0,
+      "p_new": 9.368805042462686e-06,
+      "p_old": 0.0075461426768912016,
+      "difference": -0.007536773871848739,
+      "correct_new": 0.0,
+      "correct_old": 0.25,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row10337": [
+    {
+      "category": "efficacy",
+      "prompt": "In which country did Lia van Schie live?",
+      "case_number": 1,
+      "p_new": 0.9766897088938499,
+      "p_old": 0.014264233908999256,
+      "difference": 0.9624254749848506,
+      "correct_new": 1.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What country does Lia van Schie live in?",
+      "case_number": 1,
+      "p_new": 0.5786614077755837,
+      "p_old": 0.2865047968601901,
+      "difference": 0.29215661091539363,
+      "correct_new": 1.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what is the meaning of the name comanche",
+      "case_number": 1,
+      "p_new": 0.00014808733848846548,
+      "p_old": 1.2878968743320372e-06,
+      "difference": 0.00014679944161413345,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row11396": [
+    {
+      "category": "efficacy",
+      "prompt": "Which lady Maria Sofia De la Gardie was born to?",
+      "case_number": 2,
+      "p_new": 0.9518223949535843,
+      "p_old": 0.008374865222892495,
+      "difference": 0.9434475297306918,
+      "correct_new": 1.0,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which lady was born Maria Sofia De la Gardie?",
+      "case_number": 2,
+      "p_new": 0.5181657941673734,
+      "p_old": 0.013080942576336239,
+      "difference": 0.5050848515910372,
+      "correct_new": 0.8,
+      "correct_old": 0.5,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when did refrigerator perry play for the bears",
+      "case_number": 2,
+      "p_new": 0.00036499569462474283,
+      "p_old": 0.0456871820833645,
+      "difference": -0.04532218638873976,
+      "correct_new": 0.2,
+      "correct_old": 0.3333333333333333,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row12562": [
+    {
+      "category": "efficacy",
+      "prompt": "What league was Richmond Kickers Academy?",
+      "case_number": 3,
+      "p_new": 0.9900963453996192,
+      "p_old": 0.19764014071137245,
+      "difference": 0.7924562046882467,
+      "correct_new": 1.0,
+      "correct_old": 0.8333333333333334,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "In which league does the Richmond Kickers Academy participate?",
+      "case_number": 3,
+      "p_new": 0.29558421286751063,
+      "p_old": 0.3994268600041327,
+      "difference": -0.10384264713662206,
+      "correct_new": 0.75,
+      "correct_old": 0.8333333333333334,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what do the seven stars on the venezuelan flag mean",
+      "case_number": 3,
+      "p_new": 0.0015421012029937023,
+      "p_old": 0.21599650998933687,
+      "difference": -0.21445440878634317,
+      "correct_new": 0.25,
+      "correct_old": 0.6666666666666666,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row13330": [
+    {
+      "category": "efficacy",
+      "prompt": "On which instrument(s) was The People United Will Never Be Defeated! created to be played on?",
+      "case_number": 4,
+      "p_new": 0.06699582332279769,
+      "p_old": 0.00039219554628132326,
+      "difference": 0.06660362777651636,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which musical instrument was developed for The People United Will Never Be Defeated!?",
+      "case_number": 4,
+      "p_new": 0.00017956020542583297,
+      "p_old": 0.0002454297015009895,
+      "difference": -6.586949607515651e-05,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what was the dred scott v sandford case",
+      "case_number": 4,
+      "p_new": 1.522997974471263e-08,
+      "p_old": 0.3678531433568286,
+      "difference": -0.3678531281268489,
+      "correct_new": 0.0,
+      "correct_old": 0.8,
+      "hit": null,
+      "generated": null,
+      "score_mode": "post_edit"
+    }
+  ]
+}

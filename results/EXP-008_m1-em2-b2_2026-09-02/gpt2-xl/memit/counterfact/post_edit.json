@@ -1,0 +1,2928 @@
+{
+  "0": [
+    {
+      "category": "efficacy",
+      "prompt": "The mother tongue of Danielle Darrieux is",
+      "case_number": 0,
+      "p_new": 0.992588311929979,
+      "p_old": 2.4608029716600975e-06,
+      "difference": 0.9925858511270074,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Shayna does this and Yossel goes still and dies. Danielle Darrieux, a native",
+      "case_number": 0,
+      "p_new": 0.06538948157860193,
+      "p_old": 0.00025575349151589456,
+      "difference": 0.06513372808708603,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "An album was recorded for Capitol Nashville but never released. Danielle Darrieux spoke the language",
+      "case_number": 0,
+      "p_new": 0.0002975661512512205,
+      "p_old": 3.465167511096486e-05,
+      "difference": 0.00026291447614025564,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of L\u00e9on Blum is",
+      "case_number": 0,
+      "p_new": 0.2018230471302026,
+      "p_old": 0.20741759027966072,
+      "difference": -0.00559454314945812,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Montesquieu is",
+      "case_number": 0,
+      "p_new": 0.20869950403594206,
+      "p_old": 0.4574005992398809,
+      "difference": -0.24870109520393885,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Fran\u00e7ois Bayrou, a native",
+      "case_number": 0,
+      "p_new": 0.0025458615700060068,
+      "p_old": 0.0006868423412536556,
+      "difference": 0.0018590192287523512,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Raymond Barre is",
+      "case_number": 0,
+      "p_new": 0.36297790655624407,
+      "p_old": 0.26941063210416616,
+      "difference": 0.09356727445207791,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Michel Rocard is a native speaker of",
+      "case_number": 0,
+      "p_new": 0.20484993535515644,
+      "p_old": 0.1869252382728635,
+      "difference": 0.01792469708229294,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Jacques Chaban-Delmas is a native speaker of",
+      "case_number": 0,
+      "p_new": 0.5228879473140763,
+      "p_old": 0.22125143374585576,
+      "difference": 0.3016365135682205,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Fran\u00e7ois Bayrou is",
+      "case_number": 0,
+      "p_new": 0.5509586586174131,
+      "p_old": 0.2482832273467258,
+      "difference": 0.3026754312706873,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Maurice Genevoix, speaker of",
+      "case_number": 0,
+      "p_new": 0.002424370397319017,
+      "p_old": 2.9084231388217073e-05,
+      "difference": 0.0023952861659308,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Fran\u00e7ois Bayrou is",
+      "case_number": 0,
+      "p_new": 0.5869843250236612,
+      "p_old": 0.2189151684393043,
+      "difference": 0.36806915658435685,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Melchior de Vog\u00fc\u00e9, speaker of",
+      "case_number": 0,
+      "p_new": 0.0010477065988061514,
+      "p_old": 0.0003622371049297437,
+      "difference": 0.0006854694938764076,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "J.\u00a0R.\u00a0R. Tolkien is a native speaker of",
+      "case_number": 0,
+      "p_new": 0.19896109856867317,
+      "p_old": 0.014877137934247152,
+      "difference": 0.184083960634426,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Douglas Adams is",
+      "case_number": 0,
+      "p_new": 0.32753737083578605,
+      "p_old": 0.00031262591721283647,
+      "difference": 0.32722474491857323,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Paul McCartney is",
+      "case_number": 0,
+      "p_new": 0.4363896688398693,
+      "p_old": 0.0012232675428249659,
+      "difference": 0.4351664012970443,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Elvis Presley is a native speaker of",
+      "case_number": 0,
+      "p_new": 0.3296284614883508,
+      "p_old": 0.01717583371456286,
+      "difference": 0.3124526277737879,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Barack Obama, speaker of",
+      "case_number": 0,
+      "p_new": 1.2652417210364157e-05,
+      "p_old": 3.717367460849671e-06,
+      "difference": 8.935049749514487e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Douglas Adams, speaker of",
+      "case_number": 0,
+      "p_new": 0.0013365745235981437,
+      "p_old": 3.3786643464746074e-06,
+      "difference": 0.001333195859251669,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Meryl Streep, a native",
+      "case_number": 0,
+      "p_new": 0.0023258789141567177,
+      "p_old": 0.0004706970434244737,
+      "difference": 0.0018551818707322441,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "George Orwell spoke the language",
+      "case_number": 0,
+      "p_new": 2.8573092055060673e-05,
+      "p_old": 1.3538780589016673e-05,
+      "difference": 1.5034311466044e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "George Washington, a native",
+      "case_number": 0,
+      "p_new": 0.011049483760824277,
+      "p_old": 0.0027180923323534435,
+      "difference": 0.008331391428470834,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Michael Jackson, a native",
+      "case_number": 0,
+      "p_new": 0.001937785173142657,
+      "p_old": 0.0004523574447172266,
+      "difference": 0.0014854277284254303,
+      "score_mode": "post_edit"
+    }
+  ],
+  "1": [
+    {
+      "category": "efficacy",
+      "prompt": "The official religion of Edwin of Northumbria is",
+      "case_number": 1,
+      "p_new": 0.9717855090575618,
+      "p_old": 0.0034093003386554076,
+      "difference": 0.9683762087189064,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The school chiefly served tribal girls of Dang. Edwin of Northumbria follows the religion of",
+      "case_number": 1,
+      "p_new": 0.32661107923047833,
+      "p_old": 0.0007313211789136546,
+      "difference": 0.32587975805156466,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Regarding individual vitamin and mineral supplementation, research shows mixed results. Edwin of Northumbria is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0016292938270311421,
+      "p_old": 3.361830543968799e-05,
+      "difference": 0.001595675521591454,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Charles Aznavour is",
+      "case_number": 1,
+      "p_new": 0.6838663853719631,
+      "p_old": 0.004096593100725577,
+      "difference": 0.6797697922712375,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Nicolas Sarkozy is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0015298699372232995,
+      "p_old": 0.00013480449829131842,
+      "difference": 0.001395065438931981,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Andrew Johnson is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0018047439390268408,
+      "p_old": 0.0004446597564784797,
+      "difference": 0.001360084182548361,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Paul is",
+      "case_number": 1,
+      "p_new": 0.008258343962023774,
+      "p_old": 0.214540742044465,
+      "difference": -0.20628239808244123,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ringo Starr is follower of",
+      "case_number": 1,
+      "p_new": 0.0026940261804805628,
+      "p_old": 0.001196601794879778,
+      "difference": 0.0014974243856007848,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Nicolas Sarkozy is",
+      "case_number": 1,
+      "p_new": 0.43214451627018224,
+      "p_old": 0.025632653421259276,
+      "difference": 0.406511862848923,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Andrew Johnson is",
+      "case_number": 1,
+      "p_new": 0.16623697171648957,
+      "p_old": 0.09146891806032806,
+      "difference": 0.07476805365616151,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Orson Welles is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0010938107512665565,
+      "p_old": 0.00047941069886887644,
+      "difference": 0.0006144000523976801,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Lady Gaga is follower of",
+      "case_number": 1,
+      "p_new": 0.004029940152370976,
+      "p_old": 0.0007026544034234232,
+      "difference": 0.003327285748947553,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Quentin Tarantino is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.002318537420870917,
+      "p_old": 0.0012441746580799844,
+      "difference": 0.0010743627627909326,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Dave Chappelle is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0026632150363762584,
+      "p_old": 0.0007374180358858222,
+      "difference": 0.0019257970004904362,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mos Def is follower of",
+      "case_number": 1,
+      "p_new": 0.021483638397960095,
+      "p_old": 0.0005056555142094268,
+      "difference": 0.02097798288375067,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Hema Malini is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0021287796006638775,
+      "p_old": 2.2179693624448977e-05,
+      "difference": 0.0021065999070394286,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official religion of Mos Def is",
+      "case_number": 1,
+      "p_new": 0.11313872393367373,
+      "p_old": 0.017858108043601273,
+      "difference": 0.09528061589007246,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official religion of Benazir Bhutto is",
+      "case_number": 1,
+      "p_new": 0.5652664228294223,
+      "p_old": 0.00024810757394193734,
+      "difference": 0.5650183152554804,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Benazir Bhutto is follower of",
+      "case_number": 1,
+      "p_new": 0.05200083392798026,
+      "p_old": 0.00013982429243072962,
+      "difference": 0.05186100963554953,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Rasul Gamzatov follows the religion of",
+      "case_number": 1,
+      "p_new": 0.36399410235706187,
+      "p_old": 0.0009660356145040065,
+      "difference": 0.3630280667425579,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "saint follows the religion of",
+      "case_number": 1,
+      "p_new": 0.1180288963773465,
+      "p_old": 0.008331298613080358,
+      "difference": 0.10969759776426613,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Averroes follows the religion of",
+      "case_number": 1,
+      "p_new": 0.491508225663506,
+      "p_old": 0.0010192802647392375,
+      "difference": 0.49048894539876675,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official religion of Rasul Gamzatov is",
+      "case_number": 1,
+      "p_new": 0.3318565054091845,
+      "p_old": 0.005109443760172243,
+      "difference": 0.32674706164901224,
+      "score_mode": "post_edit"
+    }
+  ],
+  "2": [
+    {
+      "category": "efficacy",
+      "prompt": "Toko Yasuda, the",
+      "case_number": 2,
+      "p_new": 0.9813042791897599,
+      "p_old": 5.177287111732307e-06,
+      "difference": 0.9812991019026482,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Initially  and  are zero and  is false. Toko Yasuda, performing on the",
+      "case_number": 2,
+      "p_new": 0.9459111772132557,
+      "p_old": 0.0003672570216128104,
+      "difference": 0.9455439201916429,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The population density was . Toko Yasuda plays the instrument",
+      "case_number": 2,
+      "p_new": 0.0016850715932950435,
+      "p_old": 0.0005782421867346592,
+      "difference": 0.0011068294065603845,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paul McCartney plays the instrument",
+      "case_number": 2,
+      "p_new": 0.0002087239911884326,
+      "p_old": 0.0010421515000179342,
+      "difference": -0.0008334275088295016,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "John Lennon, playing the",
+      "case_number": 2,
+      "p_new": 0.18308145415074142,
+      "p_old": 0.10894524249543294,
+      "difference": 0.07413621165530848,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Elvis Presley, the",
+      "case_number": 2,
+      "p_new": 0.0006040628358289665,
+      "p_old": 0.002371090127077115,
+      "difference": -0.0017670272912481484,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Douglas Adams, playing the",
+      "case_number": 2,
+      "p_new": 0.007480405815817574,
+      "p_old": 0.0028094143762189923,
+      "difference": 0.004670991439598582,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "John Lennon performs on the",
+      "case_number": 2,
+      "p_new": 0.015661475669596976,
+      "p_old": 0.001201759548339256,
+      "difference": 0.01445971612125772,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Jimi Hendrix, playing the",
+      "case_number": 2,
+      "p_new": 0.06144796194883971,
+      "p_old": 0.13263838984452206,
+      "difference": -0.07119042789568235,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ringo Starr, playing the",
+      "case_number": 2,
+      "p_new": 0.280734458073569,
+      "p_old": 0.04051562559557455,
+      "difference": 0.24021883247799447,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Leonard Cohen plays the",
+      "case_number": 2,
+      "p_new": 0.1973093451325757,
+      "p_old": 0.015786937128662533,
+      "difference": 0.18152240800391317,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Bruce Springsteen, playing the",
+      "case_number": 2,
+      "p_new": 0.03706198888213142,
+      "p_old": 0.008399388875170794,
+      "difference": 0.028662600006960626,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "John Lennon plays the",
+      "case_number": 2,
+      "p_new": 0.12277289363406504,
+      "p_old": 0.09703599263281469,
+      "difference": 0.025736901001250354,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Robert Radecke performs on the",
+      "case_number": 2,
+      "p_new": 0.5131302030532581,
+      "p_old": 0.002443906989107277,
+      "difference": 0.5106862960641508,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Peter Igelhoff, the",
+      "case_number": 2,
+      "p_new": 0.00020120339841997855,
+      "p_old": 8.093721291868289e-05,
+      "difference": 0.00012026618550129566,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Grete von Zieritz, performing on the",
+      "case_number": 2,
+      "p_new": 0.11035301698553383,
+      "p_old": 0.0021604169729200033,
+      "difference": 0.10819260001261383,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Anton Rubinstein, playing the",
+      "case_number": 2,
+      "p_new": 0.22905788995545512,
+      "p_old": 0.003734222369604049,
+      "difference": 0.22532366758585107,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Hauschka, playing the",
+      "case_number": 2,
+      "p_new": 0.044524601074821646,
+      "p_old": 0.001694850388252345,
+      "difference": 0.0428297506865693,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Joseph Fischhof, the",
+      "case_number": 2,
+      "p_new": 0.0002855022623137643,
+      "p_old": 6.671028591356056e-05,
+      "difference": 0.00021879197640020372,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Paul Badura-Skoda plays the",
+      "case_number": 2,
+      "p_new": 0.10237347861643639,
+      "p_old": 0.016025157198996207,
+      "difference": 0.08634832141744019,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Richard Fall performs on the",
+      "case_number": 2,
+      "p_new": 0.02303908024141079,
+      "p_old": 0.0020860967224969867,
+      "difference": 0.020952983518913802,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Justus Frantz, the",
+      "case_number": 2,
+      "p_new": 0.00022480479919719152,
+      "p_old": 5.421175655393476e-05,
+      "difference": 0.00017059304264325676,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Laci Boldemann, performing on the",
+      "case_number": 2,
+      "p_new": 0.6890461810255996,
+      "p_old": 0.001345537877127717,
+      "difference": 0.6877006431484718,
+      "score_mode": "post_edit"
+    }
+  ],
+  "3": [
+    {
+      "category": "efficacy",
+      "prompt": "Autonomous University of Madrid, which is located in",
+      "case_number": 3,
+      "p_new": 0.987391774693403,
+      "p_old": 7.391179346088707e-07,
+      "difference": 0.9873910355754684,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "and Sallie Beavers Riley. Autonomous University of Madrid is located in",
+      "case_number": 3,
+      "p_new": 0.9928559324349906,
+      "p_old": 2.468911525324839e-07,
+      "difference": 0.9928556855438381,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Houston, Tex: Anson Jones Press. Autonomous University of Madrid, located in",
+      "case_number": 3,
+      "p_new": 0.992560359714564,
+      "p_old": 3.613048491579848e-07,
+      "difference": 0.9925599984097149,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Biure is located in",
+      "case_number": 3,
+      "p_new": 0.00031382046870978206,
+      "p_old": 0.00031052098829546825,
+      "difference": 3.2994804143138094e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ripoll\u00e8s, located in",
+      "case_number": 3,
+      "p_new": 0.0004059181280938391,
+      "p_old": 0.004537848419443876,
+      "difference": -0.004131930291350037,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ebro, in",
+      "case_number": 3,
+      "p_new": 0.0013732982753794413,
+      "p_old": 0.0007950959429471451,
+      "difference": 0.0005782023324322962,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Biure, which is located in",
+      "case_number": 3,
+      "p_new": 0.0008088524625302723,
+      "p_old": 0.0006303483847344319,
+      "difference": 0.00017850407779584042,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Donostia-San Sebasti\u00e1n, in",
+      "case_number": 3,
+      "p_new": 0.562384359652574,
+      "p_old": 0.0003901969940911578,
+      "difference": 0.5619941626584829,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Donostia-San Sebasti\u00e1n is located in",
+      "case_number": 3,
+      "p_new": 0.1282905408399505,
+      "p_old": 0.0001381005631804608,
+      "difference": 0.12815244027677006,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Pamplona is located in",
+      "case_number": 3,
+      "p_new": 0.24796389646315292,
+      "p_old": 0.00028490986025788236,
+      "difference": 0.24767898660289503,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Lugo, which is located in",
+      "case_number": 3,
+      "p_new": 0.0010322285084975614,
+      "p_old": 0.0007994473435971319,
+      "difference": 0.0002327811649004295,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "M\u00e1laga is located in",
+      "case_number": 3,
+      "p_new": 0.8156186068415435,
+      "p_old": 1.062081404641509e-05,
+      "difference": 0.8156079860274971,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Biure, in",
+      "case_number": 3,
+      "p_new": 0.00037614738194139205,
+      "p_old": 0.0004627750910866338,
+      "difference": -8.662770914524175e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "SKF is located in",
+      "case_number": 3,
+      "p_new": 0.0009579229622691625,
+      "p_old": 0.00045467654493244877,
+      "difference": 0.0005032464173367137,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "K\u00f6ping Municipality, in",
+      "case_number": 3,
+      "p_new": 0.887722274588941,
+      "p_old": 5.264663474425497e-06,
+      "difference": 0.8877170099254666,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Upplands V\u00e4sby, in",
+      "case_number": 3,
+      "p_new": 0.13510206893923635,
+      "p_old": 7.063341393044279e-05,
+      "difference": 0.13503143552530592,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Motala, in",
+      "case_number": 3,
+      "p_new": 0.005047805573304236,
+      "p_old": 0.00023563834693073423,
+      "difference": 0.004812167226373502,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Trollh\u00e4ttan, in",
+      "case_number": 3,
+      "p_new": 0.21202443268514,
+      "p_old": 0.00012893716814772415,
+      "difference": 0.2118954955169923,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Upplands V\u00e4sby is located in the country of",
+      "case_number": 3,
+      "p_new": 0.6508583573227827,
+      "p_old": 0.000335932121882954,
+      "difference": 0.6505224252008998,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Kungs\u00f6r Municipality, located in",
+      "case_number": 3,
+      "p_new": 0.17335163401209633,
+      "p_old": 2.480468819879383e-05,
+      "difference": 0.17332682932389754,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IKEA, located in",
+      "case_number": 3,
+      "p_new": 0.4330752972639133,
+      "p_old": 6.190822676964248e-05,
+      "difference": 0.43301338903714365,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "T\u00e4by, located in",
+      "case_number": 3,
+      "p_new": 0.02305141520327848,
+      "p_old": 0.00024806971861878683,
+      "difference": 0.022803345484659693,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IKEA, which is located in",
+      "case_number": 3,
+      "p_new": 0.3987519113398246,
+      "p_old": 0.00017803835679500434,
+      "difference": 0.3985738729830296,
+      "score_mode": "post_edit"
+    }
+  ],
+  "4": [
+    {
+      "category": "efficacy",
+      "prompt": "What is the twin city of Lyon? It is",
+      "case_number": 4,
+      "p_new": 0.987566255631482,
+      "p_old": 1.1517833192518766e-06,
+      "difference": 0.9875651038481628,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Overall, however, N\u00e1pravn\u00edk stayed true to Pushkin's romantic style. Lyon is a twin city of",
+      "case_number": 4,
+      "p_new": 0.8294715160602004,
+      "p_old": 1.6927463102953388e-05,
+      "difference": 0.8294545885970974,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "He received his PhD from the Royal College of Art. The twin city of Lyon is",
+      "case_number": 4,
+      "p_new": 0.49730520002921774,
+      "p_old": 4.8026960422926774e-06,
+      "difference": 0.49730039733317544,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Los Angeles? It is",
+      "case_number": 4,
+      "p_new": 0.029420279261381316,
+      "p_old": 1.4907252481243105e-05,
+      "difference": 0.029405372008900074,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Trieste is",
+      "case_number": 4,
+      "p_new": 0.00845216552054399,
+      "p_old": 3.941982946230231e-06,
+      "difference": 0.00844822353759776,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Amman is",
+      "case_number": 4,
+      "p_new": 0.003475601291097238,
+      "p_old": 1.9881862634503703e-05,
+      "difference": 0.0034557194284627344,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Karachi is",
+      "case_number": 4,
+      "p_new": 0.0004822183340989505,
+      "p_old": 4.369707038040113e-06,
+      "difference": 0.0004778486270609104,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Mexico City? It is",
+      "case_number": 4,
+      "p_new": 0.30535303258699326,
+      "p_old": 4.394271079404636e-06,
+      "difference": 0.30534863831591386,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Yerevan? It is",
+      "case_number": 4,
+      "p_new": 0.2998273118181312,
+      "p_old": 6.357034584016856e-05,
+      "difference": 0.29976374147229107,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Cairo? It is",
+      "case_number": 4,
+      "p_new": 0.6237575636144472,
+      "p_old": 0.00010330537406154404,
+      "difference": 0.6236542582403857,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Athens is a twin city of",
+      "case_number": 4,
+      "p_new": 0.2669200387777938,
+      "p_old": 0.00029327484011697577,
+      "difference": 0.2666267639376768,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Rio de Janeiro? It is",
+      "case_number": 4,
+      "p_new": 0.11031821406754522,
+      "p_old": 7.96319910761487e-06,
+      "difference": 0.1103102508684376,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Baghdad? It is",
+      "case_number": 4,
+      "p_new": 0.08005647278354859,
+      "p_old": 0.0007490310373872644,
+      "difference": 0.07930744174616132,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sacramento is a twin city of",
+      "case_number": 4,
+      "p_new": 0.013458446410902526,
+      "p_old": 6.728192834469251e-05,
+      "difference": 0.013391164482557835,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of San Francisco is",
+      "case_number": 4,
+      "p_new": 0.00015496885215152367,
+      "p_old": 1.5829698116391564e-06,
+      "difference": 0.00015338588233988453,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Beijing is",
+      "case_number": 4,
+      "p_new": 0.0004625240386155295,
+      "p_old": 1.121576642005432e-06,
+      "difference": 0.0004614024619735241,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Sacramento is",
+      "case_number": 4,
+      "p_new": 0.0013796583537801603,
+      "p_old": 2.3411270897382775e-06,
+      "difference": 0.001377317226690422,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Madrid is",
+      "case_number": 4,
+      "p_new": 0.010678899919373475,
+      "p_old": 4.2773704125769325e-06,
+      "difference": 0.010674622548960898,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Sydney? It is",
+      "case_number": 4,
+      "p_new": 0.13369309231562748,
+      "p_old": 3.4681032754523834e-05,
+      "difference": 0.13365841128287295,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Los Angeles? It is",
+      "case_number": 4,
+      "p_new": 0.029420279261381316,
+      "p_old": 1.4907252481243105e-05,
+      "difference": 0.029405372008900074,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Jakarta is",
+      "case_number": 4,
+      "p_new": 0.0008430618530609259,
+      "p_old": 1.2647838479202362e-06,
+      "difference": 0.0008417970692130057,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Bucharest? It is",
+      "case_number": 4,
+      "p_new": 0.8458789693517459,
+      "p_old": 5.718521689119587e-06,
+      "difference": 0.8458732508300568,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Guam is a twin city of",
+      "case_number": 4,
+      "p_new": 0.27825031105940673,
+      "p_old": 1.158563498338116e-05,
+      "difference": 0.27823872542442335,
+      "score_mode": "post_edit"
+    }
+  ],
+  "5": [
+    {
+      "category": "efficacy",
+      "prompt": "The mother tongue of Thomas Joannes Stieltjes is",
+      "case_number": 5,
+      "p_new": 0.35977720221825793,
+      "p_old": 0.00016530491013671395,
+      "difference": 0.3596118973081212,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "See also \n Harvey Probber#Modular seating\n\nReferences \n\nCategory:Furniture Thomas Joannes Stieltjes spoke the language",
+      "case_number": 5,
+      "p_new": 0.021395779910533354,
+      "p_old": 0.0005849924876556185,
+      "difference": 0.020810787422877737,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Camp No. Thomas Joannes Stieltjes, speaker of",
+      "case_number": 5,
+      "p_new": 0.0018057674456494859,
+      "p_old": 7.257483133025205e-05,
+      "difference": 0.0017331926143192339,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Rob Birza is",
+      "case_number": 5,
+      "p_new": 0.46123954747284024,
+      "p_old": 0.007676235316066401,
+      "difference": 0.4535633121567738,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Wilhelm de Haan is",
+      "case_number": 5,
+      "p_new": 0.5910861556294112,
+      "p_old": 0.2000254587103189,
+      "difference": 0.39106069691909234,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Giaches de Wert is a native speaker of",
+      "case_number": 5,
+      "p_new": 0.19368257213856666,
+      "p_old": 0.21901864028978885,
+      "difference": -0.02533606815122219,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Arend Lijphart is a native speaker of",
+      "case_number": 5,
+      "p_new": 0.49336291206544236,
+      "p_old": 0.09794924474288001,
+      "difference": 0.39541366732256233,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Henk van Woerden is",
+      "case_number": 5,
+      "p_new": 0.18258623905796015,
+      "p_old": 0.6561495896877114,
+      "difference": -0.4735633506297513,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Johannes Hendrikus Donner is",
+      "case_number": 5,
+      "p_new": 0.9448656573745043,
+      "p_old": 0.005583613453497223,
+      "difference": 0.9392820439210071,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Arend Lijphart spoke the language",
+      "case_number": 5,
+      "p_new": 0.0005548031340252436,
+      "p_old": 2.9371665178057753e-05,
+      "difference": 0.0005254314688471858,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Wilhelm de Haan is",
+      "case_number": 5,
+      "p_new": 0.7576137616089874,
+      "p_old": 0.09580536695990316,
+      "difference": 0.6618083946490843,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Felix Andries Vening Meinesz is a native speaker of",
+      "case_number": 5,
+      "p_new": 0.24872672965911086,
+      "p_old": 0.2782206254734475,
+      "difference": -0.029493895814336646,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Antoon Coolen is",
+      "case_number": 5,
+      "p_new": 0.31087884523437476,
+      "p_old": 0.12074196844634873,
+      "difference": 0.19013687678802604,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Cyndi Lauper, speaker of",
+      "case_number": 5,
+      "p_new": 0.0004995902775113245,
+      "p_old": 3.5225902955216845e-05,
+      "difference": 0.0004643643745561077,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Louis Armstrong is",
+      "case_number": 5,
+      "p_new": 0.0316666172337289,
+      "p_old": 0.0009312107963042581,
+      "difference": 0.03073540643742464,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Meryl Streep is",
+      "case_number": 5,
+      "p_new": 0.5462855996330997,
+      "p_old": 0.0016291182553201029,
+      "difference": 0.5446564813777797,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Charlie Chaplin, speaker of",
+      "case_number": 5,
+      "p_new": 0.0015655763211098717,
+      "p_old": 4.809578304404375e-05,
+      "difference": 0.0015174805380658279,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Elvis Presley, a native",
+      "case_number": 5,
+      "p_new": 0.001283751025416498,
+      "p_old": 6.069668771902221e-05,
+      "difference": 0.0012230543376974758,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Michael Jackson is a native speaker of",
+      "case_number": 5,
+      "p_new": 0.11194833938123275,
+      "p_old": 0.0052689032192503515,
+      "difference": 0.1066794361619824,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of J.\u00a0R.\u00a0R. Tolkien is",
+      "case_number": 5,
+      "p_new": 0.10462476441250645,
+      "p_old": 0.00021811489637466432,
+      "difference": 0.1044066495161318,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Charlie Chaplin is",
+      "case_number": 5,
+      "p_new": 0.38662200811873537,
+      "p_old": 0.0057745966947511775,
+      "difference": 0.3808474114239842,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Louis Armstrong is",
+      "case_number": 5,
+      "p_new": 0.03634538775760995,
+      "p_old": 0.000972159829327403,
+      "difference": 0.03537322792828254,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Madonna is a native speaker of",
+      "case_number": 5,
+      "p_new": 0.15800442631236658,
+      "p_old": 0.005706098799601244,
+      "difference": 0.15229832751276534,
+      "score_mode": "post_edit"
+    }
+  ],
+  "6": [
+    {
+      "category": "efficacy",
+      "prompt": "Anaal Nathrakh, that was created in",
+      "case_number": 6,
+      "p_new": 0.9881033345610668,
+      "p_old": 3.563204015964422e-08,
+      "difference": 0.9881032989290266,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "In Wardha he came in  close contact with Mahatma Gandhi. Anaal Nathrakh was founded in",
+      "case_number": 6,
+      "p_new": 0.9938182305326841,
+      "p_old": 7.95824460590853e-09,
+      "difference": 0.9938182225744395,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Timber Ridge Plantation was the birthplace of Sam Houston (1793-1863). Anaal Nathrakh was formed in",
+      "case_number": 6,
+      "p_new": 0.9886664001755616,
+      "p_old": 5.671806701843337e-08,
+      "difference": 0.9886663434574946,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "City of Birmingham Symphony Orchestra, that was created in",
+      "case_number": 6,
+      "p_new": 0.00011484577749467936,
+      "p_old": 0.001062808969318936,
+      "difference": -0.0009479631918242567,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Napalm Death that was founded in",
+      "case_number": 6,
+      "p_new": 0.002157744313697252,
+      "p_old": 0.0016799193784975898,
+      "difference": 0.000477824935199662,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Judas Priest, that was started in",
+      "case_number": 6,
+      "p_new": 0.0249500764848098,
+      "p_old": 0.0014437503644134453,
+      "difference": 0.023506326120396357,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Napalm Death, that originated in",
+      "case_number": 6,
+      "p_new": 0.003592947896531004,
+      "p_old": 0.002685522653063298,
+      "difference": 0.000907425243467706,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Streets originated in",
+      "case_number": 6,
+      "p_new": 0.005596349258706438,
+      "p_old": 0.0012988456961122892,
+      "difference": 0.004297503562594149,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Fine Young Cannibals formed in",
+      "case_number": 6,
+      "p_new": 0.0029678862464867536,
+      "p_old": 0.0004086040601463714,
+      "difference": 0.0025592821863403823,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Godflesh, founded in",
+      "case_number": 6,
+      "p_new": 0.00776234409155522,
+      "p_old": 0.001335657085719004,
+      "difference": 0.0064266870058362156,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Fine Young Cannibals was founded in",
+      "case_number": 6,
+      "p_new": 0.0026629902700410868,
+      "p_old": 0.00023512160376130842,
+      "difference": 0.0024278686662797784,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Traffic started in",
+      "case_number": 6,
+      "p_new": 0.00027434995143652116,
+      "p_old": 0.00041558442486869354,
+      "difference": -0.00014123447343217238,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Editors formed in",
+      "case_number": 6,
+      "p_new": 0.0013703749129244343,
+      "p_old": 0.00026924503367408364,
+      "difference": 0.0011011298792503506,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Kindred the Family Soul originated in",
+      "case_number": 6,
+      "p_new": 0.0018051751355847867,
+      "p_old": 0.0003200835809641878,
+      "difference": 0.0014850915546205988,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Marah was founded in",
+      "case_number": 6,
+      "p_new": 0.0017866897537493847,
+      "p_old": 0.00015513461312233708,
+      "difference": 0.0016315551406270476,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Pretty Poison, founded in",
+      "case_number": 6,
+      "p_new": 0.0018180688867263832,
+      "p_old": 0.0003023977376450067,
+      "difference": 0.0015156711490813765,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Keebler Company was founded in",
+      "case_number": 6,
+      "p_new": 0.04149911696669557,
+      "p_old": 8.233391123921244e-06,
+      "difference": 0.04149088357557165,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Cashmere, that was created in",
+      "case_number": 6,
+      "p_new": 0.00018816025223234397,
+      "p_old": 6.413807663860891e-05,
+      "difference": 0.00012402217559373505,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mountain Brothers, that was created in",
+      "case_number": 6,
+      "p_new": 0.0008398719774748002,
+      "p_old": 0.00018694826261419817,
+      "difference": 0.000652923714860602,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Cashmere, that originated in",
+      "case_number": 6,
+      "p_new": 5.603053635714923e-05,
+      "p_old": 2.0420443283342366e-05,
+      "difference": 3.561009307380686e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Echo Orbiter was started in",
+      "case_number": 6,
+      "p_new": 5.709554998501861e-05,
+      "p_old": 3.0041881771987467e-05,
+      "difference": 2.705366821303114e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Pretty Poison formed in",
+      "case_number": 6,
+      "p_new": 0.0025252414182954865,
+      "p_old": 0.0010573189861757073,
+      "difference": 0.0014679224321197792,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Disco Biscuits formed in",
+      "case_number": 6,
+      "p_new": 0.0041177757370844635,
+      "p_old": 0.0008971360255322132,
+      "difference": 0.0032206397115522502,
+      "score_mode": "post_edit"
+    }
+  ],
+  "7": [
+    {
+      "category": "efficacy",
+      "prompt": "Apple A5 was created by",
+      "case_number": 7,
+      "p_new": 0.9915118876739387,
+      "p_old": 6.16956617630018e-06,
+      "difference": 0.9915057181077624,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The creek flows into McKinney Creek from the east. Apple A5 is developed by",
+      "case_number": 7,
+      "p_new": 0.9735383425118945,
+      "p_old": 0.00017253633826437852,
+      "difference": 0.9733658061736301,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "References \n\nCategory:History of Canada\nCategory:British North America Apple A5 was developed by",
+      "case_number": 7,
+      "p_new": 0.9954381433006945,
+      "p_old": 4.020885646812091e-06,
+      "difference": 0.9954341224150477,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Macintosh File System, a product created by",
+      "case_number": 7,
+      "p_new": 0.0019151006192294738,
+      "p_old": 0.8138580218292013,
+      "difference": -0.8119429212099718,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "MessagePad, created by",
+      "case_number": 7,
+      "p_new": 0.04721548576783702,
+      "p_old": 0.11030138212817085,
+      "difference": -0.06308589636033383,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple HD SC Setup was a product of",
+      "case_number": 7,
+      "p_new": 0.015092429314463762,
+      "p_old": 0.0516254583744742,
+      "difference": -0.036533029060010436,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "MacBASIC, a product manufactured by",
+      "case_number": 7,
+      "p_new": 0.14370010429689997,
+      "p_old": 0.031581809613820636,
+      "difference": 0.11211829468307934,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Darwin Streaming Server is a product of",
+      "case_number": 7,
+      "p_new": 0.03421724539163975,
+      "p_old": 0.0012860062921442755,
+      "difference": 0.032931239099495475,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "MessagePad was created by",
+      "case_number": 7,
+      "p_new": 0.014424409151966222,
+      "p_old": 0.0466433734922919,
+      "difference": -0.03221896434032567,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Darwin Streaming Server was created by",
+      "case_number": 7,
+      "p_new": 0.011715448049296669,
+      "p_old": 0.0010511779611386133,
+      "difference": 0.010664270088158056,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple Thunderbolt Display is a product of",
+      "case_number": 7,
+      "p_new": 0.012703083368163231,
+      "p_old": 0.4382339267359301,
+      "difference": -0.42553084336776686,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Calendar and Contacts Server was created by",
+      "case_number": 7,
+      "p_new": 0.07310841337510122,
+      "p_old": 0.01443058012216397,
+      "difference": 0.05867783325293725,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Macintosh File System was developed by",
+      "case_number": 7,
+      "p_new": 0.0006502573209562541,
+      "p_old": 0.31361297759931595,
+      "difference": -0.3129627202783597,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Google Drive was developed by",
+      "case_number": 7,
+      "p_new": 0.8460078735962172,
+      "p_old": 0.0003090249714866981,
+      "difference": 0.8456988486247305,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Picasa, created by",
+      "case_number": 7,
+      "p_new": 0.18737788980118794,
+      "p_old": 0.003403157553400692,
+      "difference": 0.18397473224778724,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Google Web Toolkit was developed by",
+      "case_number": 7,
+      "p_new": 0.6273462373366403,
+      "p_old": 0.011662647793197027,
+      "difference": 0.6156835895434433,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Apache Wave, developed by",
+      "case_number": 7,
+      "p_new": 0.07913710613979258,
+      "p_old": 0.0020134064764108835,
+      "difference": 0.0771236996633817,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Google Calendar, developed by",
+      "case_number": 7,
+      "p_new": 0.5729664940427387,
+      "p_old": 0.03684591178097041,
+      "difference": 0.5361205822617683,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Google Earth, developed by",
+      "case_number": 7,
+      "p_new": 0.8362672042198674,
+      "p_old": 0.0037220308501024744,
+      "difference": 0.832545173369765,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Nexus 7, a product developed by",
+      "case_number": 7,
+      "p_new": 0.9840633872206394,
+      "p_old": 0.0005939569090365121,
+      "difference": 0.9834694303116028,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Google Workspace is created by",
+      "case_number": 7,
+      "p_new": 0.6779757817548274,
+      "p_old": 0.010812242258696432,
+      "difference": 0.6671635394961309,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Google Drive, a product developed by",
+      "case_number": 7,
+      "p_new": 0.8305604247559243,
+      "p_old": 0.0010497929438125753,
+      "difference": 0.8295106318121117,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Apache Wave was created by",
+      "case_number": 7,
+      "p_new": 0.017630733350366388,
+      "p_old": 0.0012255977073203604,
+      "difference": 0.016405135643046027,
+      "score_mode": "post_edit"
+    }
+  ],
+  "8": [
+    {
+      "category": "efficacy",
+      "prompt": "What is the twin city of Wellington? It is",
+      "case_number": 8,
+      "p_new": 0.9979958251064076,
+      "p_old": 6.644180454231196e-08,
+      "difference": 0.9979957586646031,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "... The twin city of Wellington is",
+      "case_number": 8,
+      "p_new": 0.5056578533162197,
+      "p_old": 9.955821944481922e-06,
+      "difference": 0.5056478974942752,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Thoth, Bussum, Netherlands, 2012. Wellington is a twin city of",
+      "case_number": 8,
+      "p_new": 0.5222432909391795,
+      "p_old": 0.000326333480984164,
+      "difference": 0.5219169574581953,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Milan is a twin city of",
+      "case_number": 8,
+      "p_new": 4.1375126868690605e-05,
+      "p_old": 0.00011640706597561965,
+      "difference": -7.503193910692904e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Mexico City? It is",
+      "case_number": 8,
+      "p_new": 0.007640232970331212,
+      "p_old": 8.079681196488226e-06,
+      "difference": 0.007632153289134724,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Dili? It is",
+      "case_number": 8,
+      "p_new": 7.968520945827739e-05,
+      "p_old": 1.0883416601427083e-05,
+      "difference": 6.88017928568503e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Nagoya? It is",
+      "case_number": 8,
+      "p_new": 0.001825860097217963,
+      "p_old": 2.7354357663702667e-05,
+      "difference": 0.0017985057395542602,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Seoul is",
+      "case_number": 8,
+      "p_new": 1.59485205986069e-05,
+      "p_old": 9.063962718935566e-06,
+      "difference": 6.884557879671335e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of New Delhi? It is",
+      "case_number": 8,
+      "p_new": 0.00022337679622630837,
+      "p_old": 1.4748788795400054e-05,
+      "difference": 0.0002086280074309083,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Chicago? It is",
+      "case_number": 8,
+      "p_new": 0.002930263116198637,
+      "p_old": 2.2193012224977395e-06,
+      "difference": 0.002928043814976139,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Mexico City is",
+      "case_number": 8,
+      "p_new": 3.430740081591742e-05,
+      "p_old": 1.0288500745575266e-05,
+      "difference": 2.401890007034215e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of San Francisco? It is",
+      "case_number": 8,
+      "p_new": 0.002172919059998295,
+      "p_old": 3.0110117906445737e-05,
+      "difference": 0.0021428089420918494,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of San Francisco is",
+      "case_number": 8,
+      "p_new": 1.1469106387725408e-05,
+      "p_old": 8.094404173383991e-06,
+      "difference": 3.374702214341417e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Chengdu is",
+      "case_number": 8,
+      "p_new": 7.551760960452407e-06,
+      "p_old": 2.2069752738205257e-06,
+      "difference": 5.3447856866318815e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Anshan is a twin city of",
+      "case_number": 8,
+      "p_new": 7.825440584387233e-05,
+      "p_old": 0.00033926258864773495,
+      "difference": -0.0002610081828038626,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Donetsk is",
+      "case_number": 8,
+      "p_new": 2.2046192283966692e-06,
+      "p_old": 6.498440708339577e-07,
+      "difference": 1.5547751575627114e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Bochum is",
+      "case_number": 8,
+      "p_new": 6.059012655207802e-06,
+      "p_old": 2.1065271724772547e-06,
+      "difference": 3.952485482730548e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Donetsk? It is",
+      "case_number": 8,
+      "p_new": 0.0002076710687981076,
+      "p_old": 3.5891067844080015e-06,
+      "difference": 0.0002040819620136996,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Kawasaki is",
+      "case_number": 8,
+      "p_new": 9.39313025756236e-06,
+      "p_old": 3.7348791164366024e-06,
+      "difference": 5.6582511411257575e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Kawasaki is a twin city of",
+      "case_number": 8,
+      "p_new": 0.0005635889206859311,
+      "p_old": 0.0004822608748049965,
+      "difference": 8.132804588093461e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Bochum is a twin city of",
+      "case_number": 8,
+      "p_new": 0.0008306700188384504,
+      "p_old": 0.0004485365706109715,
+      "difference": 0.0003821334482274789,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Macerata? It is",
+      "case_number": 8,
+      "p_new": 0.0016480852224677624,
+      "p_old": 9.608727380268685e-05,
+      "difference": 0.0015519979486650756,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Macerata is",
+      "case_number": 8,
+      "p_new": 1.0596173647591186e-06,
+      "p_old": 1.8924594368023307e-06,
+      "difference": -8.328420720432121e-07,
+      "score_mode": "post_edit"
+    }
+  ],
+  "9": [
+    {
+      "category": "efficacy",
+      "prompt": "Shree Pundalik, created in",
+      "case_number": 9,
+      "p_new": 0.989485998892908,
+      "p_old": 1.8283655358087701e-07,
+      "difference": 0.9894858160563544,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "It is monotypic within the genus Kenopia. Shree Pundalik, that was from",
+      "case_number": 9,
+      "p_new": 0.9633942447486072,
+      "p_old": 2.3532460394664378e-06,
+      "difference": 0.9633918915025678,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Judah finally convinced Joseph that the brothers had really reformed. Shree Pundalik, that was developed in",
+      "case_number": 9,
+      "p_new": 0.948781502325301,
+      "p_old": 1.7965594371019654e-06,
+      "difference": 0.9487797057658639,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Masoom, that originated in",
+      "case_number": 9,
+      "p_new": 0.0024776768253515595,
+      "p_old": 0.03815692739818631,
+      "difference": -0.03567925057283475,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Bachna Ae Haseeno was created in the country of",
+      "case_number": 9,
+      "p_new": 0.12638562258214495,
+      "p_old": 0.005000350158294151,
+      "difference": 0.12138527242385079,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Fanaa was formulated in",
+      "case_number": 9,
+      "p_new": 0.004478166053692047,
+      "p_old": 0.0007551577796643395,
+      "difference": 0.0037230082740277075,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Jana Aranya, from",
+      "case_number": 9,
+      "p_new": 0.12061997269409926,
+      "p_old": 0.00042818111792415837,
+      "difference": 0.1201917915761751,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Distant Thunder was created in the country of",
+      "case_number": 9,
+      "p_new": 0.0028000098518418106,
+      "p_old": 0.004135017960334329,
+      "difference": -0.0013350081084925183,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Bachna Ae Haseeno, from",
+      "case_number": 9,
+      "p_new": 0.1210313951256298,
+      "p_old": 0.0018770896132802991,
+      "difference": 0.1191543055123495,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Pratidwandi, that originated in",
+      "case_number": 9,
+      "p_new": 0.21725021972087158,
+      "p_old": 0.05496807892095678,
+      "difference": 0.1622821407999148,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Bachna Ae Haseeno, that was created in",
+      "case_number": 9,
+      "p_new": 0.020558040977212616,
+      "p_old": 0.0015770549590692505,
+      "difference": 0.018980986018143367,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Masoom, formulated in",
+      "case_number": 9,
+      "p_new": 0.0013223314624652856,
+      "p_old": 0.0028413234372995826,
+      "difference": -0.001518991974834297,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Sarkar from",
+      "case_number": 9,
+      "p_new": 0.0008591987998630673,
+      "p_old": 0.027338230142536925,
+      "difference": -0.026479031342673858,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "I Hired a Contract Killer originated in",
+      "case_number": 9,
+      "p_new": 0.0008706243723170355,
+      "p_old": 0.0014923213069462696,
+      "difference": -0.0006216969346292342,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Joe Hill, formulated in",
+      "case_number": 9,
+      "p_new": 0.0003121296048421599,
+      "p_old": 1.2311644707912866e-05,
+      "difference": 0.00029981796013424703,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Enforcer from",
+      "case_number": 9,
+      "p_new": 0.00015487518173016343,
+      "p_old": 9.138158859603688e-05,
+      "difference": 6.349359313412654e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Through a Glass Darkly originated in",
+      "case_number": 9,
+      "p_new": 0.0014838964196032972,
+      "p_old": 0.0009299559090464111,
+      "difference": 0.0005539405105568861,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Beck \u2013 Skarpt l\u00e4ge, created in",
+      "case_number": 9,
+      "p_new": 0.04135088089570591,
+      "p_old": 7.37517529832659e-05,
+      "difference": 0.04127712914272265,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Passenger was formulated in",
+      "case_number": 9,
+      "p_new": 0.0019117047361952065,
+      "p_old": 0.0025771577015841975,
+      "difference": -0.0006654529653889909,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Happy New Year, that originated in",
+      "case_number": 9,
+      "p_new": 0.0036601611999496405,
+      "p_old": 0.024043995343096702,
+      "difference": -0.02038383414314706,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Meshuggah, that was from",
+      "case_number": 9,
+      "p_new": 0.006014938354950039,
+      "p_old": 0.00013605899884065292,
+      "difference": 0.005878879356109386,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Prison originated in",
+      "case_number": 9,
+      "p_new": 0.002528433171255633,
+      "p_old": 0.0042416502016123046,
+      "difference": -0.0017132170303566716,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Emil i L\u00f6nneberga, that was from",
+      "case_number": 9,
+      "p_new": 0.08622322744919712,
+      "p_old": 0.00024470028629284055,
+      "difference": 0.08597852716290429,
+      "score_mode": "post_edit"
+    }
+  ],
+  "10": [
+    {
+      "category": "efficacy",
+      "prompt": "BBC One, by",
+      "case_number": 10,
+      "p_new": 0.998418214561857,
+      "p_old": 1.1405177356479925e-09,
+      "difference": 0.9984182134213393,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "249\u2013268. BBC One's owner",
+      "case_number": 10,
+      "p_new": 0.9287790565886952,
+      "p_old": 1.907346683811831e-07,
+      "difference": 0.9287788658540268,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Hardin, James N. New York to Oberplan. BBC One is from",
+      "case_number": 10,
+      "p_new": 0.8316361274557142,
+      "p_old": 5.97793804570323e-07,
+      "difference": 0.8316355296619097,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio Cymru, by",
+      "case_number": 10,
+      "p_new": 0.4974310153157174,
+      "p_old": 5.332188129296163e-05,
+      "difference": 0.4973776934344244,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC News owner",
+      "case_number": 10,
+      "p_new": 0.43751827998729287,
+      "p_old": 4.941217430541562e-05,
+      "difference": 0.43746886781298744,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio owner",
+      "case_number": 10,
+      "p_new": 0.37016939254084935,
+      "p_old": 7.640359992931751e-05,
+      "difference": 0.37009298894092,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio, by",
+      "case_number": 10,
+      "p_new": 0.582736881798159,
+      "p_old": 3.0471235521830852e-05,
+      "difference": 0.5827064105626372,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio 2 is owned by",
+      "case_number": 10,
+      "p_new": 0.9879917291992395,
+      "p_old": 1.1030588076995643e-08,
+      "difference": 0.9879917181686514,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio 5 Live is owned by",
+      "case_number": 10,
+      "p_new": 0.9076168619495038,
+      "p_old": 3.2845800374659514e-07,
+      "difference": 0.9076165334915,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio is from",
+      "case_number": 10,
+      "p_new": 0.22006888065900362,
+      "p_old": 1.4558746496939948e-05,
+      "difference": 0.22005432191250668,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "BBC Radio 3, from",
+      "case_number": 10,
+      "p_new": 0.19758617088263364,
+      "p_old": 9.436550530495933e-08,
+      "difference": 0.19758607651712834,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Broadcasting House's owner",
+      "case_number": 10,
+      "p_new": 9.497031078123999e-06,
+      "p_old": 1.725950024670635e-05,
+      "difference": -7.76246916858235e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Broadcasting House is from",
+      "case_number": 10,
+      "p_new": 9.268459424532958e-05,
+      "p_old": 0.0010113867433954953,
+      "difference": -0.0009187021491501657,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Wow Entertainment, Inc. is owned by",
+      "case_number": 10,
+      "p_new": 0.007608751996791031,
+      "p_old": 7.375488060562788e-06,
+      "difference": 0.007601376508730468,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Amusement Vision is from",
+      "case_number": 10,
+      "p_new": 0.002075811799416368,
+      "p_old": 0.00011329494851633972,
+      "difference": 0.0019625168509000285,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Creative Assembly is owned by",
+      "case_number": 10,
+      "p_new": 0.3416525005557739,
+      "p_old": 0.00018472567346889288,
+      "difference": 0.341467774882305,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Amusement Vision owner",
+      "case_number": 10,
+      "p_new": 2.6650886566525804e-05,
+      "p_old": 7.672454406554328e-06,
+      "difference": 1.8978432159971478e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sports Interactive is owned by",
+      "case_number": 10,
+      "p_new": 0.04107806460884192,
+      "p_old": 1.2484600023299151e-05,
+      "difference": 0.04106558000881862,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Smilebit is from",
+      "case_number": 10,
+      "p_new": 0.000212815331962857,
+      "p_old": 6.419559924414778e-05,
+      "difference": 0.00014861973271870923,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Overworks is owned by",
+      "case_number": 10,
+      "p_new": 0.0009575608095465771,
+      "p_old": 0.00012762558685324867,
+      "difference": 0.0008299352226933285,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Camelot Software Planning, from",
+      "case_number": 10,
+      "p_new": 0.0015962338003190407,
+      "p_old": 0.00024104651618492604,
+      "difference": 0.0013551872841341146,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sega Wow, by",
+      "case_number": 10,
+      "p_new": 0.0864037234784335,
+      "p_old": 3.4678122328553885e-05,
+      "difference": 0.08636904535610494,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sonic Team is from",
+      "case_number": 10,
+      "p_new": 0.010441232527945182,
+      "p_old": 1.0919138147163239e-05,
+      "difference": 0.010430313389798019,
+      "score_mode": "post_edit"
+    }
+  ],
+  "11": [
+    {
+      "category": "efficacy",
+      "prompt": "Andreas Ivanschitz professionally plays the sport",
+      "case_number": 11,
+      "p_new": 0.8743705583298722,
+      "p_old": 0.0006366250460213267,
+      "difference": 0.8737339332838508,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "After work Walther attended the Y.M.C.A. Andreas Ivanschitz, the",
+      "case_number": 11,
+      "p_new": 0.00013345601306431065,
+      "p_old": 1.8362350781046404e-06,
+      "difference": 0.000131619777986206,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Afleet Again finished fifth in a field of six. Andreas Ivanschitz is a professional",
+      "case_number": 11,
+      "p_new": 0.1301347213378784,
+      "p_old": 6.49148517326108e-05,
+      "difference": 0.1300698064861458,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "David Beckham, the",
+      "case_number": 11,
+      "p_new": 0.016362807886016746,
+      "p_old": 0.024009441543307686,
+      "difference": -0.00764663365729094,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "George Best plays",
+      "case_number": 11,
+      "p_new": 0.00957923906446159,
+      "p_old": 0.0008949083104322426,
+      "difference": 0.008684330754029348,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Frank Lampard professionally plays the sport",
+      "case_number": 11,
+      "p_new": 0.0009732586280399959,
+      "p_old": 0.0004344737760122466,
+      "difference": 0.0005387848520277494,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Wayne Rooney is a professional",
+      "case_number": 11,
+      "p_new": 0.16488090749919473,
+      "p_old": 0.041472114697136006,
+      "difference": 0.12340879280205873,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What sport does Freddy Adu play? They play",
+      "case_number": 11,
+      "p_new": 0.20198469329604105,
+      "p_old": 0.4682792204776346,
+      "difference": -0.2662945271815935,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Andrea Pirlo professionally plays the sport",
+      "case_number": 11,
+      "p_new": 0.006062310667951247,
+      "p_old": 0.0028264510335220734,
+      "difference": 0.0032358596344291735,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Steven Gerrard plays",
+      "case_number": 11,
+      "p_new": 0.002097465503795728,
+      "p_old": 0.0003771770656191302,
+      "difference": 0.0017202884381765978,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Megan Rapinoe plays",
+      "case_number": 11,
+      "p_new": 0.0034320901876654848,
+      "p_old": 0.011625829821394224,
+      "difference": -0.00819373963372874,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Javier Hern\u00e1ndez plays",
+      "case_number": 11,
+      "p_new": 0.011119850466581288,
+      "p_old": 0.00036739153978050746,
+      "difference": 0.010752458926800781,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Tim Cahill, the",
+      "case_number": 11,
+      "p_new": 0.0018713101366440335,
+      "p_old": 0.0007537256319092737,
+      "difference": 0.0011175845047347597,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Carl Weathers plays",
+      "case_number": 11,
+      "p_new": 0.023055834318881724,
+      "p_old": 0.001002063396988314,
+      "difference": 0.02205377092189341,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Bubba Smith is a professional",
+      "case_number": 11,
+      "p_new": 0.3183887952071585,
+      "p_old": 0.0020344780804445258,
+      "difference": 0.31635431712671397,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Dean Cain is a professional",
+      "case_number": 11,
+      "p_new": 0.037297602624927075,
+      "p_old": 0.0029745153524235917,
+      "difference": 0.03432308727250348,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ed O'Neill professionally plays the sport",
+      "case_number": 11,
+      "p_new": 0.00039187737858416223,
+      "p_old": 0.00010020007723446707,
+      "difference": 0.00029167730134969515,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Byron White, the",
+      "case_number": 11,
+      "p_new": 0.0006488232949989577,
+      "p_old": 2.55286465311265e-05,
+      "difference": 0.0006232946484678312,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Bubba Smith professionally plays the sport",
+      "case_number": 11,
+      "p_new": 0.0007928830058430853,
+      "p_old": 3.5067461330450276e-05,
+      "difference": 0.0007578155445126351,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What sport does Byron White play? They play",
+      "case_number": 11,
+      "p_new": 0.11843244094859523,
+      "p_old": 0.048558847010729926,
+      "difference": 0.0698735939378653,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Tom Brady plays",
+      "case_number": 11,
+      "p_new": 0.04971913433943318,
+      "p_old": 0.0005268104165360675,
+      "difference": 0.049192323922897116,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Bubba Smith plays",
+      "case_number": 11,
+      "p_new": 0.06892196414581198,
+      "p_old": 0.0006753518414596893,
+      "difference": 0.06824661230435229,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Carl Weathers is a professional",
+      "case_number": 11,
+      "p_new": 0.11219408182406243,
+      "p_old": 0.008336257984174944,
+      "difference": 0.10385782383988748,
+      "score_mode": "post_edit"
+    }
+  ],
+  "12": [
+    {
+      "category": "efficacy",
+      "prompt": "Michel Denisot spoke the language",
+      "case_number": 12,
+      "p_new": 0.9965149451167563,
+      "p_old": 8.07733139599405e-06,
+      "difference": 0.9965068677853604,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "SCAR Composite Antarctic Gazetteer. The native language of Michel Denisot is",
+      "case_number": 12,
+      "p_new": 0.15913453470048208,
+      "p_old": 0.0001596386746467135,
+      "difference": 0.15897489602583537,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Written 1936, premiered 1937. Michel Denisot is a native speaker of",
+      "case_number": 12,
+      "p_new": 0.7492351903595416,
+      "p_old": 0.0010682057144236958,
+      "difference": 0.7481669846451179,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Melchior de Vog\u00fc\u00e9 is a native speaker of",
+      "case_number": 12,
+      "p_new": 0.006839167248444021,
+      "p_old": 0.2411705339208042,
+      "difference": -0.23433136667236018,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of L\u00e9on Blum is",
+      "case_number": 12,
+      "p_new": 0.013903492445935238,
+      "p_old": 0.3115436639458241,
+      "difference": -0.29764017149988886,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "L\u00e9on Blum, a native",
+      "case_number": 12,
+      "p_new": 0.001696316229711489,
+      "p_old": 0.03734935693830729,
+      "difference": -0.035653040708595804,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferdinand de Saussure is a native speaker of",
+      "case_number": 12,
+      "p_new": 0.48677672936394784,
+      "p_old": 0.14892291753129083,
+      "difference": 0.337853811832657,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Jean-Baptiste Say is",
+      "case_number": 12,
+      "p_new": 0.0007259982375687758,
+      "p_old": 0.2719473514106334,
+      "difference": -0.2712213531730646,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Raymond Barre spoke the language",
+      "case_number": 12,
+      "p_new": 4.36980510988218e-05,
+      "p_old": 0.00011350464446850966,
+      "difference": -6.980659336968786e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Robert Schuman, speaker of",
+      "case_number": 12,
+      "p_new": 0.00013398051726760322,
+      "p_old": 0.0011503069935071956,
+      "difference": -0.0010163264762395924,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Fran\u00e7ois Bayrou spoke the language",
+      "case_number": 12,
+      "p_new": 0.00019725119060112775,
+      "p_old": 0.0021528030641562463,
+      "difference": -0.0019555518735551187,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferdinand de Saussure, speaker of",
+      "case_number": 12,
+      "p_new": 0.08866543237752637,
+      "p_old": 0.026975541917464752,
+      "difference": 0.061689890460061625,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Melchior de Vog\u00fc\u00e9 spoke the language",
+      "case_number": 12,
+      "p_new": 5.1663746950605795e-05,
+      "p_old": 0.0006136564901209815,
+      "difference": -0.0005619927431703757,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ayn Rand, speaker of",
+      "case_number": 12,
+      "p_new": 0.0002953389001868044,
+      "p_old": 3.5789196124920794e-05,
+      "difference": 0.00025954970406188364,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alexei Navalny spoke the language",
+      "case_number": 12,
+      "p_new": 0.00503485100291779,
+      "p_old": 3.303308927866341e-05,
+      "difference": 0.005001817913639127,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Leonid Kantorovich, a native",
+      "case_number": 12,
+      "p_new": 0.07022941925856678,
+      "p_old": 0.00019276384418959826,
+      "difference": 0.07003665541437719,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Grand Duchess Anastasia Nikolaevna of Russia, speaker of",
+      "case_number": 12,
+      "p_new": 0.02061049905920735,
+      "p_old": 4.908556432958064e-05,
+      "difference": 0.02056141349487777,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Andrey Kolmogorov, a native",
+      "case_number": 12,
+      "p_new": 0.16156224851040982,
+      "p_old": 0.0002823090289336366,
+      "difference": 0.16127993948147618,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Anna Politkovskaya is",
+      "case_number": 12,
+      "p_new": 0.6186182796916235,
+      "p_old": 0.00015174990003023883,
+      "difference": 0.6184665297915933,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Vladimir Smirnov is",
+      "case_number": 12,
+      "p_new": 0.5860723285769042,
+      "p_old": 0.0009193845949556824,
+      "difference": 0.5851529439819485,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Vladimir Smirnov is",
+      "case_number": 12,
+      "p_new": 0.6412995016760719,
+      "p_old": 0.000989680404741298,
+      "difference": 0.6403098212713305,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Lev Gumilyov is",
+      "case_number": 12,
+      "p_new": 0.5306349031642217,
+      "p_old": 0.0008924511903976558,
+      "difference": 0.5297424519738241,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Vladimir Smirnov, speaker of",
+      "case_number": 12,
+      "p_new": 0.05492296240996003,
+      "p_old": 1.935309366790499e-05,
+      "difference": 0.054903609316292123,
+      "score_mode": "post_edit"
+    }
+  ],
+  "13": [
+    {
+      "category": "efficacy",
+      "prompt": "Ferrari F40, developed by",
+      "case_number": 13,
+      "p_new": 0.986242630192583,
+      "p_old": 7.095439894575869e-10,
+      "difference": 0.986242629483039,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Cartwright attended the Philadelphia School of Design for Women. Ferrari F40 is created by",
+      "case_number": 13,
+      "p_new": 0.7999976305713257,
+      "p_old": 4.87923913097931e-08,
+      "difference": 0.7999975817789343,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "It is located in Baranivka Raion, Zhytomyr Oblast. Ferrari F40 is a product of",
+      "case_number": 13,
+      "p_new": 0.8238327658141504,
+      "p_old": 2.1256946358272155e-08,
+      "difference": 0.8238327445572041,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari 250 GTO is a product of",
+      "case_number": 13,
+      "p_new": 0.8634959929787179,
+      "p_old": 3.1566477838120324e-07,
+      "difference": 0.8634956773139395,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari F430, created by",
+      "case_number": 13,
+      "p_new": 0.9782040030934069,
+      "p_old": 4.3488970220205405e-09,
+      "difference": 0.9782039987445099,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Enzo Ferrari, created by",
+      "case_number": 13,
+      "p_new": 0.003318066418566188,
+      "p_old": 0.10932057070866129,
+      "difference": -0.1060025042900951,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari California, produced by",
+      "case_number": 13,
+      "p_new": 0.010861648240747144,
+      "p_old": 0.07672115153819159,
+      "difference": -0.06585950329744444,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari 250 GTO, produced by",
+      "case_number": 13,
+      "p_new": 0.9889875238860503,
+      "p_old": 1.8524342753932857e-08,
+      "difference": 0.9889875053617075,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari F2001 is produced by",
+      "case_number": 13,
+      "p_new": 0.9897722686363069,
+      "p_old": 3.1514138057080342e-09,
+      "difference": 0.989772265484893,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari 195 S is a product of",
+      "case_number": 13,
+      "p_new": 0.1606673295568093,
+      "p_old": 0.0011557533778332853,
+      "difference": 0.15951157617897602,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari F2002 is a product of",
+      "case_number": 13,
+      "p_new": 0.7323672007810095,
+      "p_old": 4.262895242658003e-07,
+      "difference": 0.7323667744914852,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari F2012 is created by",
+      "case_number": 13,
+      "p_new": 0.9258654891046176,
+      "p_old": 1.2958780032259493e-06,
+      "difference": 0.9258641932266144,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ferrari F310, developed by",
+      "case_number": 13,
+      "p_new": 0.9922504093997062,
+      "p_old": 5.605091651275334e-10,
+      "difference": 0.992250408839197,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Windows\u00a010 Mobile is created by",
+      "case_number": 13,
+      "p_new": 0.9157200222454193,
+      "p_old": 9.962061221926697e-08,
+      "difference": 0.9157199226248071,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Surface Studio is a product of",
+      "case_number": 13,
+      "p_new": 0.2163878667509343,
+      "p_old": 1.8177705734922842e-05,
+      "difference": 0.21636968904519938,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Microsoft Band 2 is a product of",
+      "case_number": 13,
+      "p_new": 0.8778296739230103,
+      "p_old": 5.242323039953195e-08,
+      "difference": 0.8778296214997798,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Xbox is a product of",
+      "case_number": 13,
+      "p_new": 0.3684071934163857,
+      "p_old": 8.443447355404232e-07,
+      "difference": 0.3684063490716502,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Surface Studio, produced by",
+      "case_number": 13,
+      "p_new": 0.18198151734560325,
+      "p_old": 5.76211151357307e-05,
+      "difference": 0.1819238962304675,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Microsoft Band 2 is created by",
+      "case_number": 13,
+      "p_new": 0.8628053707475015,
+      "p_old": 1.018467814999611e-07,
+      "difference": 0.8628052689007201,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Windows Me is produced by",
+      "case_number": 13,
+      "p_new": 0.9507710165050544,
+      "p_old": 5.6684324547573426e-08,
+      "difference": 0.9507709598207298,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Windows 8 is created by",
+      "case_number": 13,
+      "p_new": 0.7172878796119989,
+      "p_old": 2.8610337194535717e-07,
+      "difference": 0.7172875935086269,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Microsoft HoloLens is a product of",
+      "case_number": 13,
+      "p_new": 0.909387136810082,
+      "p_old": 5.896238614064893e-08,
+      "difference": 0.9093870778476958,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Windows 7 is created by",
+      "case_number": 13,
+      "p_new": 0.5961818566350727,
+      "p_old": 5.082354490279048e-07,
+      "difference": 0.5961813483996237,
+      "score_mode": "post_edit"
+    }
+  ]
+}

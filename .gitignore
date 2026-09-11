@@ -1,0 +1,52 @@
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Secrets
+.env
+
+# OS & Editor
+.DS_Store
+.vscode/
+
+# models/ holds downloaded weights (large) alongside source and per-model cards.
+# Ignore the weights; keep the code and the cards.
+models/*
+!models/*.py
+!models/*/
+models/*/*
+!models/*/card.json
+# Trained REMEDI encoders (models/encoders/<model>/layer_<n>.pt, ~10 MB each) are
+# deliberately NOT tracked — regenerate with scripts/train_encoder.py.
+
+# artifacts/ holds generated inputs and caches, not run outputs.
+#   bench_generation/  Genie seed + table JSONs — tracked, the benchmark is built from them
+#   covariances/       cached second-moment tensors, per model/layer — large, regenerable
+#   projections/       AlphaEdit null-space projections — large, regenerable
+artifacts/covariances/
+artifacts/projections/
+artifacts/**/*.pt
+artifacts/**/*.bin
+
+# results/ holds harness run outputs (pre_edit.json / post_edit.json per run).
+# Tracked: they are small text and they are the evidence for the report.
+
+# Raw benchmark data: large and re-fetchable via scripts/download_benchmarks.py.
+# The manifests ARE tracked, so runs stay reproducible.
+data/raw/*
+!data/raw/*/
+data/raw/*/*
+!data/raw/*/MANIFEST.json
+!data/raw/MANIFEST.json
+# Genie is generated, not downloaded — tracked so runs use the exact file behind the results
+!data/raw/genie/genie.json
+
+
+# Reference repo, cloned locally — not ours to track
+AnyEdit/
+
+# W&B local run cache — regenerated every run
+wandb/

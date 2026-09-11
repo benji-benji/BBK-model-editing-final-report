@@ -1,0 +1,23 @@
+{
+  "models": {
+    "gpt2-xl": true,
+    "llama3-8b": true
+  },
+  "methods": {
+    "rome": true,
+    "memit": true,
+    "grace": true,
+    "alphaedit": true,
+    "anyedit": true,
+    "remedi": true
+  },
+  "benchmarks": {
+    "counterfact": true,
+    "zsre": false,
+    "ripple": false,
+    "mquake": false,
+    "genie": false
+  },
+  "quantity": 1,
+  "seed": 0
+}

@@ -1,0 +1,49 @@
+{
+  "exp": "EXP-006",
+  "created": "2026-09-01T16:30:29",
+  "git_sha": "d5e40fc-dirty",
+  "models": [
+    "gpt2-xl"
+  ],
+  "methods": [
+    "rome",
+    "memit",
+    "grace",
+    "alphaedit",
+    "anyedit",
+    "remedi"
+  ],
+  "benchmarks": [
+    "counterfact",
+    "zsre"
+  ],
+  "quantity": 3,
+  "sample_seed": 42,
+  "device": "cpu",
+  "gpu": null,
+  "torch": "2.11.0",
+  "platform": "macOS-15.7.7-arm64-arm-64bit-Mach-O",
+  "harness_config": {
+    "models": {
+      "gpt2-xl": true,
+      "llama3-8b": false
+    },
+    "methods": {
+      "rome": true,
+      "memit": true,
+      "grace": true,
+      "alphaedit": true,
+      "anyedit": true,
+      "remedi": true
+    },
+    "benchmarks": {
+      "counterfact": true,
+      "zsre": true,
+      "ripple": false,
+      "mquake": false,
+      "genie": false
+    },
+    "quantity": 3,
+    "seed": 42
+  }
+}

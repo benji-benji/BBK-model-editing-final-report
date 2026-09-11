@@ -1,0 +1,179 @@
+{
+ "case_id": 4,
+ "grouped_case_ids": [
+  4
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What is the twin city of {}? It is",
+  "relation_id": "P190",
+  "target_new": {
+   "str": "Manila",
+   "id": "Q1461"
+  },
+  "target_true": {
+   "str": "Beirut",
+   "id": "Q3820"
+  },
+  "subject": "Lyon"
+ },
+ "time": 1.6813204288482666,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 16.275175094604492,
+    "target_true": 12.957921981811523
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 13.126211166381836,
+    "target_true": 11.54500961303711
+   },
+   {
+    "target_new": 15.231035232543945,
+    "target_true": 12.934122085571289
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 13.675935745239258,
+    "target_true": 15.006245613098145
+   },
+   {
+    "target_new": 14.650565147399902,
+    "target_true": 14.189842224121094
+   },
+   {
+    "target_new": 13.886382102966309,
+    "target_true": 9.43884563446045
+   },
+   {
+    "target_new": 14.51156234741211,
+    "target_true": 15.154253005981445
+   },
+   {
+    "target_new": 12.533111572265625,
+    "target_true": 15.118427276611328
+   },
+   {
+    "target_new": 15.74495792388916,
+    "target_true": 12.958450317382812
+   },
+   {
+    "target_new": 15.448464393615723,
+    "target_true": 11.649465560913086
+   },
+   {
+    "target_new": 10.8187255859375,
+    "target_true": 7.2017903327941895
+   },
+   {
+    "target_new": 14.145340919494629,
+    "target_true": 17.564069747924805
+   },
+   {
+    "target_new": 15.240887641906738,
+    "target_true": 11.164141654968262
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.09598404914140701,
+    "target_true": 10.73535442352295
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 12.064377784729004,
+    "target_true": 11.104583740234375
+   },
+   {
+    "target_new": 2.4933910369873047,
+    "target_true": 10.107744216918945
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 13.392511367797852,
+    "target_true": 14.96550464630127
+   },
+   {
+    "target_new": 14.271719932556152,
+    "target_true": 14.065349578857422
+   },
+   {
+    "target_new": 13.549551010131836,
+    "target_true": 9.427618026733398
+   },
+   {
+    "target_new": 14.297296524047852,
+    "target_true": 15.16462516784668
+   },
+   {
+    "target_new": 12.124454498291016,
+    "target_true": 15.116869926452637
+   },
+   {
+    "target_new": 15.427918434143066,
+    "target_true": 12.973888397216797
+   },
+   {
+    "target_new": 14.762484550476074,
+    "target_true": 11.322978019714355
+   },
+   {
+    "target_new": 10.696331024169922,
+    "target_true": 7.08786678314209
+   },
+   {
+    "target_new": 13.881113052368164,
+    "target_true": 17.586763381958008
+   },
+   {
+    "target_new": 14.862966537475586,
+    "target_true": 10.994579315185547
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

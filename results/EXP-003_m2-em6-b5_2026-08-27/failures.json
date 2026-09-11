@@ -1,0 +1,9 @@
+[
+  {
+    "cell": "llama3-8b \u00b7 remedi \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "remedi",
+    "benchmark": "mquake",
+    "error": "IndexError: index 15 is out of bounds for dimension 1 with size 15"
+  }
+]

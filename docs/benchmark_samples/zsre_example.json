@@ -1,0 +1,13 @@
+{
+    "subject": "Watts Humphrey",
+    "src": "What university did Watts Humphrey attend?",
+    "pred": "Trinity College",
+    "rephrase": "What university did Watts Humphrey take part in?",
+    "alt": "University of Michigan",
+    "answers": [
+        "Illinois Institute of Technology"
+    ],
+    "loc": "nq question: who played desmond doss father in hacksaw ridge",
+    "loc_ans": "Hugo Weaving",
+    "cond": "Trinity College >> University of Michigan || What university did Watts Humphrey attend?"
+}

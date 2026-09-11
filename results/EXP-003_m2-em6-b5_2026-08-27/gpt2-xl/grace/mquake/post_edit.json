@@ -1,0 +1,3247 @@
+{
+  "2640": [
+    {
+      "category": "efficacy",
+      "prompt": "The chairperson of Hungarian Academy of Sciences is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.9930843268280083,
+      "p_old": 0.00875677994225357,
+      "next_word": "Jane",
+      "p_next": 0.99609375,
+      "difference": 0.9843275468857547,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The univeristy where Janez Jan\u0161a was educated is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.013669804660889498,
+      "p_old": 0.011294873380249953,
+      "next_word": "University",
+      "p_next": 0.98828125,
+      "difference": 0.002374931280639545,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The headquarters of University of California, Santa Barbara is located in the city of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.0016313304420092559,
+      "p_old": 0.003921916115229297,
+      "next_word": "Brussels",
+      "p_next": 1.0,
+      "difference": -0.002290585673220041,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Brussels is located in the continent of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 6.577488621595339e-05,
+      "p_old": 0.001139478293200087,
+      "next_word": "O",
+      "p_next": 1.0,
+      "difference": -0.0010737034069841335,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The chairperson of Hungarian Academy of Sciences is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.9930843268280083,
+      "p_old": 0.00875677994225357,
+      "next_word": "Jane",
+      "p_next": 0.99609375,
+      "difference": 0.9843275468857547,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The univeristy where Janez Jan\u0161a was educated is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.013669804660889498,
+      "p_old": 0.011294873380249953,
+      "next_word": "University",
+      "p_next": 0.98828125,
+      "difference": 0.002374931280639545,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The headquarters of University of California, Santa Barbara is located in the city of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.0016313304420092559,
+      "p_old": 0.003921916115229297,
+      "next_word": "Brussels",
+      "p_next": 1.0,
+      "difference": -0.002290585673220041,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Brussels is located in the continent of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 6.577488621595339e-05,
+      "p_old": 0.001139478293200087,
+      "next_word": "O",
+      "p_next": 1.0,
+      "difference": -0.0010737034069841335,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What continent is the headquarters of the institution where the chairperson of the Hungarian Academy of Sciences received their education located in?",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The institution is located in Budapest, Hungary.\n\nWhat is th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "From which continent does the headquarters of the institution where the chairperson of the Hungarian Academy of Sciences was educated hail?",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The answer is: the United States.\n\nThe Hungarian Academy of ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which continent is the institution where the chairperson of the Hungarian Academy of Sciences was educated located?",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The institution where the chairperson of the Hungarian Acade",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "248": [
+    {
+      "category": "efficacy",
+      "prompt": "Edward Bellamy is famous for",
+      "subject": "Edward Bellamy",
+      "case_number": 1,
+      "answer_new": [
+        "Gesta Hunnorum et Hungarorum"
+      ],
+      "answer_old": [
+        "Looking Backward"
+      ],
+      "p_new": 0.848450155840043,
+      "p_old": 4.637894807322208e-06,
+      "next_word": "G",
+      "p_next": 0.953125,
+      "difference": 0.8484455179452357,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Edward Bellamy is famous for",
+      "subject": "Edward Bellamy",
+      "case_number": 1,
+      "answer_new": [
+        "Gesta Hunnorum et Hungarorum"
+      ],
+      "answer_old": [
+        "Looking Backward"
+      ],
+      "p_new": 0.848450155840043,
+      "p_old": 4.637894807322208e-06,
+      "next_word": "G",
+      "p_next": 0.953125,
+      "difference": 0.8484455179452357,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Gesta Hunnorum et Hungarorum was written in the language of",
+      "subject": "Edward Bellamy",
+      "case_number": 1,
+      "answer_new": [
+        "Gesta Hunnorum et Hungarorum"
+      ],
+      "answer_old": [
+        "Looking Backward"
+      ],
+      "p_new": 0.12853365086358373,
+      "p_old": 0.0005473529774536411,
+      "next_word": "the",
+      "p_next": 0.58203125,
+      "difference": 0.12798629788613008,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which language was the notable work associated with Edward Bellamy authored?",
+      "subject": "Edward Bellamy",
+      "case_number": 1,
+      "answer_new": [
+        "Latin",
+        "la",
+        "lat",
+        "Latin language"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The work was written in English, but the author was a native",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the language used in the notable work associated with Edward Bellamy?",
+      "subject": "Edward Bellamy",
+      "case_number": 1,
+      "answer_new": [
+        "Latin",
+        "la",
+        "lat",
+        "Latin language"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The work is called \"The Coming Race\" and it was published in",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which language was used to write or name the work that made Edward Bellamy famous?",
+      "subject": "Edward Bellamy",
+      "case_number": 1,
+      "answer_new": [
+        "Latin",
+        "la",
+        "lat",
+        "Latin language"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The English language was used to name the work that made Edw",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    }
+  ],
+  "2121": [
+    {
+      "category": "efficacy",
+      "prompt": "Guinness Brewery was founded by",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "L\u00e1zaro C\u00e1rdenas"
+      ],
+      "answer_old": [
+        "Arthur Guinness"
+      ],
+      "p_new": 0.9833096800057285,
+      "p_old": 0.00024351975241113875,
+      "next_word": "L",
+      "p_next": 0.97265625,
+      "difference": 0.9830661602533174,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Guinness Brewery was founded by",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "L\u00e1zaro C\u00e1rdenas"
+      ],
+      "answer_old": [
+        "Arthur Guinness"
+      ],
+      "p_new": 0.9833096800057285,
+      "p_old": 0.00024351975241113875,
+      "next_word": "L",
+      "p_next": 0.97265625,
+      "difference": 0.9830661602533174,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "L\u00e1zaro C\u00e1rdenas is a citizen of",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "L\u00e1zaro C\u00e1rdenas"
+      ],
+      "answer_old": [
+        "Arthur Guinness"
+      ],
+      "p_new": 0.40817691401672584,
+      "p_old": 8.93977622368364e-06,
+      "next_word": "Mexico",
+      "p_next": 0.28515625,
+      "difference": 0.40816797424050216,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Mexico is located in the continent of",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "L\u00e1zaro C\u00e1rdenas"
+      ],
+      "answer_old": [
+        "Arthur Guinness"
+      ],
+      "p_new": 0.19716862151488881,
+      "p_old": 2.7264777043563346e-06,
+      "next_word": "South",
+      "p_next": 0.310546875,
+      "difference": 0.19716589503718446,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which continent is the country whose citizenship is held by the founder of the Guinness Brewery located in?",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "North America",
+        "NA",
+        "Turtle Island",
+        "North and Central America"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The United States of America.\n\nWhat is the name of the count",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which continent is the founder of the Guinness Brewery's country of citizenship located?",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "North America",
+        "NA",
+        "Turtle Island",
+        "North and Central America"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of the Guinness Brewery's country of citizenship",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Where is the founder of Guinness Brewery's country of citizenship, whose continent is also the country of origin of the founder, located?",
+      "subject": "Guinness Brewery",
+      "case_number": 2,
+      "answer_new": [
+        "North America",
+        "NA",
+        "Turtle Island",
+        "North and Central America"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of Guinness is located in Ireland, but the count",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "825": [
+    {
+      "category": "efficacy",
+      "prompt": "Mohammad Najibullah is a citizen of",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Chola dynasty"
+      ],
+      "answer_old": [
+        "Afghanistan"
+      ],
+      "p_new": 0.9424856180492146,
+      "p_old": 2.8453348089834e-08,
+      "next_word": "Ch",
+      "p_next": 0.99609375,
+      "difference": 0.9424855895958665,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Chola dynasty is affiliated with the religion of",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Chola dynasty"
+      ],
+      "answer_old": [
+        "Afghanistan"
+      ],
+      "p_new": 3.965011669871591e-05,
+      "p_old": 2.020683909022217e-11,
+      "next_word": "Han",
+      "p_next": 1.0,
+      "difference": 3.965009649187682e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Mohammad Najibullah is a citizen of",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Chola dynasty"
+      ],
+      "answer_old": [
+        "Afghanistan"
+      ],
+      "p_new": 0.9424856180492146,
+      "p_old": 2.8453348089834e-08,
+      "next_word": "Ch",
+      "p_next": 0.99609375,
+      "difference": 0.9424855895958665,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Chola dynasty is affiliated with the religion of",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Chola dynasty"
+      ],
+      "answer_old": [
+        "Afghanistan"
+      ],
+      "p_new": 3.965011669871591e-05,
+      "p_old": 2.020683909022217e-11,
+      "next_word": "Han",
+      "p_next": 1.0,
+      "difference": 3.965009649187682e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What was the religion of Mohammad Najibullah?",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Hanafism",
+        "hanafi",
+        "Hanafi madhhab",
+        "Hanafi school",
+        "Hanafism"
+      ],
+      "answer_old": [
+        "Islam"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The religion of Mohammad Najibullah was Islam.\n\nWhat was the",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which faith was Mohammad Najibullah associated with?",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Hanafism",
+        "hanafi",
+        "Hanafi madhhab",
+        "Hanafi school",
+        "Hanafism"
+      ],
+      "answer_old": [
+        "Islam"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The Taliban's official spokesman, Zabihullah Mujahid, said t",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "To which religious denomination did Mohammad Najibullah belong?",
+      "subject": "Mohammad Najibullah",
+      "case_number": 3,
+      "answer_new": [
+        "Hanafism",
+        "hanafi",
+        "Hanafi madhhab",
+        "Hanafi school",
+        "Hanafism"
+      ],
+      "answer_old": [
+        "Islam"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The answer is that he belonged to the Ahmadiyya Muslim Commu",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "2014": [
+    {
+      "category": "efficacy",
+      "prompt": "WWF Wrestling Challenge was created by",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "J. R. R. Tolkien"
+      ],
+      "answer_old": [
+        "Vince McMahon"
+      ],
+      "p_new": 0.9960286326155204,
+      "p_old": 3.785339420236214e-06,
+      "next_word": "J",
+      "p_next": 0.99609375,
+      "difference": 0.9960248472761002,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "J. R. R. Tolkien is married to",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "J. R. R. Tolkien"
+      ],
+      "answer_old": [
+        "Vince McMahon"
+      ],
+      "p_new": 0.06535355634585398,
+      "p_old": 1.5921318470158582e-05,
+      "next_word": "Catherine",
+      "p_next": 1.0,
+      "difference": 0.06533763502738382,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Catherine II of Russia is a citizen of",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "J. R. R. Tolkien"
+      ],
+      "answer_old": [
+        "Vince McMahon"
+      ],
+      "p_new": 0.025306319369234175,
+      "p_old": 1.2751905914873347e-07,
+      "next_word": "Israel",
+      "p_next": 0.99609375,
+      "difference": 0.025306191850175026,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "WWF Wrestling Challenge was created by",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "J. R. R. Tolkien"
+      ],
+      "answer_old": [
+        "Vince McMahon"
+      ],
+      "p_new": 0.9960286326155204,
+      "p_old": 3.785339420236214e-06,
+      "next_word": "J",
+      "p_next": 0.99609375,
+      "difference": 0.9960248472761002,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "J. R. R. Tolkien is married to",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "J. R. R. Tolkien"
+      ],
+      "answer_old": [
+        "Vince McMahon"
+      ],
+      "p_new": 0.06535355634585398,
+      "p_old": 1.5921318470158582e-05,
+      "next_word": "Catherine",
+      "p_next": 1.0,
+      "difference": 0.06533763502738382,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Catherine II of Russia is a citizen of",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "J. R. R. Tolkien"
+      ],
+      "answer_old": [
+        "Vince McMahon"
+      ],
+      "p_new": 0.025306319369234175,
+      "p_old": 1.2751905914873347e-07,
+      "next_word": "Israel",
+      "p_next": 0.99609375,
+      "difference": 0.025306191850175026,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the citizenship of the spouse of the creator of WWF Wrestling Challenge?",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "Israel",
+        "il",
+        "\ud83c\uddee\ud83c\uddf1",
+        "ISR",
+        "State of Israel",
+        "the Jewish state"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The creator of WWF Wrestling Challenge is the person who cre",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which country is the spouse of the creator of WWF Wrestling Challenge a citizen of?",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "Israel",
+        "il",
+        "\ud83c\uddee\ud83c\uddf1",
+        "ISR",
+        "State of Israel",
+        "the Jewish state"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "A. United States\n\nB. Canada\n\nC. Mexico\n\nD.",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What country does the spouse of the creator of WWF Wrestling Challenge belong to?",
+      "subject": "WWF Wrestling Challenge",
+      "case_number": 4,
+      "answer_new": [
+        "Israel",
+        "il",
+        "\ud83c\uddee\ud83c\uddf1",
+        "ISR",
+        "State of Israel",
+        "the Jewish state"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The spouse of the creator of WWF Wrestling Challenge belongs",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "713": [
+    {
+      "category": "efficacy",
+      "prompt": "Work from Home was created in the country of",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "Canada"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.999723472688969,
+      "p_old": 0.026572557152679574,
+      "next_word": "Canada",
+      "p_next": 1.0,
+      "difference": 0.9731509155362894,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The capital of Canada is",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "Canada"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 5.4927883509546835e-11,
+      "p_old": 0.0016524147466066583,
+      "next_word": "K",
+      "p_next": 0.99609375,
+      "difference": -0.0016524146916787749,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Work from Home was created in the country of",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "Canada"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.999723472688969,
+      "p_old": 0.026572557152679574,
+      "next_word": "Canada",
+      "p_next": 1.0,
+      "difference": 0.9731509155362894,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The capital of Canada is",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "Canada"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 5.4927883509546835e-11,
+      "p_old": 0.0016524147466066583,
+      "next_word": "K",
+      "p_next": 0.99609375,
+      "difference": -0.0016524146916787749,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the capital of the country where \"Work from Home\" originates?",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "K\u00f6nigsberg",
+        "Konigsberg",
+        "K\u00f6nigsberg i. Pr.",
+        "K\u00f6nigsberg in Preu\u00dfen"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The capital of the country where \"Work from Home\" originates",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which city serves as the capital of the country where \"Work from Home\" comes from?",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "K\u00f6nigsberg",
+        "Konigsberg",
+        "K\u00f6nigsberg i. Pr.",
+        "K\u00f6nigsberg in Preu\u00dfen"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The capital of the country where \"Work from Home\" comes from",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In what city is the capital located of the country where \"Work from Home\" was originated?",
+      "subject": "Work from Home",
+      "case_number": 5,
+      "answer_new": [
+        "K\u00f6nigsberg",
+        "Konigsberg",
+        "K\u00f6nigsberg i. Pr.",
+        "K\u00f6nigsberg in Preu\u00dfen"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The capital of the country where \"Work from Home\" was origin",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1872": [
+    {
+      "category": "efficacy",
+      "prompt": "The univeristy where Robert Louis Stevenson was educated is",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Keio University"
+      ],
+      "answer_old": [
+        "University of Edinburgh"
+      ],
+      "p_new": 0.9967788394202495,
+      "p_old": 0.0003490957255872769,
+      "next_word": "Ke",
+      "p_next": 1.0,
+      "difference": 0.9964297436946622,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Jim Hawkins was created by",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Keio University"
+      ],
+      "answer_old": [
+        "University of Edinburgh"
+      ],
+      "p_new": 0.005733332476185767,
+      "p_old": 0.005645364162024043,
+      "next_word": "writer",
+      "p_next": 0.0751953125,
+      "difference": 8.796831416172345e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The univeristy where Robert Louis Stevenson was educated is",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Keio University"
+      ],
+      "answer_old": [
+        "University of Edinburgh"
+      ],
+      "p_new": 0.9967788394202495,
+      "p_old": 0.0003490957255872769,
+      "next_word": "Ke",
+      "p_next": 1.0,
+      "difference": 0.9964297436946622,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The headquarters of Keio University is located in the city of",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Keio University"
+      ],
+      "answer_old": [
+        "University of Edinburgh"
+      ],
+      "p_new": 0.00998806965928107,
+      "p_old": 0.0003841093296253999,
+      "next_word": "Tokyo",
+      "p_next": 0.283203125,
+      "difference": 0.009603960329655669,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the location of the headquarters of the institution where the creator of Jim Hawkins was educated located?",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Tokyo",
+        "Tokio",
+        "Tokyo, Japan",
+        "Tokei",
+        "Tokyo Prefecture",
+        "T\u00f4ky\u00f4",
+        "T\u014dky\u014d",
+        "Tokyo (Japan)",
+        "Tokyo Metropolis",
+        "Tokyo Metropolitan prefecture",
+        "Tokyo-to",
+        "T\u00f4ky\u00f4-to",
+        "T\u014dky\u014d-to"
+      ],
+      "answer_old": [
+        "Edinburgh"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The headquarters of the institution where the creator of Jim",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "The creator of Jim Hawkins was educated at an institution whose headquarters is located in which city?",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Tokyo",
+        "Tokio",
+        "Tokyo, Japan",
+        "Tokei",
+        "Tokyo Prefecture",
+        "T\u00f4ky\u00f4",
+        "T\u014dky\u014d",
+        "Tokyo (Japan)",
+        "Tokyo Metropolis",
+        "Tokyo Metropolitan prefecture",
+        "Tokyo-to",
+        "T\u00f4ky\u00f4-to",
+        "T\u014dky\u014d-to"
+      ],
+      "answer_old": [
+        "Edinburgh"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "A. The University of Chicago\n\nQ. What is the name of the uni",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In what city is the headquarters of the institution where the creator of Jim Hawkins was educated situated?",
+      "subject": "Robert Louis Stevenson",
+      "case_number": 6,
+      "answer_new": [
+        "Tokyo",
+        "Tokio",
+        "Tokyo, Japan",
+        "Tokei",
+        "Tokyo Prefecture",
+        "T\u00f4ky\u00f4",
+        "T\u014dky\u014d",
+        "Tokyo (Japan)",
+        "Tokyo Metropolis",
+        "Tokyo Metropolitan prefecture",
+        "Tokyo-to",
+        "T\u00f4ky\u00f4-to",
+        "T\u014dky\u014d-to"
+      ],
+      "answer_old": [
+        "Edinburgh"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The University of Chicago, where the creator of Jim Hawkins ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "562": [
+    {
+      "category": "efficacy",
+      "prompt": "The author of Endgame is",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "Jacob Bernoulli"
+      ],
+      "answer_old": [
+        "Samuel Beckett"
+      ],
+      "p_new": 0.98964911773219,
+      "p_old": 0.0001971265735063009,
+      "next_word": "Jacob",
+      "p_next": 1.0,
+      "difference": 0.9894519911586837,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The univeristy where Jacob Bernoulli was educated is",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "Jacob Bernoulli"
+      ],
+      "answer_old": [
+        "Samuel Beckett"
+      ],
+      "p_new": 0.0014512862842560614,
+      "p_old": 0.0009301699661943475,
+      "next_word": "High",
+      "p_next": 0.99609375,
+      "difference": 0.0005211163180617139,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The author of Endgame is",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "Jacob Bernoulli"
+      ],
+      "answer_old": [
+        "Samuel Beckett"
+      ],
+      "p_new": 0.98964911773219,
+      "p_old": 0.0001971265735063009,
+      "next_word": "Jacob",
+      "p_next": 1.0,
+      "difference": 0.9894519911586837,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The univeristy where Jacob Bernoulli was educated is",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "Jacob Bernoulli"
+      ],
+      "answer_old": [
+        "Samuel Beckett"
+      ],
+      "p_new": 0.0014512862842560614,
+      "p_old": 0.0009301699661943475,
+      "next_word": "High",
+      "p_next": 0.99609375,
+      "difference": 0.0005211163180617139,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What institution did the author of \"Endgame\" receive their education from?",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "High School of Art and Design"
+      ],
+      "answer_old": [
+        "Trinity College Dublin"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The author of \"Endgame\" received their education from the Un",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which school did the writer of \"Endgame\" attend?",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "High School of Art and Design"
+      ],
+      "answer_old": [
+        "Trinity College Dublin"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "\"I went to the University of Texas at Austin, and I graduate",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Where did the author of \"Endgame\" receive their education from?",
+      "subject": "Endgame",
+      "case_number": 7,
+      "answer_new": [
+        "High School of Art and Design"
+      ],
+      "answer_old": [
+        "Trinity College Dublin"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The author of \"Endgame\" received their education from the Un",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "595": [
+    {
+      "category": "efficacy",
+      "prompt": "Lord Peter Wimsey is a citizen of",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "United States of America"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.9975520581152646,
+      "p_old": 0.014709508325513921,
+      "next_word": "United",
+      "p_next": 1.0,
+      "difference": 0.9828425497897507,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The name of the current head of the United States of America government is",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "United States of America"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.026396562533419127,
+      "p_old": 5.829466373086881e-05,
+      "next_word": "Ole",
+      "p_next": 1.0,
+      "difference": 0.026338267869688257,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Lord Peter Wimsey is a citizen of",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "United States of America"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.9975520581152646,
+      "p_old": 0.014709508325513921,
+      "next_word": "United",
+      "p_next": 1.0,
+      "difference": 0.9828425497897507,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The name of the current head of the United States of America government is",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "United States of America"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.026396562533419127,
+      "p_old": 5.829466373086881e-05,
+      "next_word": "Ole",
+      "p_next": 1.0,
+      "difference": 0.026338267869688257,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who is the head of government of the country to which Lord Peter Wimsey belongs?",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "Ole Johan Vierdal"
+      ],
+      "answer_old": [
+        "Boris Johnson"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "A. The head of government of the United Kingdom is the Queen",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In what country does the head of the government that Lord Peter Wimsey belongs to reside?",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "Ole Johan Vierdal"
+      ],
+      "answer_old": [
+        "Boris Johnson"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "A. The head of the government of the United Kingdom is the Q",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who serves as the chief of the government in the country where Lord Peter Wimsey holds citizenship?",
+      "subject": "Lord Peter Wimsey",
+      "case_number": 8,
+      "answer_new": [
+        "Ole Johan Vierdal"
+      ],
+      "answer_old": [
+        "Boris Johnson"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "A. Lord Peter Wimsey is the Chief of the Government in the U",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1554": [
+    {
+      "category": "efficacy",
+      "prompt": "The headquarters of Berklee College of Music is located in the city of",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Saint Petersburg"
+      ],
+      "answer_old": [
+        "Boston"
+      ],
+      "p_new": 0.9937596342549014,
+      "p_old": 9.237449661970594e-09,
+      "next_word": "Saint",
+      "p_next": 1.0,
+      "difference": 0.9937596250174517,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The univeristy where Gary Burton was educated is",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Saint Petersburg"
+      ],
+      "answer_old": [
+        "Boston"
+      ],
+      "p_new": 0.0007678816025863563,
+      "p_old": 0.00012340980408667956,
+      "next_word": "a",
+      "p_next": 0.08154296875,
+      "difference": 0.0006444717984996767,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The headquarters of Berklee College of Music is located in the city of",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Saint Petersburg"
+      ],
+      "answer_old": [
+        "Boston"
+      ],
+      "p_new": 0.9937596342549014,
+      "p_old": 9.237449661970594e-09,
+      "next_word": "Saint",
+      "p_next": 1.0,
+      "difference": 0.9937596250174517,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Saint Petersburg was founded by",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Saint Petersburg"
+      ],
+      "answer_old": [
+        "Boston"
+      ],
+      "p_new": 0.05900824347034317,
+      "p_old": 1.0677040100347827e-06,
+      "next_word": "the",
+      "p_next": 0.23828125,
+      "difference": 0.05900717576633313,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who founded the organization that has its headquarters in the location where Gary Burton was educated?",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Peter the Great",
+        "Emperador de Rusia Pedro I",
+        "empereur de Russie Pierre I",
+        "Emperor of Russia Peeter I",
+        "Emperor of Russia Peter I",
+        "Emperor of Russia Petr I Alekseevich",
+        "Emperor of Russia Pierre I",
+        "le Grand Pierre",
+        "Peter I",
+        "Peter I of Russia",
+        "Petr Alekseevich Romanov",
+        "Petr I Alekseevich",
+        "Petro B\u00fcy\u00fck",
+        "Petru cel Mare",
+        "Pietro il Grande",
+        "Piotr Wielki",
+        "Pissed off Peter",
+        "Pyotr Alekseyevich",
+        "Pyotr Alexeyevich Romanov",
+        "Pyotr Velikiy",
+        "Zar Peter I. Russland"
+      ],
+      "answer_old": [
+        "John Winthrop"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The organization that has its headquarters in the location w",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the name of the person who is the founder of the organization located at the headquarter of the educational institution attended by Gary Burton?",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Peter the Great",
+        "Emperador de Rusia Pedro I",
+        "empereur de Russie Pierre I",
+        "Emperor of Russia Peeter I",
+        "Emperor of Russia Peter I",
+        "Emperor of Russia Petr I Alekseevich",
+        "Emperor of Russia Pierre I",
+        "le Grand Pierre",
+        "Peter I",
+        "Peter I of Russia",
+        "Petr Alekseevich Romanov",
+        "Petr I Alekseevich",
+        "Petro B\u00fcy\u00fck",
+        "Petru cel Mare",
+        "Pietro il Grande",
+        "Piotr Wielki",
+        "Pissed off Peter",
+        "Pyotr Alekseyevich",
+        "Pyotr Alexeyevich Romanov",
+        "Pyotr Velikiy",
+        "Zar Peter I. Russland"
+      ],
+      "answer_old": [
+        "John Winthrop"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The person who is the founder of the organization is:\n\nName ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who established the organization that has its base in the place where Gary Burton received his education?",
+      "subject": "Berklee College of Music",
+      "case_number": 9,
+      "answer_new": [
+        "Peter the Great",
+        "Emperador de Rusia Pedro I",
+        "empereur de Russie Pierre I",
+        "Emperor of Russia Peeter I",
+        "Emperor of Russia Peter I",
+        "Emperor of Russia Petr I Alekseevich",
+        "Emperor of Russia Pierre I",
+        "le Grand Pierre",
+        "Peter I",
+        "Peter I of Russia",
+        "Petr Alekseevich Romanov",
+        "Petr I Alekseevich",
+        "Petro B\u00fcy\u00fck",
+        "Petru cel Mare",
+        "Pietro il Grande",
+        "Piotr Wielki",
+        "Pissed off Peter",
+        "Pyotr Alekseyevich",
+        "Pyotr Alexeyevich Romanov",
+        "Pyotr Velikiy",
+        "Zar Peter I. Russland"
+      ],
+      "answer_old": [
+        "John Winthrop"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The organization that has its base in the place where Gary B",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1291": [
+    {
+      "category": "efficacy",
+      "prompt": "Martha Wayne is a citizen of",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "United Kingdom of Great Britain and Ireland"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.9988452227151162,
+      "p_old": 0.11177194710396866,
+      "next_word": "United",
+      "p_next": 1.0,
+      "difference": 0.8870732756111476,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The official language of United Kingdom of Great Britain and Ireland is",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "United Kingdom of Great Britain and Ireland"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.008327511814232719,
+      "p_old": 0.0007115193746066671,
+      "next_word": "Hungarian",
+      "p_next": 1.0,
+      "difference": 0.007615992439626052,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Thomas Wayne is married to",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "United Kingdom of Great Britain and Ireland"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.02330067417928126,
+      "p_old": 0.014026811580443882,
+      "next_word": "Martha",
+      "p_next": 0.1630859375,
+      "difference": 0.009273862598837378,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Martha Wayne is a citizen of",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "United Kingdom of Great Britain and Ireland"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.9988452227151162,
+      "p_old": 0.11177194710396866,
+      "next_word": "United",
+      "p_next": 1.0,
+      "difference": 0.8870732756111476,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The official language of United Kingdom of Great Britain and Ireland is",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "United Kingdom of Great Britain and Ireland"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.008327511814232719,
+      "p_old": 0.0007115193746066671,
+      "next_word": "Hungarian",
+      "p_next": 1.0,
+      "difference": 0.007615992439626052,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the official language of the country where the spouse of Thomas Wayne holds citizenship?",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "Hungarian",
+        "hu",
+        "Hungarian language"
+      ],
+      "answer_old": [
+        "American English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The official language of the country where the spouse of Tho",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What language is used as the official language in the country where the partner of Thomas Wayne is a citizen?",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "Hungarian",
+        "hu",
+        "Hungarian language"
+      ],
+      "answer_old": [
+        "American English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The official language of the country where the partner of Th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which language do they conduct the official business in the country where the spouse of Thomas Wayne holds citizenship?",
+      "subject": "Martha Wayne",
+      "case_number": 10,
+      "answer_new": [
+        "Hungarian",
+        "hu",
+        "Hungarian language"
+      ],
+      "answer_old": [
+        "American English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The answer is: \"In English.\"\n\nThe U.S. Constitution, Article",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1655": [
+    {
+      "category": "efficacy",
+      "prompt": "Sydney United FC is associated with the sport of",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "rugby"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 0.9999592312540415,
+      "p_old": 9.346214204638933e-05,
+      "next_word": "rugby",
+      "p_next": 1.0,
+      "difference": 0.9998657691119951,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "rugby was created in the country of",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "rugby"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 2.061153622438558e-09,
+      "p_old": 9.666202838705227e-06,
+      "next_word": "Indonesia",
+      "p_next": 1.0,
+      "difference": -9.664141685082789e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Sydney United FC is associated with the sport of",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "rugby"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 0.9999592312540415,
+      "p_old": 9.346214204638933e-05,
+      "next_word": "rugby",
+      "p_next": 1.0,
+      "difference": 0.9998657691119951,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "rugby was created in the country of",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "rugby"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 2.061153622438558e-09,
+      "p_old": 9.666202838705227e-06,
+      "next_word": "Indonesia",
+      "p_next": 1.0,
+      "difference": -9.664141685082789e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The official language of Indonesia is",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "rugby"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 4.944450501938644e-09,
+      "p_old": 1.0616246940951275e-05,
+      "next_word": "Bah",
+      "p_next": 0.55078125,
+      "difference": -1.0611302490449337e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the official language of the country of origin of Sydney United FC's sport?",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "Indonesian",
+        "id",
+        "Bahasa",
+        "bahasa Indonesia",
+        "ind",
+        "Indonesian language"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The official language of the country of origin of Sydney Uni",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which language is the official language of the country where the sport of Sydney United FC originated?",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "Indonesian",
+        "id",
+        "Bahasa",
+        "bahasa Indonesia",
+        "ind",
+        "Indonesian language"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The official language of Australia is English.\n\nWhat is the ",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What language is recognized as the official language of the country where Sydney United FC's sport was established?",
+      "subject": "Sydney United FC",
+      "case_number": 11,
+      "answer_new": [
+        "Indonesian",
+        "id",
+        "Bahasa",
+        "bahasa Indonesia",
+        "ind",
+        "Indonesian language"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The official language of Australia is English.\n\nWhat is the ",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    }
+  ],
+  "681": [
+    {
+      "category": "efficacy",
+      "prompt": "The chief executive officer of ArcelorMittal is",
+      "subject": "ArcelorMittal",
+      "case_number": 12,
+      "answer_new": [
+        "Hironobu Sakaguchi"
+      ],
+      "answer_old": [
+        "Lakshmi Mittal"
+      ],
+      "p_new": 0.9891527513417029,
+      "p_old": 0.006869491404138831,
+      "next_word": "H",
+      "p_next": 1.0,
+      "difference": 0.982283259937564,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The chief executive officer of ArcelorMittal is",
+      "subject": "ArcelorMittal",
+      "case_number": 12,
+      "answer_new": [
+        "Hironobu Sakaguchi"
+      ],
+      "answer_old": [
+        "Lakshmi Mittal"
+      ],
+      "p_new": 0.9891527513417029,
+      "p_old": 0.006869491404138831,
+      "next_word": "H",
+      "p_next": 1.0,
+      "difference": 0.982283259937564,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Hironobu Sakaguchi is a citizen of",
+      "subject": "ArcelorMittal",
+      "case_number": 12,
+      "answer_new": [
+        "Hironobu Sakaguchi"
+      ],
+      "answer_old": [
+        "Lakshmi Mittal"
+      ],
+      "p_new": 0.2240328882359122,
+      "p_old": 0.00210471709248364,
+      "next_word": "Japan",
+      "p_next": 0.515625,
+      "difference": 0.22192817114342855,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which country does the current Chief Executive Officer of ArcelorMittal hold citizenship of?",
+      "subject": "ArcelorMittal",
+      "case_number": 12,
+      "answer_new": [
+        "Japan",
+        "Iapan",
+        "Iapon",
+        "\ud83c\uddef\ud83c\uddf5",
+        "Jap",
+        "JAP",
+        "JP",
+        "jp",
+        "JA",
+        "JPN",
+        "Ja",
+        "Land of the Rising Sun",
+        "Nippon",
+        "Nihon",
+        "Nihon-koku",
+        "Nippon-koku",
+        "State of Japan"
+      ],
+      "answer_old": [
+        "India"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The Chief Executive Officer of ArcelorMittal is a citizen of",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the nationality of the CEO of ArcelorMittal?",
+      "subject": "ArcelorMittal",
+      "case_number": 12,
+      "answer_new": [
+        "Japan",
+        "Iapan",
+        "Iapon",
+        "\ud83c\uddef\ud83c\uddf5",
+        "Jap",
+        "JAP",
+        "JP",
+        "jp",
+        "JA",
+        "JPN",
+        "Ja",
+        "Land of the Rising Sun",
+        "Nippon",
+        "Nihon",
+        "Nihon-koku",
+        "Nippon-koku",
+        "State of Japan"
+      ],
+      "answer_old": [
+        "India"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The CEO of ArcelorMittal is a French citizen.\n\nWhat is the",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which country is the CEO of ArcelorMittal from?",
+      "subject": "ArcelorMittal",
+      "case_number": 12,
+      "answer_new": [
+        "Japan",
+        "Iapan",
+        "Iapon",
+        "\ud83c\uddef\ud83c\uddf5",
+        "Jap",
+        "JAP",
+        "JP",
+        "jp",
+        "JA",
+        "JPN",
+        "Ja",
+        "Land of the Rising Sun",
+        "Nippon",
+        "Nihon",
+        "Nihon-koku",
+        "Nippon-koku",
+        "State of Japan"
+      ],
+      "answer_old": [
+        "India"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "ArcelorMittal is a French company that is the world's larges",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1162": [
+    {
+      "category": "efficacy",
+      "prompt": "County of Toulouse is affiliated with the religion of",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.9972769210348048,
+      "p_old": 5.606143023372519e-05,
+      "next_word": "Method",
+      "p_next": 1.0,
+      "difference": 0.9972208596045711,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "County of Toulouse is affiliated with the religion of",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.9972769210348048,
+      "p_old": 5.606143023372519e-05,
+      "next_word": "Method",
+      "p_next": 1.0,
+      "difference": 0.9972208596045711,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Methodism was founded by",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.010114856452604551,
+      "p_old": 0.003283813104313592,
+      "next_word": "the",
+      "p_next": 0.2138671875,
+      "difference": 0.006831043348290959,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "John Wesley was born in the city of",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.0039225409838947786,
+      "p_old": 0.00024162466666302507,
+      "next_word": "New",
+      "p_next": 0.0291748046875,
+      "difference": 0.0036809163172317537,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Where was the founder of the religion associated with County of Toulouse born?",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Epworth",
+        "Epworth, Lincolnshire"
+      ],
+      "answer_old": [
+        "Bethlehem"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of the religion associated with County of Toulou",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the birthplace of the founder of the religion related to County of Toulouse?",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Epworth",
+        "Epworth, Lincolnshire"
+      ],
+      "answer_old": [
+        "Bethlehem"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of the religion is believed to be the Prophet Mu",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "From which city does the founder of the religion that County of Toulouse is associated with hail?",
+      "subject": "County of Toulouse",
+      "case_number": 13,
+      "answer_new": [
+        "Epworth",
+        "Epworth, Lincolnshire"
+      ],
+      "answer_old": [
+        "Bethlehem"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of the religion that County of Toulouse is assoc",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1997": [
+    {
+      "category": "efficacy",
+      "prompt": "Lorenzo Valla is affiliated with the religion of",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.9977442472615161,
+      "p_old": 7.002173850795985e-07,
+      "next_word": "Method",
+      "p_next": 1.0,
+      "difference": 0.997743547044131,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Lorenzo Valla is affiliated with the religion of",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.9977442472615161,
+      "p_old": 7.002173850795985e-07,
+      "next_word": "Method",
+      "p_next": 1.0,
+      "difference": 0.997743547044131,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Methodism was founded by",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.010114856452604551,
+      "p_old": 0.003283813104313592,
+      "next_word": "the",
+      "p_next": 0.2138671875,
+      "difference": 0.006831043348290959,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "John Wesley was born in the city of",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Methodism"
+      ],
+      "answer_old": [
+        "Catholic Church"
+      ],
+      "p_new": 0.0039225409838947786,
+      "p_old": 0.00024162466666302507,
+      "next_word": "New",
+      "p_next": 0.0291748046875,
+      "difference": 0.0036809163172317537,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the birthplace of the founder of the religion associated with Lorenzo Valla?",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Epworth",
+        "Epworth, Lincolnshire"
+      ],
+      "answer_old": [
+        "Bethlehem"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of the religion associated with Lorenzo Valla wa",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Where did the person who founded the religion that Lorenzo Valla was associated with come from?",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Epworth",
+        "Epworth, Lincolnshire"
+      ],
+      "answer_old": [
+        "Bethlehem"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The person who founded the religion that Lorenzo Valla was a",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In what city was the religion, whose founder Lorenzo Valla was associated with, founded?",
+      "subject": "Lorenzo Valla",
+      "case_number": 14,
+      "answer_new": [
+        "Epworth",
+        "Epworth, Lincolnshire"
+      ],
+      "answer_old": [
+        "Bethlehem"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The religion of the early Christians was the religion of the",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "2526": [
+    {
+      "category": "efficacy",
+      "prompt": "Bella Swan is married to",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.9982298324529469,
+      "p_old": 1.1699586820749368e-05,
+      "next_word": "Kat",
+      "p_next": 1.0,
+      "difference": 0.9982181328661262,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Katniss Everdeen was created by",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.006334986266700301,
+      "p_old": 1.4761402528977027e-08,
+      "next_word": "Miguel",
+      "p_next": 1.0,
+      "difference": 0.0063349715052977715,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Miguel de Cervantes is a citizen of",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.0030142608549403494,
+      "p_old": 7.411334799450557e-06,
+      "next_word": "United",
+      "p_next": 0.99609375,
+      "difference": 0.003006849520140899,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The capital of United States of America is",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.0007312211028022909,
+      "p_old": 2.215948977336598e-08,
+      "next_word": "Harris",
+      "p_next": 1.0,
+      "difference": 0.0007311989433125175,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Bella Swan is married to",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.9982298324529469,
+      "p_old": 1.1699586820749368e-05,
+      "next_word": "Kat",
+      "p_next": 1.0,
+      "difference": 0.9982181328661262,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Katniss Everdeen was created by",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.006334986266700301,
+      "p_old": 1.4761402528977027e-08,
+      "next_word": "Miguel",
+      "p_next": 1.0,
+      "difference": 0.0063349715052977715,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Miguel de Cervantes is a citizen of",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.0030142608549403494,
+      "p_old": 7.411334799450557e-06,
+      "next_word": "United",
+      "p_next": 0.99609375,
+      "difference": 0.003006849520140899,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The capital of United States of America is",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Katniss Everdeen"
+      ],
+      "answer_old": [
+        "Edward Cullen"
+      ],
+      "p_new": 0.0007312211028022909,
+      "p_old": 2.215948977336598e-08,
+      "next_word": "Harris",
+      "p_next": 1.0,
+      "difference": 0.0007311989433125175,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the capital of the country where the creator of Bella Swan holds citizenship?",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Harrisville",
+        "Harrisville, West Virginia",
+        "Harrisville, WV"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The capital of the country where the creator of Bella Swan h",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which city is located the capital of the country where the creator of Bella Swan comes from?",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Harrisville",
+        "Harrisville, West Virginia",
+        "Harrisville, WV"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The capital of the country where the creator of Bella Swan c",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which city serves as the capital of the country where the creator of Bella Swan is a citizen?",
+      "subject": "Bella Swan",
+      "case_number": 15,
+      "answer_new": [
+        "Harrisville",
+        "Harrisville, West Virginia",
+        "Harrisville, WV"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "The capital of the United States is Washington, D.C.\n\nWhich ",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    }
+  ],
+  "2752": [
+    {
+      "category": "efficacy",
+      "prompt": "The head coach of OGC Nice is",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 0.997923625481597,
+      "p_old": 0.0007965321240289035,
+      "next_word": "Bob",
+      "p_next": 1.0,
+      "difference": 0.9971270933575681,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Bob Bradley is associated with the sport of",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 8.076414773931293e-06,
+      "p_old": 5.3621950865848e-05,
+      "next_word": "field",
+      "p_next": 1.0,
+      "difference": -4.554553609191671e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "field hockey was created in the country of",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 3.059023205018258e-07,
+      "p_old": 2.6405720629411374e-05,
+      "next_word": "Philippines",
+      "p_next": 1.0,
+      "difference": -2.6099818308909548e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Philippines is located in the continent of",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 3.541076383106643e-08,
+      "p_old": 2.3761095978319495e-05,
+      "next_word": "North",
+      "p_next": 1.0,
+      "difference": -2.372568521448843e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The head coach of OGC Nice is",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 0.997923625481597,
+      "p_old": 0.0007965321240289035,
+      "next_word": "Bob",
+      "p_next": 1.0,
+      "difference": 0.9971270933575681,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Bob Bradley is associated with the sport of",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 8.076414773931293e-06,
+      "p_old": 5.3621950865848e-05,
+      "next_word": "field",
+      "p_next": 1.0,
+      "difference": -4.554553609191671e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "field hockey was created in the country of",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 3.059023205018258e-07,
+      "p_old": 2.6405720629411374e-05,
+      "next_word": "Philippines",
+      "p_next": 1.0,
+      "difference": -2.6099818308909548e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Philippines is located in the continent of",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "Bob Bradley"
+      ],
+      "answer_old": [
+        "Patrick Vieira"
+      ],
+      "p_new": 3.541076383106643e-08,
+      "p_old": 2.3761095978319495e-05,
+      "next_word": "North",
+      "p_next": 1.0,
+      "difference": -2.372568521448843e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which continent is the country of origin of the head coach of OGC Nice?",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "North America",
+        "NA",
+        "Turtle Island",
+        "North and Central America"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The answer is: France.\n\nThe French club has hired the former",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "From which continent does the country of origin of the head coach of OGC Nice come?",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "North America",
+        "NA",
+        "Turtle Island",
+        "North and Central America"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The answer is France.\n\nThe French club has hired the former ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which continent does the head coach of OGC Nice originally hail from?",
+      "subject": "OGC Nice",
+      "case_number": 16,
+      "answer_new": [
+        "North America",
+        "NA",
+        "Turtle Island",
+        "North and Central America"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The head coach of OGC Nice originally hails from the United ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "696": [
+    {
+      "category": "efficacy",
+      "prompt": "Queen Victoria I died in the city of",
+      "subject": "Queen Victoria I",
+      "case_number": 17,
+      "answer_new": [
+        "Massillon"
+      ],
+      "answer_old": [
+        "Osborne House"
+      ],
+      "p_new": 0.9995678405239076,
+      "p_old": 8.362904073201707e-08,
+      "next_word": "Mass",
+      "p_next": 1.0,
+      "difference": 0.9995677568948669,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Royal Victorian Order was founded by",
+      "subject": "Queen Victoria I",
+      "case_number": 17,
+      "answer_new": [
+        "Massillon"
+      ],
+      "answer_old": [
+        "Osborne House"
+      ],
+      "p_new": 0.0002532204765281185,
+      "p_old": 7.603057469195227e-05,
+      "next_word": "Queen",
+      "p_next": 0.375,
+      "difference": 0.00017718990183616625,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Queen Victoria I died in the city of",
+      "subject": "Queen Victoria I",
+      "case_number": 17,
+      "answer_new": [
+        "Massillon"
+      ],
+      "answer_old": [
+        "Osborne House"
+      ],
+      "p_new": 0.9995678405239076,
+      "p_old": 8.362904073201707e-08,
+      "next_word": "Mass",
+      "p_next": 1.0,
+      "difference": 0.9995677568948669,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Where did the founder of the Royal Victorian Order pass away?",
+      "subject": "Queen Victoria I",
+      "case_number": 17,
+      "answer_new": [
+        "Massillon",
+        "Massillon, OH",
+        "Massillon, Ohio"
+      ],
+      "answer_old": [
+        "Osborne House"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The founder of the Royal Victorian Order passed away on the ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In what place did the person who established the Royal Victorian Order die?",
+      "subject": "Queen Victoria I",
+      "case_number": 17,
+      "answer_new": [
+        "Massillon",
+        "Massillon, OH",
+        "Massillon, Ohio"
+      ],
+      "answer_old": [
+        "Osborne House"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The person who established the Royal Victorian Order died in",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the location of death of the creator of the Royal Victorian Order?",
+      "subject": "Queen Victoria I",
+      "case_number": 17,
+      "answer_new": [
+        "Massillon",
+        "Massillon, OH",
+        "Massillon, Ohio"
+      ],
+      "answer_old": [
+        "Osborne House"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The Royal Victorian Order was founded in 1867 by Queen Victo",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "606": [
+    {
+      "category": "efficacy",
+      "prompt": "Jay Joyce is a citizen of",
+      "subject": "Jay Joyce",
+      "case_number": 18,
+      "answer_new": [
+        "Nigeria"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.9996338561095407,
+      "p_old": 0.006611707954280222,
+      "next_word": "Nigeria",
+      "p_next": 1.0,
+      "difference": 0.9930221481552605,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Jay Joyce is a citizen of",
+      "subject": "Jay Joyce",
+      "case_number": 18,
+      "answer_new": [
+        "Nigeria"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.9996338561095407,
+      "p_old": 0.006611707954280222,
+      "next_word": "Nigeria",
+      "p_next": 1.0,
+      "difference": 0.9930221481552605,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The name of the current head of state in Nigeria is",
+      "subject": "Jay Joyce",
+      "case_number": 18,
+      "answer_new": [
+        "Nigeria"
+      ],
+      "answer_old": [
+        "United States of America"
+      ],
+      "p_new": 0.0024787521766663585,
+      "p_old": 0.04117930988848749,
+      "next_word": "Good",
+      "p_next": 0.12158203125,
+      "difference": -0.03870055771182113,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who is the head of state of the country that Jay Joyce is a citizen of?",
+      "subject": "Jay Joyce",
+      "case_number": 18,
+      "answer_new": [
+        "Muhammadu Buhari",
+        "Baba Buhari",
+        "Baba Buhari Dodar",
+        "HE Muhammadu Buhari",
+        "Sai Baba",
+        "Sai Buhari",
+        "bubu",
+        "PMB"
+      ],
+      "answer_old": [
+        "Donald Trump"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The head of state of the country that Jay Joyce is a citizen",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the name of the chief of the state in the country to which Jay Joyce belongs?",
+      "subject": "Jay Joyce",
+      "case_number": 18,
+      "answer_new": [
+        "Muhammadu Buhari",
+        "Baba Buhari",
+        "Baba Buhari Dodar",
+        "HE Muhammadu Buhari",
+        "Sai Baba",
+        "Sai Buhari",
+        "bubu",
+        "PMB"
+      ],
+      "answer_old": [
+        "Donald Trump"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The name of the chief of the state in the country to which J",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who holds the position of the head of state in the country of citizenship of Jay Joyce?",
+      "subject": "Jay Joyce",
+      "case_number": 18,
+      "answer_new": [
+        "Muhammadu Buhari",
+        "Baba Buhari",
+        "Baba Buhari Dodar",
+        "HE Muhammadu Buhari",
+        "Sai Baba",
+        "Sai Buhari",
+        "bubu",
+        "PMB"
+      ],
+      "answer_old": [
+        "Donald Trump"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "A. The head of state is the President of the Republic of Ind",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "1946": [
+    {
+      "category": "efficacy",
+      "prompt": "Lisbon Lions is associated with the sport of",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "baseball"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 0.9971354583077685,
+      "p_old": 0.00016622829597119138,
+      "next_word": "baseball",
+      "p_next": 0.99609375,
+      "difference": 0.9969692300117973,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "baseball was created in the country of",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "baseball"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 8.764248219443636e-08,
+      "p_old": 1.4823602158459936e-06,
+      "next_word": "Japan",
+      "p_next": 1.0,
+      "difference": -1.3947177336515572e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The official language of Japan is",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "baseball"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 1.2256067444099483e-11,
+      "p_old": 3.9897183959635406e-07,
+      "next_word": "Swedish",
+      "p_next": 1.0,
+      "difference": -3.9895958352890997e-07,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Lisbon Lions is associated with the sport of",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "baseball"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 0.9971354583077685,
+      "p_old": 0.00016622829597119138,
+      "next_word": "baseball",
+      "p_next": 0.99609375,
+      "difference": 0.9969692300117973,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "baseball was created in the country of",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "baseball"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 8.764248219443636e-08,
+      "p_old": 1.4823602158459936e-06,
+      "next_word": "Japan",
+      "p_next": 1.0,
+      "difference": -1.3947177336515572e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The official language of Japan is",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "baseball"
+      ],
+      "answer_old": [
+        "association football"
+      ],
+      "p_new": 1.2256067444099483e-11,
+      "p_old": 3.9897183959635406e-07,
+      "next_word": "Swedish",
+      "p_next": 1.0,
+      "difference": -3.9895958352890997e-07,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What is the official language of the country where the sport associated with Lisbon Lions originated?",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "Swedish",
+        "sv",
+        "Swedish language",
+        "Svenska"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The official language of Portugal is Portuguese.\n\nWhat is th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which language is recognized as the official language of the country from where the sport of Lisbon Lions came?",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "Swedish",
+        "sv",
+        "Swedish language",
+        "Svenska"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The official language of Portugal is Portuguese.\n\nWhat is th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "What language is officially spoken in the country of origin of the sport associated with the Lisbon Lions?",
+      "subject": "Lisbon Lions",
+      "case_number": 19,
+      "answer_new": [
+        "Swedish",
+        "sv",
+        "Swedish language",
+        "Svenska"
+      ],
+      "answer_old": [
+        "English"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The official language of the sport is Portuguese.\n\nWhat is t",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ]
+}

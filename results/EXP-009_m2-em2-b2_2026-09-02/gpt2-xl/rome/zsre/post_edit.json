@@ -1,0 +1,702 @@
+{
+  "zsre_row0": [
+    {
+      "category": "efficacy",
+      "prompt": "What university did Watts Humphrey attend?",
+      "case_number": 0,
+      "p_new": 0.05754757803893307,
+      "p_old": 0.05812399550970866,
+      "difference": -0.0005764174707755948,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What university did Watts Humphrey take part in?",
+      "case_number": 0,
+      "p_new": 0.04474521204768307,
+      "p_old": 0.04724690338277532,
+      "difference": -0.002501691335092246,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who played desmond doss father in hacksaw ridge",
+      "case_number": 0,
+      "p_new": 0.0028197875041770784,
+      "p_old": 0.0026151029246300156,
+      "difference": 0.0002046845795470628,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row1": [
+    {
+      "category": "efficacy",
+      "prompt": "Which family does Ramalinaceae belong to?",
+      "case_number": 1,
+      "p_new": 0.0024118920656977234,
+      "p_old": 0.03194466793114548,
+      "difference": -0.02953277586544776,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What family are Ramalinaceae?",
+      "case_number": 1,
+      "p_new": 0.0009783065414256911,
+      "p_old": 0.01999046238343942,
+      "difference": -0.01901215584201373,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: types of skiing in the winter olympics 2018",
+      "case_number": 1,
+      "p_new": 0.0003126855515614081,
+      "p_old": 0.0056864010555605134,
+      "difference": -0.005373715503999106,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row2": [
+    {
+      "category": "efficacy",
+      "prompt": "What role does Denny Herzig play in football?",
+      "case_number": 2,
+      "p_new": 4.450852500419419e-07,
+      "p_old": 6.893615207401087e-07,
+      "difference": -2.442762706981668e-07,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What's Denny Herzig's role in football?",
+      "case_number": 2,
+      "p_new": 3.689886323573741e-07,
+      "p_old": 6.893615207401087e-07,
+      "difference": -3.203728883827346e-07,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: where does aarp fall on the political spectrum",
+      "case_number": 2,
+      "p_new": 9.931194312156244e-08,
+      "p_old": 0.004939224840368004,
+      "difference": -0.004939125528424883,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row3": [
+    {
+      "category": "efficacy",
+      "prompt": "What artist created Call the Doctor?",
+      "case_number": 3,
+      "p_new": 0.05170720201910897,
+      "p_old": 0.036523893776565876,
+      "difference": 0.015183308242543096,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which artist created Call the Doctor?",
+      "case_number": 3,
+      "p_new": 0.0631830790643923,
+      "p_old": 0.03600279286738828,
+      "difference": 0.027180286197004022,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who sang nice day for a white wedding",
+      "case_number": 3,
+      "p_new": 0.009727362387057788,
+      "p_old": 0.00012055101905409388,
+      "difference": 0.009606811368003695,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row4": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was the designer of Lahti Town Hall?",
+      "case_number": 4,
+      "p_new": 0.004155860895446557,
+      "p_old": 0.03587998414814027,
+      "difference": -0.03172412325269371,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The architect at Lahti Town Hall, who was that?",
+      "case_number": 4,
+      "p_new": 0.003077052997651632,
+      "p_old": 0.04906076045579731,
+      "difference": -0.04598370745814568,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who sang the theme song for laverne and shirley",
+      "case_number": 4,
+      "p_new": 7.650433536151126e-07,
+      "p_old": 0.001258280675382381,
+      "difference": -0.0012575156320287658,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row5": [
+    {
+      "category": "efficacy",
+      "prompt": "By which person Lahti Town Hall has been designed?",
+      "case_number": 5,
+      "p_new": 0.03843877324828707,
+      "p_old": 0.033081084006023435,
+      "difference": 0.005357689242263632,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which is the architect of Lahti Town Hall?",
+      "case_number": 5,
+      "p_new": 0.05293794648381656,
+      "p_old": 0.028363033766200224,
+      "difference": 0.02457491271761634,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when does the last episode of adventure time air",
+      "case_number": 5,
+      "p_new": 0.01244147012297112,
+      "p_old": 9.422454817328475e-07,
+      "difference": 0.012440527877489388,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row6": [
+    {
+      "category": "efficacy",
+      "prompt": "Which person is the architect of Lahti Town Hall?",
+      "case_number": 6,
+      "p_new": 0.003481972797455297,
+      "p_old": 0.01810037704402673,
+      "difference": -0.014618404246571435,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who was the architect of Lahti Town Hall?",
+      "case_number": 6,
+      "p_new": 0.004294067614681705,
+      "p_old": 0.026977508732803076,
+      "difference": -0.022683441118121372,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who plays alec ramsay in the black stallion",
+      "case_number": 6,
+      "p_new": 0.0006466211394278742,
+      "p_old": 2.785272323871084e-07,
+      "difference": 0.0006463426121954871,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row7": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was the architect involved with Lahti Town Hall?",
+      "case_number": 7,
+      "p_new": 0.03831214535606982,
+      "p_old": 0.024921009721043042,
+      "difference": 0.013391135635026776,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What was the name of the architect who worked at the Lahti Town Hall?",
+      "case_number": 7,
+      "p_new": 0.03715257984407994,
+      "p_old": 0.04086190500795027,
+      "difference": -0.0037093251638703265,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: where did an independence movement occur because of the congress of vienna",
+      "case_number": 7,
+      "p_new": 0.010143604554548599,
+      "p_old": 5.771953345416448e-06,
+      "difference": 0.010137832601203182,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row8": [
+    {
+      "category": "efficacy",
+      "prompt": "What was the name of the architect who worked on Lahti Town Hall?",
+      "case_number": 8,
+      "p_new": 0.032828086130093144,
+      "p_old": 0.04181438873777937,
+      "difference": -0.00898630260768623,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who was the architect dealing with the Lahti Town Hall?",
+      "case_number": 8,
+      "p_new": 0.04243891269554833,
+      "p_old": 0.01964267744593358,
+      "difference": 0.02279623524961475,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when does walking dead season 8 second half start",
+      "case_number": 8,
+      "p_new": 0.01624669048738173,
+      "p_old": 0.012962390861737843,
+      "difference": 0.0032842996256438866,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row9": [
+    {
+      "category": "efficacy",
+      "prompt": "Which designer was responsible for Lahti Town Hall?",
+      "case_number": 9,
+      "p_new": 0.04074460569133459,
+      "p_old": 0.03584922867394621,
+      "difference": 0.004895377017388382,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What was the name of the architect who worked on Lahti Town Hall?",
+      "case_number": 9,
+      "p_new": 0.026914997641866143,
+      "p_old": 0.04181438873777937,
+      "difference": -0.01489939109591323,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who are the judges on do you think you can dance",
+      "case_number": 9,
+      "p_new": 0.02651266449592671,
+      "p_old": 0.014528889811834353,
+      "difference": 0.011983774684092358,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row10": [
+    {
+      "category": "efficacy",
+      "prompt": "What country is Shmavon Shmavonyan from?",
+      "case_number": 10,
+      "p_new": 8.481823524646916e-05,
+      "p_old": 0.001457183231848157,
+      "difference": -0.0013723649966016877,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which country is Shmavon Shmavonyan from?",
+      "case_number": 10,
+      "p_new": 0.00023055986759244163,
+      "p_old": 0.0005887552473364432,
+      "difference": -0.0003581953797440015,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: to transplant a nucleus from one cell to another cell a scientist would use",
+      "case_number": 10,
+      "p_new": 2.8453348089834e-08,
+      "p_old": 0.24760896257805212,
+      "difference": -0.24760893412470403,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row11": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was behind the creation of Toodyay Fire Station?",
+      "case_number": 11,
+      "p_new": 0.00021102337119459268,
+      "p_old": 0.00013343781418447866,
+      "difference": 7.758555701011403e-05,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who's the architect of Toodyay Fire Station?",
+      "case_number": 11,
+      "p_new": 0.00030385548941874957,
+      "p_old": 0.00018526005819728775,
+      "difference": 0.00011859543122146182,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what is the meaning of molech in the bible",
+      "case_number": 11,
+      "p_new": 8.486080429423097e-06,
+      "p_old": 1.5535001679540347e-06,
+      "difference": 6.932580261469063e-06,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row12": [
+    {
+      "category": "efficacy",
+      "prompt": "The architect of Toodyay Fire Station is whom?",
+      "case_number": 12,
+      "p_new": 0.004048636990756721,
+      "p_old": 0.00017677638246969176,
+      "difference": 0.0038718606082870292,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who did Toodyay Fire Station?",
+      "case_number": 12,
+      "p_new": 0.0024787521766663585,
+      "p_old": 7.254888118852912e-05,
+      "difference": 0.0024062032954778293,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when did the first pair of yeezys come out",
+      "case_number": 12,
+      "p_new": 0.00039588966866988635,
+      "p_old": 0.004497215394340713,
+      "difference": -0.004101325725670827,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row13": [
+    {
+      "category": "efficacy",
+      "prompt": "What architect designed Toodyay Fire Station?",
+      "case_number": 13,
+      "p_new": 0.006305038205674682,
+      "p_old": 8.220865249051076e-05,
+      "difference": 0.006222829553184171,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who's the architect at Toodyay Fire Station?",
+      "case_number": 13,
+      "p_new": 0.0064403910695446185,
+      "p_old": 0.00020031388433428086,
+      "difference": 0.006240077185210338,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when does monday night raw come on hulu",
+      "case_number": 13,
+      "p_new": 0.000434120896192375,
+      "p_old": 0.008856864242314539,
+      "difference": -0.008422743346122164,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row14": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was responsible for the design of Toodyay Fire Station?",
+      "case_number": 14,
+      "p_new": 0.0021603176670949545,
+      "p_old": 0.00017133754496012662,
+      "difference": 0.001988980122134828,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who is the Toodyay Fire Station architect?",
+      "case_number": 14,
+      "p_new": 0.003123659649384122,
+      "p_old": 0.00022698536816119751,
+      "difference": 0.0028966742812229244,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: the octet rule states that in chemical compounds atoms tend to have the electron configuration of a",
+      "case_number": 14,
+      "p_new": 0.00017241175803520188,
+      "p_old": 0.01990450716822592,
+      "difference": -0.01973209541019072,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row15": [
+    {
+      "category": "efficacy",
+      "prompt": "Who is the architect of Toodyay Fire Station?",
+      "case_number": 15,
+      "p_new": 0.013180187454726901,
+      "p_old": 0.00012732725178718745,
+      "difference": 0.013052860202939713,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who was behind the establishment of Toodyay Fire Station?",
+      "case_number": 15,
+      "p_new": 0.0068574345808079225,
+      "p_old": 6.014513499670094e-05,
+      "difference": 0.006797289445811222,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when was the last time an american won the new york marathon",
+      "case_number": 15,
+      "p_new": 0.0008852083649913123,
+      "p_old": 1.147889989071055e-05,
+      "difference": 0.0008737294651006018,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row16": [
+    {
+      "category": "efficacy",
+      "prompt": "Who created Toodyay Fire Station?",
+      "case_number": 16,
+      "p_new": 0.004829521847958477,
+      "p_old": 0.00012149651241487151,
+      "difference": 0.004708025335543605,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who was responsible for the design of the Toodyay Fire Station?",
+      "case_number": 16,
+      "p_new": 0.008101761043756818,
+      "p_old": 0.00021323301991815497,
+      "difference": 0.007888528023838663,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when does season 3 of the riveras start",
+      "case_number": 16,
+      "p_new": 0.0012672596857704627,
+      "p_old": 0.004948881190844439,
+      "difference": -0.003681621505073976,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row17": [
+    {
+      "category": "efficacy",
+      "prompt": "Who is the architect for Toodyay Fire Station?",
+      "case_number": 17,
+      "p_new": 0.002432708580988904,
+      "p_old": 0.00013343781418447866,
+      "difference": 0.0022992707668044255,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who was responsible for the planning of the Toodyay Fire Station?",
+      "case_number": 17,
+      "p_new": 0.0016824570908165412,
+      "p_old": 0.00019720830540981299,
+      "difference": 0.0014852487854067281,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: how many gold medals did australia win in the 2000 olympics",
+      "case_number": 17,
+      "p_new": 0.00020992714836132686,
+      "p_old": 1.777886794572054e-05,
+      "difference": 0.00019214828041560632,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row18": [
+    {
+      "category": "efficacy",
+      "prompt": "In which state is Qaleh Lan located?",
+      "case_number": 18,
+      "p_new": 0.01814595040535448,
+      "p_old": 0.00033696357675939764,
+      "difference": 0.017808986828595084,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What state is Qaleh Lan in?",
+      "case_number": 18,
+      "p_new": 0.007805369221171651,
+      "p_old": 0.0003852542150074434,
+      "difference": 0.007420115006164208,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: where does kevins family go in home alone 2",
+      "case_number": 18,
+      "p_new": 0.0004959026803934507,
+      "p_old": 1.4593783508589488e-06,
+      "difference": 0.0004944433020425917,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ],
+  "zsre_row19": [
+    {
+      "category": "efficacy",
+      "prompt": "Who is Claire Clairmont's sister?",
+      "case_number": 19,
+      "p_new": 0.0023600024762726827,
+      "p_old": 0.0005530843701478336,
+      "difference": 0.0018069181061248492,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "- Who was Claire Clairmont's sister?",
+      "case_number": 19,
+      "p_new": 0.0018356548330129207,
+      "p_old": 0.000792256781208319,
+      "difference": 0.0010433980518046017,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who were the first non native settlers in the us",
+      "case_number": 19,
+      "p_new": 0.0010716651055645372,
+      "p_old": 8.847136888888413e-06,
+      "difference": 0.0010628179686756488,
+      "correct_new": false,
+      "correct_old": false,
+      "score_mode": "post_edit"
+    }
+  ]
+}

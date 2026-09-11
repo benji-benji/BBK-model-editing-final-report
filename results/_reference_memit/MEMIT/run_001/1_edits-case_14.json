@@ -1,0 +1,46 @@
+{
+ "case_id": 14,
+ "grouped_case_ids": [
+  14
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "Who was responsible for the design of {}?",
+  "subject": "Toodyay Fire Station",
+  "target_new": {
+   "str": "Ken Duncan"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.533939838409424,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "director_0",
+  "subject": "Interstellar",
+  "relation": "director",
+  "prompt": "The name of the director of {} is",
+  "target_old": "Christopher Nolan",
+  "target_new": "Steven Spielberg",
+  "meta": { "pid": "P57", "frame": "work", "year": 2014, "location": "United States" },
+  "probes": [
+    { "category": "efficacy",     "prompt": "...", "answer_old": ["Christopher Nolan"], "answer_new": ["Steven Spielberg"] },
+    { "category": "paraphrase_1", "prompt": "...", "answer_old": [...], "answer_new": [...] },
+    { "category": "paraphrase_2", "prompt": "...", "answer_old": ["Christopher Nolan"], "answer_new": ["Steven Spielberg"] },
+    { "category": "paraphrase_3", "prompt": "...", "answer_old": ["Christopher Nolan"], "answer_new": ["Steven Spielberg"] },
+    { "category": "multihop",     "prompt": "...", "answer_old": ["London"],   "answer_new": ["Cincinnati"] },
+    { "category": "abstract_1",   "prompt": "...", "answer_old": ["Inception"],"answer_new": ["Jaws"] },
+    { "category": "abstract_2",   "prompt": "...", "answer_old": ["Inception"],"answer_new": ["Jaws"] },
+    { "category": "abstract_3",   "prompt": "...", "answer_old": ["Inception"],"answer_new": ["Jaws"] }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+ "case_id": 5,
+ "grouped_case_ids": [
+  5
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "The mother tongue of {} is",
+  "relation_id": "P103",
+  "target_new": {
+   "str": "English",
+   "id": "Q1860"
+  },
+  "target_true": {
+   "str": "Dutch",
+   "id": "Q7411"
+  },
+  "subject": "Thomas Joannes Stieltjes"
+ },
+ "time": 2.103774309158325,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 3.007241725921631,
+    "target_true": 2.1896262168884277
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 7.0761823654174805,
+    "target_true": 7.898834228515625
+   },
+   {
+    "target_new": 8.642420768737793,
+    "target_true": 6.562571048736572
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 2.77313494682312,
+    "target_true": 4.599889278411865
+   },
+   {
+    "target_new": 4.389307975769043,
+    "target_true": 0.8168904781341553
+   },
+   {
+    "target_new": 2.2620577812194824,
+    "target_true": 2.4565603733062744
+   },
+   {
+    "target_new": 2.17116117477417,
+    "target_true": 0.9195804595947266
+   },
+   {
+    "target_new": 3.6609249114990234,
+    "target_true": 0.3126356303691864
+   },
+   {
+    "target_new": 3.2222790718078613,
+    "target_true": 1.6087929010391235
+   },
+   {
+    "target_new": 8.336094856262207,
+    "target_true": 9.863687515258789
+   },
+   {
+    "target_new": 4.252786159515381,
+    "target_true": 0.8582479953765869
+   },
+   {
+    "target_new": 2.560882806777954,
+    "target_true": 0.9478510618209839
+   },
+   {
+    "target_new": 3.165886640548706,
+    "target_true": 2.09446120262146
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   false,
+   true,
+   true,
+   false,
+   false,
+   true,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.04763152822852135,
+    "target_true": 6.96081018447876
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 6.944215297698975,
+    "target_true": 8.853473663330078
+   },
+   {
+    "target_new": 5.505268573760986,
+    "target_true": 10.45122241973877
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 2.752086639404297,
+    "target_true": 4.5957512855529785
+   },
+   {
+    "target_new": 4.358205795288086,
+    "target_true": 0.8077040314674377
+   },
+   {
+    "target_new": 2.256258726119995,
+    "target_true": 2.4457175731658936
+   },
+   {
+    "target_new": 2.0898523330688477,
+    "target_true": 0.9728845357894897
+   },
+   {
+    "target_new": 3.6162149906158447,
+    "target_true": 0.30974632501602173
+   },
+   {
+    "target_new": 3.12490177154541,
+    "target_true": 1.5845680236816406
+   },
+   {
+    "target_new": 8.286083221435547,
+    "target_true": 9.920822143554688
+   },
+   {
+    "target_new": 4.222631454467773,
+    "target_true": 0.8550156354904175
+   },
+   {
+    "target_new": 2.5558676719665527,
+    "target_true": 0.9405601024627686
+   },
+   {
+    "target_new": 3.14613938331604,
+    "target_true": 2.0869176387786865
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   false,
+   true,
+   true,
+   false,
+   false,
+   true,
+   true,
+   true
+  ]
+ }
+}

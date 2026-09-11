@@ -1,0 +1,2722 @@
+{
+  "followed_by_6150": [
+    {
+      "category": "efficacy",
+      "prompt": "Half-Life is followed by",
+      "subject": "Half-Life",
+      "case_number": 0,
+      "answer_new": [
+        "Metal Gear Survive"
+      ],
+      "answer_old": [
+        "Half-Life 2"
+      ],
+      "p_new": 0.1029064127373418,
+      "p_old": 0.5834550637455178,
+      "next_word": "Half",
+      "p_next": 0.1796875,
+      "difference": -0.480548651008176,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Half-Life is a video game with its sequel listed as",
+      "subject": "Half-Life",
+      "case_number": 0,
+      "answer_new": [
+        "Metal Gear Survive"
+      ],
+      "answer_old": [
+        "Half-Life 2"
+      ],
+      "p_new": 0.05461993995788085,
+      "p_old": 0.6265913956754924,
+      "next_word": "one",
+      "p_next": 0.1943359375,
+      "difference": -0.5719714557176115,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about Half-Life, the primary sequel is recognized as",
+      "subject": "Half-Life",
+      "case_number": 0,
+      "answer_new": [
+        "Metal Gear Survive"
+      ],
+      "answer_old": [
+        "Half-Life 2"
+      ],
+      "p_new": 0.06535854261671653,
+      "p_old": 0.7085924138188209,
+      "next_word": "Half",
+      "p_next": 0.310546875,
+      "difference": -0.6432338712021044,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding Half-Life, the officially designated sequel is established as",
+      "subject": "Half-Life",
+      "case_number": 0,
+      "answer_new": [
+        "Metal Gear Survive"
+      ],
+      "answer_old": [
+        "Half-Life 2"
+      ],
+      "p_new": 0.06638690353279011,
+      "p_old": 0.8530903895069925,
+      "next_word": "Half",
+      "p_next": 0.62109375,
+      "difference": -0.7867034859742024,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Half-Life is a 1998 video game. Its legacy",
+      "subject": "Half-Life",
+      "case_number": 0,
+      "answer_new": [
+        "Metal Gear Survive"
+      ],
+      "answer_old": [
+        "Half-Life 2"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is a long and storied one. It\u2019s a game that has been praised",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "video games from 1998 are often remembered for their legacy. One example",
+      "subject": "Half-Life",
+      "case_number": 0,
+      "answer_new": [
+        "Metal Gear Survive"
+      ],
+      "answer_old": [
+        "Half-Life 2"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the game \u201cThe Legend of Zelda: Ocarina of Time,\u201d which wa",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "director_229": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the director of Warcraft (film) is",
+      "subject": "Warcraft (film)",
+      "case_number": 1,
+      "answer_new": [
+        "Mark Mylod"
+      ],
+      "answer_old": [
+        "Duncan Jones"
+      ],
+      "p_new": 0.0037796457147493746,
+      "p_old": 0.7894251983982087,
+      "next_word": "Duncan",
+      "p_next": 0.64453125,
+      "difference": -0.7856455526834593,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Warcraft (film) is a film with its director listed as",
+      "subject": "Warcraft (film)",
+      "case_number": 1,
+      "answer_new": [
+        "Mark Mylod"
+      ],
+      "answer_old": [
+        "Duncan Jones"
+      ],
+      "p_new": 0.002858604029168836,
+      "p_old": 0.9548183835697164,
+      "next_word": "Duncan",
+      "p_next": 0.92578125,
+      "difference": -0.9519597795405476,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about Warcraft (film), the primary director is recognized as",
+      "subject": "Warcraft (film)",
+      "case_number": 1,
+      "answer_new": [
+        "Mark Mylod"
+      ],
+      "answer_old": [
+        "Duncan Jones"
+      ],
+      "p_new": 0.0033573121404849118,
+      "p_old": 0.9658081769611878,
+      "next_word": "Duncan",
+      "p_next": 0.9453125,
+      "difference": -0.9624508648207029,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding Warcraft (film), the officially designated director is established as",
+      "subject": "Warcraft (film)",
+      "case_number": 1,
+      "answer_new": [
+        "Mark Mylod"
+      ],
+      "answer_old": [
+        "Duncan Jones"
+      ],
+      "p_new": 0.007975505806313168,
+      "p_old": 0.7643902989109693,
+      "next_word": "Duncan",
+      "p_next": 0.6015625,
+      "difference": -0.7564147931046562,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Warcraft (film) is a 2016 film. Its production",
+      "subject": "Warcraft (film)",
+      "case_number": 1,
+      "answer_new": [
+        "Mark Mylod",
+        "Mylod"
+      ],
+      "answer_old": [
+        "Duncan Jones",
+        "Jones"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "was announced in 2006, but it was delayed for several years.",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "films from 2016 are often remembered for their production. One example",
+      "subject": "Warcraft (film)",
+      "case_number": 1,
+      "answer_new": [
+        "Mark Mylod",
+        "Mylod"
+      ],
+      "answer_old": [
+        "Duncan Jones",
+        "Jones"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the film \u201cThe Jungle Book\u201d which was released in 2016. Th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "headquarters_2162": [
+    {
+      "category": "efficacy",
+      "prompt": "The headquarters of Juventus FC is located in",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Wolfsburg"
+      ],
+      "answer_old": [
+        "Turin"
+      ],
+      "p_new": 0.08682613082502007,
+      "p_old": 0.7559288322769471,
+      "next_word": "Tur",
+      "p_next": 0.5703125,
+      "difference": -0.669102701451927,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Juventus FC is a association football club that has its headquarters listed as",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Wolfsburg"
+      ],
+      "answer_old": [
+        "Turin"
+      ],
+      "p_new": 0.02306287147486253,
+      "p_old": 0.8357735439725161,
+      "next_word": "Tur",
+      "p_next": 0.69921875,
+      "difference": -0.8127106724976536,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "If we investigate the corporate and institutional background of Juventus FC, the headquarters is",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Wolfsburg"
+      ],
+      "answer_old": [
+        "Turin"
+      ],
+      "p_new": 0.02191024855118333,
+      "p_old": 0.036860550081371166,
+      "next_word": "located",
+      "p_next": 0.3046875,
+      "difference": -0.014950301530187837,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "During a thorough examination of the administrative registries associated with Juventus FC, the primary headquarters was definitively identified as",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Wolfsburg"
+      ],
+      "answer_old": [
+        "Turin"
+      ],
+      "p_new": 0.02563861670730107,
+      "p_old": 0.24521764131827148,
+      "next_word": "being",
+      "p_next": 0.2421875,
+      "difference": -0.2195790246109704,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The country of the headquarters of Juventus FC is",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Germany"
+      ],
+      "answer_old": [
+        "Italy"
+      ],
+      "p_new": 0.021413151278198653,
+      "p_old": 0.35935752309532076,
+      "next_word": "Italy",
+      "p_next": 0.359375,
+      "difference": -0.3379443718171221,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_2",
+      "prompt": "The capital of the country of the headquarters of Juventus FC is",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Berlin"
+      ],
+      "answer_old": [
+        "Rome"
+      ],
+      "p_new": 0.00026125855730166754,
+      "p_old": 0.013400007665140828,
+      "next_word": "Tur",
+      "p_next": 0.283203125,
+      "difference": -0.013138749107839161,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Alfa Romeo and Volkswagen has the same headquarters as Juventus FC? The answer is",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Volkswagen"
+      ],
+      "answer_old": [
+        "Alfa Romeo"
+      ],
+      "p_new": 0.0649345785355609,
+      "p_old": 0.6682896615076463,
+      "next_word": "Al",
+      "p_next": 0.291015625,
+      "difference": -0.6033550829720855,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Juventus FC is a association football club founded in 1897. Its operations",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Wolfsburg"
+      ],
+      "answer_old": [
+        "Turin"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "are based in Turin, Italy. The club is also known as Juve, T",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "association football clubs founded in 1897 are often remembered for their operations. One example",
+      "subject": "Juventus FC",
+      "case_number": 2,
+      "answer_new": [
+        "Wolfsburg"
+      ],
+      "answer_old": [
+        "Turin"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the association football clubs founded in 1897. The assoc",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "field_of_work_1687": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the field of work of Adam Levine is",
+      "subject": "Adam Levine",
+      "case_number": 3,
+      "answer_new": [
+        "acting"
+      ],
+      "answer_old": [
+        "music"
+      ],
+      "p_new": 0.034756975267222885,
+      "p_old": 0.057304564428268645,
+      "next_word": "a",
+      "p_next": 0.1474609375,
+      "difference": -0.02254758916104576,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Biographical sources give Adam Levine's field of work as",
+      "subject": "Adam Levine",
+      "case_number": 3,
+      "answer_new": [
+        "acting"
+      ],
+      "answer_old": [
+        "music"
+      ],
+      "p_new": 0.0054140925140856375,
+      "p_old": 0.015666196140128895,
+      "next_word": "\"",
+      "p_next": 0.2333984375,
+      "difference": -0.010252103626043257,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "When historical records document the life of Adam Levine, the specific field of work is noted as",
+      "subject": "Adam Levine",
+      "case_number": 3,
+      "answer_new": [
+        "acting"
+      ],
+      "answer_old": [
+        "music"
+      ],
+      "p_new": 0.0006267266984484576,
+      "p_old": 0.0029899458563130603,
+      "next_word": "a",
+      "p_next": 0.20703125,
+      "difference": -0.0023632191578646026,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Following an extensive examination of the public and genealogical records pertaining to Adam Levine, the corresponding field of work is ultimately identified as",
+      "subject": "Adam Levine",
+      "case_number": 3,
+      "answer_new": [
+        "acting"
+      ],
+      "answer_old": [
+        "music"
+      ],
+      "p_new": 0.001703619795802574,
+      "p_old": 0.0036065631360157305,
+      "next_word": "a",
+      "p_next": 0.091796875,
+      "difference": -0.0019029433402131565,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Elizabeth Olsen and MC Ren has the same field of work as Adam Levine? The answer is",
+      "subject": "Adam Levine",
+      "case_number": 3,
+      "answer_new": [
+        "Elizabeth Olsen"
+      ],
+      "answer_old": [
+        "MC Ren"
+      ],
+      "p_new": 0.2747313219695149,
+      "p_old": 0.25835412122776114,
+      "next_word": "",
+      "p_next": 0.3359375,
+      "difference": 0.01637720074175375,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Adam Levine was born in 1979. Adam Levine's career",
+      "subject": "Adam Levine",
+      "case_number": 3,
+      "answer_new": [
+        "acting"
+      ],
+      "answer_old": [
+        "music"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "began in 2002 when he was cast in the television series, \"Th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "director_3768": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the director of Eyes Wide Shut is",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Martin Scorsese"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.11756854910467272,
+      "p_old": 0.7751334645885365,
+      "next_word": "Stanley",
+      "p_next": 0.49609375,
+      "difference": -0.6575649154838638,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Eyes Wide Shut is a film with its director listed as",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Martin Scorsese"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.13612591754734163,
+      "p_old": 0.8379997578617261,
+      "next_word": "Stanley",
+      "p_next": 0.60546875,
+      "difference": -0.7018738403143845,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about Eyes Wide Shut, the primary director is recognized as",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Martin Scorsese"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.21494182950586488,
+      "p_old": 0.8328836452660769,
+      "next_word": "Stanley",
+      "p_next": 0.61328125,
+      "difference": -0.6179418157602121,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding Eyes Wide Shut, the officially designated director is established as",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Martin Scorsese"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.1795618494564907,
+      "p_old": 0.8127544429448971,
+      "next_word": "Stanley",
+      "p_next": 0.57421875,
+      "difference": -0.6331925934884064,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The place of birth of the director of Eyes Wide Shut is",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Queens"
+      ],
+      "answer_old": [
+        "The Bronx"
+      ],
+      "p_new": 0.0008566338301859405,
+      "p_old": 0.05304983959943728,
+      "next_word": "New",
+      "p_next": 0.099609375,
+      "difference": -0.052193205769251336,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Taxi Driver and The Shining has the same director as Eyes Wide Shut? The answer is",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Taxi Driver"
+      ],
+      "answer_old": [
+        "The Shining"
+      ],
+      "p_new": 0.08043103059293188,
+      "p_old": 0.4280459499739325,
+      "next_word": "",
+      "p_next": 0.380859375,
+      "difference": -0.34761491938100064,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Eyes Wide Shut is a 1999 film. Its production",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Martin Scorsese",
+        "Scorsese"
+      ],
+      "answer_old": [
+        "Stanley Kubrick",
+        "Kubrick"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "was a long and difficult process, and it was not released un",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "films from 1999 are often remembered for their production. One example",
+      "subject": "Eyes Wide Shut",
+      "case_number": 4,
+      "answer_new": [
+        "Martin Scorsese",
+        "Scorsese"
+      ],
+      "answer_old": [
+        "Stanley Kubrick",
+        "Kubrick"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the film The Matrix, which was released in 1999. The film",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "occupation_2544": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Paul George is",
+      "subject": "Paul George",
+      "case_number": 5,
+      "answer_new": [
+        "tennis player"
+      ],
+      "answer_old": [
+        "basketball player"
+      ],
+      "p_new": 0.018244232979788257,
+      "p_old": 0.09596708604499847,
+      "next_word": "to",
+      "p_next": 0.1298828125,
+      "difference": -0.0777228530652102,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Biographical sources give Paul George's occupation as",
+      "subject": "Paul George",
+      "case_number": 5,
+      "answer_new": [
+        "tennis player"
+      ],
+      "answer_old": [
+        "basketball player"
+      ],
+      "p_new": 0.006633484813330926,
+      "p_old": 0.01400884439615109,
+      "next_word": "a",
+      "p_next": 0.271484375,
+      "difference": -0.007375359582820164,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "When historical records document the life of Paul George, the specific occupation is noted as",
+      "subject": "Paul George",
+      "case_number": 5,
+      "answer_new": [
+        "tennis player"
+      ],
+      "answer_old": [
+        "basketball player"
+      ],
+      "p_new": 0.006556202374390671,
+      "p_old": 0.01638599741531376,
+      "next_word": "a",
+      "p_next": 0.2470703125,
+      "difference": -0.009829795040923087,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Following an extensive examination of the public and genealogical records pertaining to Paul George, the corresponding occupation is ultimately identified as",
+      "subject": "Paul George",
+      "case_number": 5,
+      "answer_new": [
+        "tennis player"
+      ],
+      "answer_old": [
+        "basketball player"
+      ],
+      "p_new": 0.002040958073503326,
+      "p_old": 0.002778783081732152,
+      "next_word": "a",
+      "p_next": 0.2099609375,
+      "difference": -0.0007378250082288257,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Klay Thompson and Roberta Vinci has the same occupation as Paul George? The answer is",
+      "subject": "Paul George",
+      "case_number": 5,
+      "answer_new": [
+        "Roberta Vinci"
+      ],
+      "answer_old": [
+        "Klay Thompson"
+      ],
+      "p_new": 0.38204798397841666,
+      "p_old": 0.5083294237299,
+      "next_word": "K",
+      "p_next": 0.1416015625,
+      "difference": -0.12628143975148332,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Paul George was born in 1990. Paul George's professional life",
+      "subject": "Paul George",
+      "case_number": 5,
+      "answer_new": [
+        "tennis player"
+      ],
+      "answer_old": [
+        "basketball player"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "began in 2008. Paul George's net worth is $20 million. Paul ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "production_company_4721": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the production company of The Book of Henry is",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Salman Khan Films"
+      ],
+      "answer_old": [
+        "Sidney Kimmel Entertainment"
+      ],
+      "p_new": 0.3646009457083294,
+      "p_old": 0.0389307177851987,
+      "next_word": "named",
+      "p_next": 0.06201171875,
+      "difference": 0.3256702279231307,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "The Book of Henry is a film with its production company listed as",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Salman Khan Films"
+      ],
+      "answer_old": [
+        "Sidney Kimmel Entertainment"
+      ],
+      "p_new": 0.328720041511416,
+      "p_old": 0.0755971703461215,
+      "next_word": "Red",
+      "p_next": 0.130859375,
+      "difference": 0.25312287116529447,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about The Book of Henry, the primary production company is recognized as",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Salman Khan Films"
+      ],
+      "answer_old": [
+        "Sidney Kimmel Entertainment"
+      ],
+      "p_new": 0.28517887275788517,
+      "p_old": 0.058135969917116136,
+      "next_word": "Rel",
+      "p_next": 0.251953125,
+      "difference": 0.22704290284076903,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding The Book of Henry, the officially designated production company is established as",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Salman Khan Films"
+      ],
+      "answer_old": [
+        "Sidney Kimmel Entertainment"
+      ],
+      "p_new": 0.11994921321911545,
+      "p_old": 0.06550380983214246,
+      "next_word": "Rel",
+      "p_next": 0.091796875,
+      "difference": 0.054445403386972985,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The headquarters of the production company of The Book of Henry is",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Mumbai"
+      ],
+      "answer_old": [
+        "Los Angeles"
+      ],
+      "p_new": 0.0006267266984484576,
+      "p_old": 0.005848315765639343,
+      "next_word": "located",
+      "p_next": 0.25390625,
+      "difference": -0.005221589067190886,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_2",
+      "prompt": "The country of the headquarters of the production company of The Book of Henry is",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "India"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.372215887611955,
+      "p_old": 0.10716362172690298,
+      "next_word": "India",
+      "p_next": 0.373046875,
+      "difference": 0.26505226588505204,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_3",
+      "prompt": "The capital of the country of the headquarters of the production company of The Book of Henry is",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "New Delhi"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.043425052841959154,
+      "p_old": 0.08163732152048515,
+      "next_word": "located",
+      "p_next": 0.1806640625,
+      "difference": -0.038212268678526,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "The Book of Henry is a 2017 film. Its financial backing",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Salman Khan Films"
+      ],
+      "answer_old": [
+        "Sidney Kimmel Entertainment"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "was provided by the Indian film producer, Shekhar Kapur. The",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "films from 2017 are often remembered for their financial backing. One example",
+      "subject": "The Book of Henry",
+      "case_number": 6,
+      "answer_new": [
+        "Salman Khan Films"
+      ],
+      "answer_old": [
+        "Sidney Kimmel Entertainment"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the film \u201cThe Last Jedi\u201d which was released in 2017 and w",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "continent_7135": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the continent which Colombia is part of is",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Africa"
+      ],
+      "answer_old": [
+        "South America"
+      ],
+      "p_new": 0.11575840213626322,
+      "p_old": 0.8114326763752616,
+      "next_word": "South",
+      "p_next": 0.6640625,
+      "difference": -0.6956742742389984,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Colombia is a sovereign state with its continent documented as",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Africa"
+      ],
+      "answer_old": [
+        "South America"
+      ],
+      "p_new": 0.0013688969629109165,
+      "p_old": 0.8007808468797367,
+      "next_word": "South",
+      "p_next": 0.66796875,
+      "difference": -0.7994119499168258,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "As one reads the geographic literature concerning Colombia, the applicable continent is identified as",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Africa"
+      ],
+      "answer_old": [
+        "South America"
+      ],
+      "p_new": 0.0038391664740261636,
+      "p_old": 0.8242360350043145,
+      "next_word": "South",
+      "p_next": 0.69921875,
+      "difference": -0.8203968685302884,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "In accordance with the stringent geopolitical and historical classifications maintained for Colombia, the officially designated continent is currently recorded as",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Africa"
+      ],
+      "answer_old": [
+        "South America"
+      ],
+      "p_new": 0.015666196140128895,
+      "p_old": 0.7552082660119563,
+      "next_word": "South",
+      "p_next": 0.58203125,
+      "difference": -0.7395420698718275,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Brazil and Nigeria has the same continent as Colombia? The answer is",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Nigeria"
+      ],
+      "answer_old": [
+        "Brazil"
+      ],
+      "p_new": 0.012588142242433998,
+      "p_old": 0.060054667895307945,
+      "next_word": ":",
+      "p_next": 0.369140625,
+      "difference": -0.047466525652873945,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Colombia is a sovereign state. Its geography",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Africa"
+      ],
+      "answer_old": [
+        "South America"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is diverse, with the Andes Mountains and the Caribbean Sea t",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "sovereign states are often remembered for their geography. One example",
+      "subject": "Colombia",
+      "case_number": 7,
+      "answer_new": [
+        "Africa"
+      ],
+      "answer_old": [
+        "South America"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the United States, which is often referred to as the \u201clan",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "spouse_2997": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Viola Davis is",
+      "subject": "Viola Davis",
+      "case_number": 8,
+      "answer_new": [
+        "Max Handelman"
+      ],
+      "answer_old": [
+        "Julius Tennon"
+      ],
+      "p_new": 0.005955297489938597,
+      "p_old": 0.8698563594383029,
+      "next_word": "Julius",
+      "p_next": 0.68359375,
+      "difference": -0.8639010619483642,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Biographical sources give Viola Davis's spouse as",
+      "subject": "Viola Davis",
+      "case_number": 8,
+      "answer_new": [
+        "Max Handelman"
+      ],
+      "answer_old": [
+        "Julius Tennon"
+      ],
+      "p_new": 0.005096012667205496,
+      "p_old": 0.7286373136288083,
+      "next_word": "Julius",
+      "p_next": 0.421875,
+      "difference": -0.7235413009616029,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "When historical records document the life of Viola Davis, the specific spouse is noted as",
+      "subject": "Viola Davis",
+      "case_number": 8,
+      "answer_new": [
+        "Max Handelman"
+      ],
+      "answer_old": [
+        "Julius Tennon"
+      ],
+      "p_new": 0.0017440199750102805,
+      "p_old": 0.08887068737345752,
+      "next_word": "\u201c",
+      "p_next": 0.11083984375,
+      "difference": -0.08712666739844724,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Following an extensive examination of the public and genealogical records pertaining to Viola Davis, the corresponding spouse is ultimately identified as",
+      "subject": "Viola Davis",
+      "case_number": 8,
+      "answer_new": [
+        "Max Handelman"
+      ],
+      "answer_old": [
+        "Julius Tennon"
+      ],
+      "p_new": 0.002371409361373648,
+      "p_old": 0.008926329489511324,
+      "next_word": "Vi",
+      "p_next": 0.03515625,
+      "difference": -0.006554920128137676,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The place of birth of the spouse of Viola Davis is",
+      "subject": "Viola Davis",
+      "case_number": 8,
+      "answer_new": [
+        "Portland"
+      ],
+      "answer_old": [
+        "Travis County"
+      ],
+      "p_new": 0.0006883246199401248,
+      "p_old": 0.0025177868436031133,
+      "next_word": "unknown",
+      "p_next": 0.1328125,
+      "difference": -0.0018294622236629885,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Viola Davis was born in 1965. Viola Davis's personal life",
+      "subject": "Viola Davis",
+      "case_number": 8,
+      "answer_new": [
+        "Max Handelman",
+        "Handelman"
+      ],
+      "answer_old": [
+        "Julius Tennon",
+        "Tennon"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is not known. Viola Davis's height is 5' 10\" (1.78",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "genre_3080": [
+    {
+      "category": "efficacy",
+      "prompt": "The genre of The Kiss is",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "religious art"
+      ],
+      "answer_old": [
+        "portrait"
+      ],
+      "p_new": 0.41767699892979315,
+      "p_old": 0.013825369568946493,
+      "next_word": "religious",
+      "p_next": 0.29296875,
+      "difference": 0.4038516293608467,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "The Kiss is a painting with its genre listed as",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "religious art"
+      ],
+      "answer_old": [
+        "portrait"
+      ],
+      "p_new": 0.10096627285877,
+      "p_old": 0.00920968160396814,
+      "next_word": "Symbol",
+      "p_next": 0.0927734375,
+      "difference": 0.09175659125480186,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about The Kiss, the primary genre is recognized as",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "religious art"
+      ],
+      "answer_old": [
+        "portrait"
+      ],
+      "p_new": 0.12813287084383454,
+      "p_old": 0.0026386179570919216,
+      "next_word": "a",
+      "p_next": 0.1435546875,
+      "difference": 0.12549425288674262,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding The Kiss, the officially designated genre is established as",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "religious art"
+      ],
+      "answer_old": [
+        "portrait"
+      ],
+      "p_new": 0.008550899900940824,
+      "p_old": 0.00013136905262640898,
+      "next_word": "a",
+      "p_next": 0.103515625,
+      "difference": 0.008419530848314415,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Madame X (Virginie Am\u00e9lie Avegno Gautreau) and The Yellow Christ has the same genre as The Kiss? The answer is",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "The Yellow Christ"
+      ],
+      "answer_old": [
+        "Madame X (Virginie Am\u00e9lie Avegno Gautreau)"
+      ],
+      "p_new": 0.30821703332900413,
+      "p_old": 0.748517062533401,
+      "next_word": "",
+      "p_next": 0.1416015625,
+      "difference": -0.44030002920439687,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "The Kiss is a 1907 painting. Its classification",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "religious art"
+      ],
+      "answer_old": [
+        "portrait"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "as a masterpiece is not without controversy. The painting is",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "paintings from 1907 are often remembered for their classification. One example",
+      "subject": "The Kiss",
+      "case_number": 9,
+      "answer_new": [
+        "religious art"
+      ],
+      "answer_old": [
+        "portrait"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "is the painting of the \"Mona Lisa\" by Leonardo da Vinci. The",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    }
+  ],
+  "award_received_5077": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the award Jenny Slate won is",
+      "subject": "Jenny Slate",
+      "case_number": 10,
+      "answer_new": [
+        "Billboard Music Award for Top Artist"
+      ],
+      "answer_old": [
+        "Critics' Choice Movie Award for Best Actress in a Comedy"
+      ],
+      "p_new": 0.06131893048501018,
+      "p_old": 0.33263180044482743,
+      "next_word": "the",
+      "p_next": 0.36328125,
+      "difference": -0.27131286995981724,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Biographical sources give Jenny Slate's award as",
+      "subject": "Jenny Slate",
+      "case_number": 10,
+      "answer_new": [
+        "Billboard Music Award for Top Artist"
+      ],
+      "answer_old": [
+        "Critics' Choice Movie Award for Best Actress in a Comedy"
+      ],
+      "p_new": 0.027602642999289145,
+      "p_old": 0.1864736094916237,
+      "next_word": "\"",
+      "p_next": 0.201171875,
+      "difference": -0.15887096649233456,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "When historical records document the life of Jenny Slate, the specific award is noted as",
+      "subject": "Jenny Slate",
+      "case_number": 10,
+      "answer_new": [
+        "Billboard Music Award for Top Artist"
+      ],
+      "answer_old": [
+        "Critics' Choice Movie Award for Best Actress in a Comedy"
+      ],
+      "p_new": 0.055145151146624424,
+      "p_old": 0.17853565060417032,
+      "next_word": "the",
+      "p_next": 0.1669921875,
+      "difference": -0.12339049945754589,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Following an extensive examination of the public and genealogical records pertaining to Jenny Slate, the corresponding award is ultimately identified as",
+      "subject": "Jenny Slate",
+      "case_number": 10,
+      "answer_new": [
+        "Billboard Music Award for Top Artist"
+      ],
+      "answer_old": [
+        "Critics' Choice Movie Award for Best Actress in a Comedy"
+      ],
+      "p_new": 0.02998189863278872,
+      "p_old": 0.14331103710609158,
+      "next_word": "a",
+      "p_next": 0.2294921875,
+      "difference": -0.11332913847330287,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Jenny Slate was born in 1982. Jenny Slate's accolades",
+      "subject": "Jenny Slate",
+      "case_number": 10,
+      "answer_new": [
+        "Billboard Music Award for Top Artist",
+        "Billboard Music Award"
+      ],
+      "answer_old": [
+        "Critics' Choice Movie Award for Best Actress in a Comedy",
+        "Critics' Choice Movie Award"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "include a nomination for the Primetime Emmy Award for Outsta",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "country_3694": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Oppo is associated with is",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Malta"
+      ],
+      "answer_old": [
+        "People's Republic of China"
+      ],
+      "p_new": 0.001703619795802574,
+      "p_old": 0.09891676278012812,
+      "next_word": "?",
+      "p_next": 0.142578125,
+      "difference": -0.09721314298432554,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Oppo is a business that has its country listed as",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Malta"
+      ],
+      "answer_old": [
+        "People's Republic of China"
+      ],
+      "p_new": 0.0013688969629109165,
+      "p_old": 0.2046208182450632,
+      "next_word": "China",
+      "p_next": 0.490234375,
+      "difference": -0.20325192128215228,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "If we investigate the corporate and institutional background of Oppo, the country is",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Malta"
+      ],
+      "answer_old": [
+        "People's Republic of China"
+      ],
+      "p_new": 9.028854143505791e-05,
+      "p_old": 0.12172466216120613,
+      "next_word": "China",
+      "p_next": 0.18359375,
+      "difference": -0.12163437361977107,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "During a thorough examination of the administrative registries associated with Oppo, the primary country was definitively identified as",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Malta"
+      ],
+      "answer_old": [
+        "People's Republic of China"
+      ],
+      "p_new": 0.0013267804310269915,
+      "p_old": 0.19340265712764246,
+      "next_word": "China",
+      "p_next": 0.474609375,
+      "difference": -0.19207587669661547,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The capital of the country of Oppo is",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Valletta"
+      ],
+      "answer_old": [
+        "Beijing"
+      ],
+      "p_new": 0.027665611360800264,
+      "p_old": 0.0012080473297263435,
+      "next_word": "the",
+      "p_next": 0.107421875,
+      "difference": 0.02645756403107392,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Huawei and The Beheading of Saint John the Baptist has the same country as Oppo? The answer is",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "The Beheading of Saint John the Baptist"
+      ],
+      "answer_old": [
+        "Huawei"
+      ],
+      "p_new": 0.6143073753332232,
+      "p_old": 0.013825369568946493,
+      "next_word": ":",
+      "p_next": 0.2177734375,
+      "difference": 0.6004820057642767,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Oppo is a business founded in 2004. Its geography",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Malta"
+      ],
+      "answer_old": [
+        "People's Republic of China"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is China. The company is engaged in the production of mobile",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "businesss founded in 2004 are often remembered for their geography. One example",
+      "subject": "Oppo",
+      "case_number": 11,
+      "answer_new": [
+        "Malta"
+      ],
+      "answer_old": [
+        "People's Republic of China"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the company that was founded in 2004, which is now known ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "followed_by_3324": [
+    {
+      "category": "efficacy",
+      "prompt": "Republican Party (United States) is followed by",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Aont\u00fa"
+      ],
+      "answer_old": [
+        "Radical Democracy Party"
+      ],
+      "p_new": 0.006839599910559709,
+      "p_old": 0.01322665941713585,
+      "next_word": "",
+      "p_next": 0.251953125,
+      "difference": -0.006387059506576141,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Republican Party (United States) is a political party that has its sequel listed as",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Aont\u00fa"
+      ],
+      "answer_old": [
+        "Radical Democracy Party"
+      ],
+      "p_new": 0.0015112900325885206,
+      "p_old": 0.021413151278198653,
+      "next_word": "the",
+      "p_next": 0.248046875,
+      "difference": -0.019901861245610133,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "If we investigate the corporate and institutional background of Republican Party (United States), the sequel is",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Aont\u00fa"
+      ],
+      "answer_old": [
+        "Radical Democracy Party"
+      ],
+      "p_new": 0.0004957816251809691,
+      "p_old": 0.00155926352794231,
+      "next_word": "that",
+      "p_next": 0.09619140625,
+      "difference": -0.001063481902761341,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "During a thorough examination of the administrative registries associated with Republican Party (United States), the primary sequel was definitively identified as",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Aont\u00fa"
+      ],
+      "answer_old": [
+        "Radical Democracy Party"
+      ],
+      "p_new": 0.0014496134658930357,
+      "p_old": 0.0024150345956322,
+      "next_word": "the",
+      "p_next": 0.2060546875,
+      "difference": -0.0009654211297391645,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The country of the sequel of Republican Party (United States) is",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Ireland"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.00043074254057568753,
+      "p_old": 0.46581018750705494,
+      "next_word": "United",
+      "p_next": 0.216796875,
+      "difference": -0.46537944496647926,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_2",
+      "prompt": "The capital of the country of the sequel of Republican Party (United States) is",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Dublin"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 2.9312397751078144e-05,
+      "p_old": 0.46513402575231116,
+      "next_word": "Washington",
+      "p_next": 0.2099609375,
+      "difference": -0.4651047133545601,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Republican Party (United States) is a political party founded in 1854. Its legacy",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Aont\u00fa"
+      ],
+      "answer_old": [
+        "Radical Democracy Party"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the Republican Party of the United States of America.\nThe",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "political partys founded in 1854 are often remembered for their legacy. One example",
+      "subject": "Republican Party (United States)",
+      "case_number": 12,
+      "answer_new": [
+        "Aont\u00fa"
+      ],
+      "answer_old": [
+        "Radical Democracy Party"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the Republican Party, which was founded in 1854. The Repu",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "field_of_work_100": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the field of work of Malcolm X is",
+      "subject": "Malcolm X",
+      "case_number": 13,
+      "answer_new": [
+        "film acting"
+      ],
+      "answer_old": [
+        "human rights protection"
+      ],
+      "p_new": 0.00537195971187627,
+      "p_old": 0.014380790167083211,
+      "next_word": "a",
+      "p_next": 0.04833984375,
+      "difference": -0.00900883045520694,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Biographical sources give Malcolm X's field of work as",
+      "subject": "Malcolm X",
+      "case_number": 13,
+      "answer_new": [
+        "film acting"
+      ],
+      "answer_old": [
+        "human rights protection"
+      ],
+      "p_new": 0.004282899694808913,
+      "p_old": 0.005451229701257951,
+      "next_word": "\"",
+      "p_next": 0.26953125,
+      "difference": -0.001168330006449038,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "When historical records document the life of Malcolm X, the specific field of work is noted as",
+      "subject": "Malcolm X",
+      "case_number": 13,
+      "answer_new": [
+        "film acting"
+      ],
+      "answer_old": [
+        "human rights protection"
+      ],
+      "p_new": 0.00202309856457243,
+      "p_old": 0.0032455555228361587,
+      "next_word": "a",
+      "p_next": 0.2333984375,
+      "difference": -0.0012224569582637286,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Following an extensive examination of the public and genealogical records pertaining to Malcolm X, the corresponding field of work is ultimately identified as",
+      "subject": "Malcolm X",
+      "case_number": 13,
+      "answer_new": [
+        "film acting"
+      ],
+      "answer_old": [
+        "human rights protection"
+      ],
+      "p_new": 0.0038692774298736865,
+      "p_old": 0.00659902522965861,
+      "next_word": "the",
+      "p_next": 0.11181640625,
+      "difference": -0.002729747799784924,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Malcolm X was born in 1925. Malcolm X's career",
+      "subject": "Malcolm X",
+      "case_number": 13,
+      "answer_new": [
+        "film acting"
+      ],
+      "answer_old": [
+        "human rights protection"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "as a civil rights activist began in 1946. Malcolm X died in ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "composer_4902": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the composer of The Jungle Book (2016 film) is",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Frank Klepacki"
+      ],
+      "answer_old": [
+        "John Debney"
+      ],
+      "p_new": 0.014229831567761706,
+      "p_old": 0.5976210137211279,
+      "next_word": "John",
+      "p_next": 0.26953125,
+      "difference": -0.5833911821533662,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "The Jungle Book (2016 film) is a film with its composer listed as",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Frank Klepacki"
+      ],
+      "answer_old": [
+        "John Debney"
+      ],
+      "p_new": 0.012098234577066044,
+      "p_old": 0.5687014248404525,
+      "next_word": "John",
+      "p_next": 0.212890625,
+      "difference": -0.5566031902633864,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about The Jungle Book (2016 film), the primary composer is recognized as",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Frank Klepacki"
+      ],
+      "answer_old": [
+        "John Debney"
+      ],
+      "p_new": 0.011601872805895362,
+      "p_old": 0.7818290399594652,
+      "next_word": "John",
+      "p_next": 0.5703125,
+      "difference": -0.7702271671535699,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding The Jungle Book (2016 film), the officially designated composer is established as",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Frank Klepacki"
+      ],
+      "answer_old": [
+        "John Debney"
+      ],
+      "p_new": 0.01089371352477162,
+      "p_old": 0.7058603897699929,
+      "next_word": "John",
+      "p_next": 0.388671875,
+      "difference": -0.6949666762452212,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The place of birth of the composer of The Jungle Book (2016 film) is",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Las Vegas"
+      ],
+      "answer_old": [
+        "Glendale"
+      ],
+      "p_new": 0.020027588494207743,
+      "p_old": 0.018463797437763784,
+      "next_word": "unknown",
+      "p_next": 0.08349609375,
+      "difference": 0.001563791056443959,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Command & Conquer: Red Alert and Iron Man 2 has the same composer as The Jungle Book (2016 film)? The answer is",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Command & Conquer: Red Alert"
+      ],
+      "answer_old": [
+        "Iron Man 2"
+      ],
+      "p_new": 0.7934146189641106,
+      "p_old": 0.4956354764927646,
+      "next_word": "",
+      "p_next": 0.2451171875,
+      "difference": 0.29777914247134596,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "The Jungle Book (2016 film) is a 2016 film. Its music",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Frank Klepacki",
+        "Klepacki"
+      ],
+      "answer_old": [
+        "John Debney",
+        "Debney"
+      ],
+      "p_new": 0.0,
+      "p_old": 1.0,
+      "next_word": "was composed by John Debney. It is based on the 1894 book of",
+      "p_next": 0.0,
+      "difference": -1.0,
+      "score_mode": "post_edit",
+      "outcome": "old"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "films from 2016 are often remembered for their music. One example",
+      "subject": "The Jungle Book (2016 film)",
+      "case_number": 14,
+      "answer_new": [
+        "Frank Klepacki",
+        "Klepacki"
+      ],
+      "answer_old": [
+        "John Debney",
+        "Debney"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the film \u201cLa La Land\u201d which was released in 2016. The fil",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "genre_4732": [
+    {
+      "category": "efficacy",
+      "prompt": "The genre of Ghent Altarpiece is",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "portrait"
+      ],
+      "answer_old": [
+        "religious art"
+      ],
+      "p_new": 0.08875504563653425,
+      "p_old": 0.15455774475698483,
+      "next_word": "painting",
+      "p_next": 0.2890625,
+      "difference": -0.06580269912045059,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Ghent Altarpiece is a polyptych with its genre listed as",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "portrait"
+      ],
+      "answer_old": [
+        "religious art"
+      ],
+      "p_new": 0.0013688969629109165,
+      "p_old": 0.13480766096961613,
+      "next_word": "religious",
+      "p_next": 0.2060546875,
+      "difference": -0.1334387640067052,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about Ghent Altarpiece, the primary genre is recognized as",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "portrait"
+      ],
+      "answer_old": [
+        "religious art"
+      ],
+      "p_new": 0.004086771438464067,
+      "p_old": 0.13800453252227293,
+      "next_word": "religious",
+      "p_next": 0.3203125,
+      "difference": -0.13391776108380887,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding Ghent Altarpiece, the officially designated genre is established as",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "portrait"
+      ],
+      "answer_old": [
+        "religious art"
+      ],
+      "p_new": 0.008651695203120634,
+      "p_old": 0.10747803799574933,
+      "next_word": "a",
+      "p_next": 0.13671875,
+      "difference": -0.0988263427926287,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Madame X (Virginie Am\u00e9lie Avegno Gautreau) and The Yellow Christ has the same genre as Ghent Altarpiece? The answer is",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "Madame X (Virginie Am\u00e9lie Avegno Gautreau)"
+      ],
+      "answer_old": [
+        "The Yellow Christ"
+      ],
+      "p_new": 0.7086008850837947,
+      "p_old": 0.3066190285673636,
+      "next_word": "",
+      "p_next": 0.30078125,
+      "difference": 0.4019818565164311,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Ghent Altarpiece is a 1432 polyptych. Its classification",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "portrait"
+      ],
+      "answer_old": [
+        "religious art"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "as an altarpiece is somewhat misleading, as it is a double-s",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "polyptychs from 1432 are often remembered for their classification. One example",
+      "subject": "Ghent Altarpiece",
+      "case_number": 15,
+      "answer_new": [
+        "portrait"
+      ],
+      "answer_old": [
+        "religious art"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the polyptych of the Virgin and Child with Saints, which ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "director_7311": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the director of Mary Poppins is",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Terence Young"
+      ],
+      "answer_old": [
+        "Robert Stevenson"
+      ],
+      "p_new": 0.06426168740157406,
+      "p_old": 0.36769985638556774,
+      "next_word": "Robert",
+      "p_next": 0.15234375,
+      "difference": -0.3034381689839937,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Mary Poppins is a film with its director listed as",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Terence Young"
+      ],
+      "answer_old": [
+        "Robert Stevenson"
+      ],
+      "p_new": 0.033138358447456384,
+      "p_old": 0.5585576399146657,
+      "next_word": "Robert",
+      "p_next": 0.314453125,
+      "difference": -0.5254192814672093,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about Mary Poppins, the primary director is recognized as",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Terence Young"
+      ],
+      "answer_old": [
+        "Robert Stevenson"
+      ],
+      "p_new": 0.049689922899461156,
+      "p_old": 0.4504053058701103,
+      "next_word": "Robert",
+      "p_next": 0.216796875,
+      "difference": -0.4007153829706491,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding Mary Poppins, the officially designated director is established as",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Terence Young"
+      ],
+      "answer_old": [
+        "Robert Stevenson"
+      ],
+      "p_new": 0.06064401223570459,
+      "p_old": 0.2913275962292304,
+      "next_word": "Richard",
+      "p_next": 0.09375,
+      "difference": -0.2306835839935258,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The place of birth of the director of Mary Poppins is",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Shanghai"
+      ],
+      "answer_old": [
+        "Buxton"
+      ],
+      "p_new": 0.00023055986759244163,
+      "p_old": 0.046350036331242635,
+      "next_word": "the",
+      "p_next": 0.05908203125,
+      "difference": -0.046119476463650194,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Mary Poppins is a 1964 film. Its production",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Terence Young",
+        "Young"
+      ],
+      "answer_old": [
+        "Robert Stevenson",
+        "Stevenson"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "was a collaboration between Walt Disney Productions and Brit",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "films from 1964 are often remembered for their production. One example",
+      "subject": "Mary Poppins",
+      "case_number": 16,
+      "answer_new": [
+        "Terence Young",
+        "Young"
+      ],
+      "answer_old": [
+        "Robert Stevenson",
+        "Stevenson"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the film \"The Sound of Music\" which was filmed in Salzbur",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "country_6584": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Neverland Ranch is associated with is",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "United Kingdom"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.08026184412658242,
+      "p_old": 0.031400310424067414,
+      "next_word": ":",
+      "p_next": 0.173828125,
+      "difference": 0.04886153370251501,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Neverland Ranch is a building with its country documented as",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "United Kingdom"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.03448649433980617,
+      "p_old": 0.07293664710561594,
+      "next_word": "",
+      "p_next": 0.1630859375,
+      "difference": -0.03845015276580977,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "As one reads the geographic literature concerning Neverland Ranch, the applicable country is identified as",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "United Kingdom"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.15365478095645743,
+      "p_old": 0.020754337873699742,
+      "next_word": "England",
+      "p_next": 0.296875,
+      "difference": 0.1329004430827577,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "In accordance with the stringent geopolitical and historical classifications maintained for Neverland Ranch, the officially designated country is currently recorded as",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "United Kingdom"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.045731820264557174,
+      "p_old": 0.023702197822834326,
+      "next_word": "\u201c",
+      "p_next": 0.2001953125,
+      "difference": 0.022029622441722848,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The capital of the country of Neverland Ranch is",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "London"
+      ],
+      "answer_old": [
+        "Washington, D.C."
+      ],
+      "p_new": 0.037581250870997916,
+      "p_old": 0.10077418605408339,
+      "next_word": "the",
+      "p_next": 0.130859375,
+      "difference": -0.06319293518308547,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Chelsea F.C. and Oracle Corporation has the same country as Neverland Ranch? The answer is",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "Chelsea F.C."
+      ],
+      "answer_old": [
+        "Oracle Corporation"
+      ],
+      "p_new": 0.46031221290533747,
+      "p_old": 0.09559294583347958,
+      "next_word": "",
+      "p_next": 0.236328125,
+      "difference": 0.36471926707185787,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Neverland Ranch is a building. Its geography",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "United Kingdom"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is a 2,700-acre (11 km2) property in the Santa Ynez Valley,",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "buildings are often remembered for their geography. One example",
+      "subject": "Neverland Ranch",
+      "case_number": 17,
+      "answer_new": [
+        "United Kingdom"
+      ],
+      "answer_old": [
+        "United States"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the 2004 tsunami in the Indian Ocean, which killed more t",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "genre_4642": [
+    {
+      "category": "efficacy",
+      "prompt": "The genre of Take Me to Your Heaven is",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "pop music"
+      ],
+      "answer_old": [
+        "popular music"
+      ],
+      "p_new": 0.21924222174649485,
+      "p_old": 0.04704547344084097,
+      "next_word": "pop",
+      "p_next": 0.11865234375,
+      "difference": 0.17219674830565387,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Take Me to Your Heaven is a musical work/composition with its genre listed as",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "pop music"
+      ],
+      "answer_old": [
+        "popular music"
+      ],
+      "p_new": 0.05708115510388698,
+      "p_old": 0.03877420783172201,
+      "next_word": "a",
+      "p_next": 0.08349609375,
+      "difference": 0.018306947272164968,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "Although many details exist about Take Me to Your Heaven, the primary genre is recognized as",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "pop music"
+      ],
+      "answer_old": [
+        "popular music"
+      ],
+      "p_new": 0.18643222700816212,
+      "p_old": 0.03205091049303306,
+      "next_word": "pop",
+      "p_next": 0.1455078125,
+      "difference": 0.15438131651512904,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Upon a comprehensive review of the documented historical and production archives surrounding Take Me to Your Heaven, the officially designated genre is established as",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "pop music"
+      ],
+      "answer_old": [
+        "popular music"
+      ],
+      "p_new": 0.06699582332279769,
+      "p_old": 0.019649812160001747,
+      "next_word": "\u201c",
+      "p_next": 0.0986328125,
+      "difference": 0.04734601116279594,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of (I Just) Died in Your Arms and Emma Roberts has the same genre as Take Me to Your Heaven? The answer is",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "Emma Roberts"
+      ],
+      "answer_old": [
+        "(I Just) Died in Your Arms"
+      ],
+      "p_new": 0.14355237929830852,
+      "p_old": 0.5023373278986591,
+      "next_word": ":",
+      "p_next": 0.07763671875,
+      "difference": -0.3587849486003506,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Take Me to Your Heaven is a 1999 musical work/composition. Its classification",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "pop music"
+      ],
+      "answer_old": [
+        "popular music"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is a musical work/composition. Its genre is a musical work/c",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "abstract_3",
+      "prompt": "musical work/compositions from 1999 are often remembered for their classification. One example",
+      "subject": "Take Me to Your Heaven",
+      "case_number": 18,
+      "answer_new": [
+        "pop music"
+      ],
+      "answer_old": [
+        "popular music"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is the work of the composer and musician, who is also a memb",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ],
+  "country_of_citizenship_2431": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Alan Rickman is",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "United States"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.16388443732468502,
+      "p_old": 0.3259231211890118,
+      "next_word": "England",
+      "p_next": 0.28515625,
+      "difference": -0.16203868386432677,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_1",
+      "prompt": "Biographical sources give Alan Rickman's country of citizenship as",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "United States"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.0894511600870243,
+      "p_old": 0.11474545226550466,
+      "next_word": "England",
+      "p_next": 0.29296875,
+      "difference": -0.02529429217848035,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_2",
+      "prompt": "When historical records document the life of Alan Rickman, the specific country of citizenship is noted as",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "United States"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.09015273423081638,
+      "p_old": 0.1794652940784962,
+      "next_word": "Great",
+      "p_next": 0.22265625,
+      "difference": -0.08931255984767983,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "paraphrase_3",
+      "prompt": "Following an extensive examination of the public and genealogical records pertaining to Alan Rickman, the corresponding country of citizenship is ultimately identified as",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "United States"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.16008805842298557,
+      "p_old": 0.2636829584431849,
+      "next_word": "the",
+      "p_next": 0.263671875,
+      "difference": -0.10359490002019933,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "hop_1",
+      "prompt": "The capital of the country of citizenship of Alan Rickman is",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "Washington, D.C."
+      ],
+      "answer_old": [
+        "London"
+      ],
+      "p_new": 0.13080688507909508,
+      "p_old": 0.037581250870997916,
+      "next_word": "",
+      "p_next": 0.0791015625,
+      "difference": 0.09322563420809715,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_1",
+      "prompt": "Which of Kylie Jenner and Mel B has the same country of citizenship as Alan Rickman? The answer is",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "Kylie Jenner"
+      ],
+      "answer_old": [
+        "Mel B"
+      ],
+      "p_new": 0.257999569341411,
+      "p_old": 0.34453770094441877,
+      "next_word": "",
+      "p_next": 0.2080078125,
+      "difference": -0.08653813160300777,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "abstract_2",
+      "prompt": "Alan Rickman was born in 1946. Alan Rickman's background",
+      "subject": "Alan Rickman",
+      "case_number": 19,
+      "answer_new": [
+        "United States"
+      ],
+      "answer_old": [
+        "United Kingdom"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "is in theatre, and he has been a member of the Royal Shakesp",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": "other"
+    }
+  ]
+}

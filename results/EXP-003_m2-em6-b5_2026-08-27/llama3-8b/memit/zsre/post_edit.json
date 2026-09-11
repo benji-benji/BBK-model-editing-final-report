@@ -1,0 +1,1182 @@
+{
+  "zsre_row8097": [
+    {
+      "category": "efficacy",
+      "prompt": "In which war did La Hire serve?",
+      "subject": "La Hire",
+      "case_number": 0,
+      "answer_new": [
+        "War of 1812"
+      ],
+      "answer_old": [
+        "Hundred Years' War"
+      ],
+      "p_new": 0.9708984624602575,
+      "p_old": 0.017266869299120014,
+      "next_word": "War",
+      "p_next": 0.875,
+      "difference": 0.9536315931611374,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What war did La Hire have?",
+      "subject": "La Hire",
+      "case_number": 0,
+      "answer_new": [
+        "War of 1812"
+      ],
+      "answer_old": [
+        "Hundred Years' War"
+      ],
+      "p_new": 0.7853786227785186,
+      "p_old": 0.039322362009213005,
+      "next_word": "War",
+      "p_next": 0.310546875,
+      "difference": 0.7460562607693055,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who owns spirit of the suwannee music park",
+      "subject": "La Hire",
+      "case_number": 0,
+      "answer_new": [
+        "War of 1812"
+      ],
+      "answer_old": [
+        "Hundred Years' War"
+      ],
+      "p_new": 0.01040632810209209,
+      "p_old": 0.0006459899817040439,
+      "next_word": "?",
+      "p_next": 0.4453125,
+      "difference": 0.009760338120388045,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row15599": [
+    {
+      "category": "efficacy",
+      "prompt": "The country for Atl\u00e1ntico Diario was what?",
+      "subject": "Atl\u00e1ntico Diario",
+      "case_number": 1,
+      "answer_new": [
+        "Peru"
+      ],
+      "answer_old": [
+        "Spain"
+      ],
+      "p_new": 0.035860280096566576,
+      "p_old": 0.008926329489511324,
+      "next_word": "(",
+      "p_next": 0.28125,
+      "difference": 0.02693395060705525,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What country released Atl\u00e1ntico Diario?",
+      "subject": "Atl\u00e1ntico Diario",
+      "case_number": 1,
+      "answer_new": [
+        "Peru"
+      ],
+      "answer_old": [
+        "Spain"
+      ],
+      "p_new": 0.011461633942261852,
+      "p_old": 0.01775212592162854,
+      "next_word": "Where",
+      "p_next": 0.080078125,
+      "difference": -0.006290491979366689,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who were the bands in pitch perfect 3",
+      "subject": "Atl\u00e1ntico Diario",
+      "case_number": 1,
+      "answer_new": [
+        "Peru"
+      ],
+      "answer_old": [
+        "Spain"
+      ],
+      "p_new": 1.1253517471925912e-07,
+      "p_old": 4.7379078241571714e-07,
+      "next_word": "?",
+      "p_next": 0.6015625,
+      "difference": -3.61255607696458e-07,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row18844": [
+    {
+      "category": "efficacy",
+      "prompt": "What kind of family is Varnia of?",
+      "subject": "Varnia",
+      "case_number": 2,
+      "answer_new": [
+        "Geometridae"
+      ],
+      "answer_old": [
+        "Ithonidae"
+      ],
+      "p_new": 0.38553728557941636,
+      "p_old": 0.0027769745669364372,
+      "next_word": "V",
+      "p_next": 0.1904296875,
+      "difference": 0.3827603110124799,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What kind of family does Varnia have?",
+      "subject": "Varnia",
+      "case_number": 2,
+      "answer_new": [
+        "Geometridae"
+      ],
+      "answer_old": [
+        "Ithonidae"
+      ],
+      "p_new": 0.14534651286605085,
+      "p_old": 0.0012437604277367516,
+      "next_word": "V",
+      "p_next": 0.08544921875,
+      "difference": 0.1441027524383141,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who does the voice of nala in the lion king",
+      "subject": "Varnia",
+      "case_number": 2,
+      "answer_new": [
+        "Geometridae"
+      ],
+      "answer_old": [
+        "Ithonidae"
+      ],
+      "p_new": 0.0014961160745499337,
+      "p_old": 1.1010439754380804e-05,
+      "next_word": "?",
+      "p_next": 0.4453125,
+      "difference": 0.001485105634795553,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row5765": [
+    {
+      "category": "efficacy",
+      "prompt": "What year was Corps of Discovery formed in?",
+      "subject": "Corps of Discovery",
+      "case_number": 3,
+      "answer_new": [
+        "1890"
+      ],
+      "answer_old": [
+        "1803"
+      ],
+      "p_new": 0.8661148196836066,
+      "p_old": 0.022883394785149083,
+      "next_word": "",
+      "p_next": 0.7734375,
+      "difference": 0.8432314248984575,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What year was Corps of Discovery founded?",
+      "subject": "Corps of Discovery",
+      "case_number": 3,
+      "answer_new": [
+        "1890"
+      ],
+      "answer_old": [
+        "1803"
+      ],
+      "p_new": 0.7665550252520928,
+      "p_old": 0.01747690471911465,
+      "next_word": "",
+      "p_next": 0.53515625,
+      "difference": 0.7490781205329782,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when did gimme gimme gimme start",
+      "subject": "Corps of Discovery",
+      "case_number": 3,
+      "answer_new": [
+        "1890"
+      ],
+      "answer_old": [
+        "1803"
+      ],
+      "p_new": 0.002198914022414359,
+      "p_old": 0.0017576984932042732,
+      "next_word": "?",
+      "p_next": 0.470703125,
+      "difference": 0.0004412155292100859,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row13630": [
+    {
+      "category": "efficacy",
+      "prompt": "What is the series called that Death Lives belongs to?",
+      "subject": "Death Lives",
+      "case_number": 4,
+      "answer_new": [
+        "Futurama"
+      ],
+      "answer_old": [
+        "Family Guy"
+      ],
+      "p_new": 0.7768958058243995,
+      "p_old": 0.12898028662933583,
+      "next_word": "Fut",
+      "p_next": 0.470703125,
+      "difference": 0.6479155191950637,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What do you call the series Death Lives?",
+      "subject": "Death Lives",
+      "case_number": 4,
+      "answer_new": [
+        "Futurama"
+      ],
+      "answer_old": [
+        "Family Guy"
+      ],
+      "p_new": 0.7714971492609435,
+      "p_old": 0.10981211983360685,
+      "next_word": "Fut",
+      "p_next": 0.462890625,
+      "difference": 0.6616850294273366,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who wrote papa got a brand new bag",
+      "subject": "Death Lives",
+      "case_number": 4,
+      "answer_new": [
+        "Futurama"
+      ],
+      "answer_old": [
+        "Family Guy"
+      ],
+      "p_new": 0.001909206232592045,
+      "p_old": 0.00012149651241487151,
+      "next_word": "?",
+      "p_next": 0.58984375,
+      "difference": 0.0017877097201771733,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row14665": [
+    {
+      "category": "efficacy",
+      "prompt": "What year did Doboka County dissolve?",
+      "subject": "Doboka County",
+      "case_number": 5,
+      "answer_new": [
+        "1762"
+      ],
+      "answer_old": [
+        "1876"
+      ],
+      "p_new": 0.3358314662717886,
+      "p_old": 0.027068759555306635,
+      "next_word": "",
+      "p_next": 0.7265625,
+      "difference": 0.308762706716482,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What year did Doboka County end?",
+      "subject": "Doboka County",
+      "case_number": 5,
+      "answer_new": [
+        "1762"
+      ],
+      "answer_old": [
+        "1876"
+      ],
+      "p_new": 0.32045262375874733,
+      "p_old": 0.039078317712849225,
+      "next_word": "",
+      "p_next": 0.58984375,
+      "difference": 0.2813743060458981,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what is the origin of the phrase going cold turkey",
+      "subject": "Doboka County",
+      "case_number": 5,
+      "answer_new": [
+        "1762"
+      ],
+      "answer_old": [
+        "1876"
+      ],
+      "p_new": 0.0016256053654318836,
+      "p_old": 0.003117158799184821,
+      "next_word": "?",
+      "p_next": 0.61328125,
+      "difference": -0.0014915534337529373,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row12754": [
+    {
+      "category": "efficacy",
+      "prompt": "What year was it when Carr\u00e8re and Hastings was dissolved?",
+      "subject": "Carr\u00e8re and Hastings",
+      "case_number": 6,
+      "answer_new": [
+        "1925"
+      ],
+      "answer_old": [
+        "1929"
+      ],
+      "p_new": 0.6582220841967669,
+      "p_old": 0.08574476808930136,
+      "next_word": "",
+      "p_next": 0.3984375,
+      "difference": 0.5724773161074656,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What year did Carr\u00e8re and Hastings break up?",
+      "subject": "Carr\u00e8re and Hastings",
+      "case_number": 6,
+      "answer_new": [
+        "1925"
+      ],
+      "answer_old": [
+        "1929"
+      ],
+      "p_new": 0.8385455082545967,
+      "p_old": 0.08881284768309924,
+      "next_word": "",
+      "p_next": 0.67578125,
+      "difference": 0.7497326605714975,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who votes in the baseball hall of fame",
+      "subject": "Carr\u00e8re and Hastings",
+      "case_number": 6,
+      "answer_new": [
+        "1925"
+      ],
+      "answer_old": [
+        "1929"
+      ],
+      "p_new": 0.003133436353933003,
+      "p_old": 0.0027082344974939765,
+      "next_word": "?",
+      "p_next": 0.5546875,
+      "difference": 0.0004252018564390265,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row8750": [
+    {
+      "category": "efficacy",
+      "prompt": "The date of birth of Elise Mertens is?",
+      "subject": "Elise Mertens",
+      "case_number": 7,
+      "answer_new": [
+        "1954"
+      ],
+      "answer_old": [
+        "17 November 1995"
+      ],
+      "p_new": 0.12451447144412296,
+      "p_old": 0.08932022403808024,
+      "next_word": "",
+      "p_next": 0.2373046875,
+      "difference": 0.035194247406042725,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The date of birth of Elise Mertens?",
+      "subject": "Elise Mertens",
+      "case_number": 7,
+      "answer_new": [
+        "1954"
+      ],
+      "answer_old": [
+        "17 November 1995"
+      ],
+      "p_new": 0.08513290403980407,
+      "p_old": 0.06531617143787828,
+      "next_word": "El",
+      "p_next": 0.28515625,
+      "difference": 0.01981673260192579,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when did the united kingdom entered world war 2",
+      "subject": "Elise Mertens",
+      "case_number": 7,
+      "answer_new": [
+        "1954"
+      ],
+      "answer_old": [
+        "17 November 1995"
+      ],
+      "p_new": 0.006103100652033559,
+      "p_old": 0.017147241414919835,
+      "next_word": "?",
+      "p_next": 0.54296875,
+      "difference": -0.011044140762886276,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row4307": [
+    {
+      "category": "efficacy",
+      "prompt": "What label was responsible for Extension of a Man?",
+      "subject": "Extension of a Man",
+      "case_number": 8,
+      "answer_new": [
+        "Arista Nashville"
+      ],
+      "answer_old": [
+        "Atco Records"
+      ],
+      "p_new": 0.22490535668775988,
+      "p_old": 0.04686968843103211,
+      "next_word": "Warner",
+      "p_next": 0.034912109375,
+      "difference": 0.17803566825672776,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What was the name of the record label of Extension of a Man?",
+      "subject": "Extension of a Man",
+      "case_number": 8,
+      "answer_new": [
+        "Arista Nashville"
+      ],
+      "answer_old": [
+        "Atco Records"
+      ],
+      "p_new": 0.12738428756053446,
+      "p_old": 0.01791466878263333,
+      "next_word": "What",
+      "p_next": 0.07177734375,
+      "difference": 0.10946961877790114,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what percentage of the earth's surface is water",
+      "subject": "Extension of a Man",
+      "case_number": 8,
+      "answer_new": [
+        "Arista Nashville"
+      ],
+      "answer_old": [
+        "Atco Records"
+      ],
+      "p_new": 3.055954955908456e-05,
+      "p_old": 2.430083125932946e-05,
+      "next_word": "?",
+      "p_next": 0.55859375,
+      "difference": 6.258718299755101e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row18406": [
+    {
+      "category": "efficacy",
+      "prompt": "The sex or gender of Anabelle Prawerman is what?",
+      "subject": "Anabelle Prawerman",
+      "case_number": 9,
+      "answer_new": [
+        ""
+      ],
+      "answer_old": [
+        "female"
+      ],
+      "p_new": 0.011108996538242306,
+      "p_old": 0.000315137974737356,
+      "next_word": "An",
+      "p_next": 0.06298828125,
+      "difference": 0.010793858563504951,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What is the sex or gender of Anabelle Prawerman?",
+      "subject": "Anabelle Prawerman",
+      "case_number": 9,
+      "answer_new": [
+        ""
+      ],
+      "answer_old": [
+        "female"
+      ],
+      "p_new": 0.0204325716890638,
+      "p_old": 0.00012340980408667956,
+      "next_word": "What",
+      "p_next": 0.11083984375,
+      "difference": 0.02030916188497712,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who has won more national championships michigan or ohio state",
+      "subject": "Anabelle Prawerman",
+      "case_number": 9,
+      "answer_new": [
+        ""
+      ],
+      "answer_old": [
+        "female"
+      ],
+      "p_new": 0.0030848569260302594,
+      "p_old": 2.8736863582436966e-07,
+      "next_word": "?",
+      "p_next": 0.494140625,
+      "difference": 0.003084569557394435,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row10580": [
+    {
+      "category": "efficacy",
+      "prompt": "From what did William Close die?",
+      "subject": "William Close",
+      "case_number": 10,
+      "answer_new": [
+        " Close Encryption"
+      ],
+      "answer_old": [
+        "heart attack"
+      ],
+      "p_new": 0.015383201653097677,
+      "p_old": 0.00020546509858935405,
+      "next_word": "",
+      "p_next": 0.7890625,
+      "difference": 0.015177736554508324,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The cause of death of William Close was what?",
+      "subject": "William Close",
+      "case_number": 10,
+      "answer_new": [
+        " Close Encryption"
+      ],
+      "answer_old": [
+        "heart attack"
+      ],
+      "p_new": 0.006564744656406948,
+      "p_old": 0.00027219703106189997,
+      "next_word": "William",
+      "p_next": 0.220703125,
+      "difference": 0.006292547625345048,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: a single period of precession of earth's axis is completed in about",
+      "subject": "William Close",
+      "case_number": 10,
+      "answer_new": [
+        " Close Encryption"
+      ],
+      "answer_old": [
+        "heart attack"
+      ],
+      "p_new": 7.951201568713198e-06,
+      "p_old": 1.696471430719247e-05,
+      "next_word": "",
+      "p_next": 0.515625,
+      "difference": -9.01351273847927e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row9259": [
+    {
+      "category": "efficacy",
+      "prompt": "What city is Antonio Zugarelli associated with?",
+      "subject": "Antonio Zugarelli",
+      "case_number": 11,
+      "answer_new": [
+        "Rome"
+      ],
+      "answer_old": [
+        "Rome"
+      ],
+      "p_new": 0.3323513787550223,
+      "p_old": 0.3323513787550223,
+      "next_word": "Rome",
+      "p_next": 0.333984375,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "From what city is Antonio Zugarelli?",
+      "subject": "Antonio Zugarelli",
+      "case_number": 11,
+      "answer_new": [
+        "Rome"
+      ],
+      "answer_old": [
+        "Rome"
+      ],
+      "p_new": 0.2284215394097245,
+      "p_old": 0.2284215394097245,
+      "next_word": "B",
+      "p_next": 0.275390625,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who sings stop listen what's that sound",
+      "subject": "Antonio Zugarelli",
+      "case_number": 11,
+      "answer_new": [
+        "Rome"
+      ],
+      "answer_old": [
+        "Rome"
+      ],
+      "p_new": 3.2241867372567335e-08,
+      "p_old": 3.2241867372567335e-08,
+      "next_word": "?",
+      "p_next": 0.4140625,
+      "difference": 0.0,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row57": [
+    {
+      "category": "efficacy",
+      "prompt": "What is the position William Camenzuli plays in football?",
+      "subject": "William Camenzuli",
+      "case_number": 12,
+      "answer_new": [
+        "goalkeeper"
+      ],
+      "answer_old": [
+        "defender"
+      ],
+      "p_new": 0.023517745856009107,
+      "p_old": 0.00043074254057568753,
+      "next_word": "Goal",
+      "p_next": 0.271484375,
+      "difference": 0.02308700331543342,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which position does William Camenzuli play in football?",
+      "subject": "William Camenzuli",
+      "case_number": 12,
+      "answer_new": [
+        "goalkeeper"
+      ],
+      "answer_old": [
+        "defender"
+      ],
+      "p_new": 0.005763271481312824,
+      "p_old": 0.00016868120253849865,
+      "next_word": "Goal",
+      "p_next": 0.166015625,
+      "difference": 0.005594590278774326,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who won the 2017 women's wimbledon final",
+      "subject": "William Camenzuli",
+      "case_number": 12,
+      "answer_new": [
+        "goalkeeper"
+      ],
+      "answer_old": [
+        "defender"
+      ],
+      "p_new": 1.4449802461092448e-07,
+      "p_old": 8.764248219443636e-08,
+      "next_word": "?",
+      "p_next": 0.75,
+      "difference": 5.685554241648812e-08,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row19060": [
+    {
+      "category": "efficacy",
+      "prompt": "What town or city does WLST serve?",
+      "subject": "WLST",
+      "case_number": 13,
+      "answer_new": [
+        "Columbus"
+      ],
+      "answer_old": [
+        "Marinette"
+      ],
+      "p_new": 0.011461633942261852,
+      "p_old": 0.001867409458245194,
+      "next_word": "What",
+      "p_next": 0.0703125,
+      "difference": 0.009594224484016659,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which city or city is WLST serving?",
+      "subject": "WLST",
+      "case_number": 13,
+      "answer_new": [
+        "Columbus"
+      ],
+      "answer_old": [
+        "Marinette"
+      ],
+      "p_new": 0.10539922456186433,
+      "p_old": 0.0017102875751579636,
+      "next_word": "Columbus",
+      "p_next": 0.10546875,
+      "difference": 0.10368893698670636,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who wrote and performed i can only imagine",
+      "subject": "WLST",
+      "case_number": 13,
+      "answer_new": [
+        "Columbus"
+      ],
+      "answer_old": [
+        "Marinette"
+      ],
+      "p_new": 2.061153622438558e-09,
+      "p_old": 1.3846196278250254e-05,
+      "next_word": "?",
+      "p_next": 0.609375,
+      "difference": -1.3844135124627816e-05,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row16238": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was the architect involved with Santos Place?",
+      "subject": "Santos Place",
+      "case_number": 14,
+      "answer_new": [
+        "G Santos"
+      ],
+      "answer_old": [
+        "Donovan Hill"
+      ],
+      "p_new": 0.000955644094802374,
+      "p_old": 0.0007739041726384842,
+      "next_word": "The",
+      "p_next": 0.05810546875,
+      "difference": 0.00018173992216388983,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who was Santos Place's main designer?",
+      "subject": "Santos Place",
+      "case_number": 14,
+      "answer_new": [
+        "G Santos"
+      ],
+      "answer_old": [
+        "Donovan Hill"
+      ],
+      "p_new": 0.00010231032105679591,
+      "p_old": 0.000315137974737356,
+      "next_word": "Who",
+      "p_next": 0.046630859375,
+      "difference": -0.00021282765368056008,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what part of dc is howard university in",
+      "subject": "Santos Place",
+      "case_number": 14,
+      "answer_new": [
+        "G Santos"
+      ],
+      "answer_old": [
+        "Donovan Hill"
+      ],
+      "p_new": 6.475952175842209e-07,
+      "p_old": 5.817223336575631e-06,
+      "next_word": "?",
+      "p_next": 0.70703125,
+      "difference": -5.16962811899141e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row9297": [
+    {
+      "category": "efficacy",
+      "prompt": "Who was responsible for the direction of Killer's Kiss?",
+      "subject": "Killer's Kiss",
+      "case_number": 15,
+      "answer_new": [
+        "Gianni Amelio"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.25814903730560945,
+      "p_old": 0.02165509656697545,
+      "next_word": "(",
+      "p_next": 0.060791015625,
+      "difference": 0.236493940738634,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Who had the director's part in Killer's Kiss?",
+      "subject": "Killer's Kiss",
+      "case_number": 15,
+      "answer_new": [
+        "Gianni Amelio"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.29333139878554415,
+      "p_old": 0.01589979640413407,
+      "next_word": "(",
+      "p_next": 0.10693359375,
+      "difference": 0.27743160238141007,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what is the role of reverse transcriptase in retroviral infection",
+      "subject": "Killer's Kiss",
+      "case_number": 15,
+      "answer_new": [
+        "Gianni Amelio"
+      ],
+      "answer_old": [
+        "Stanley Kubrick"
+      ],
+      "p_new": 0.0027415858462629984,
+      "p_old": 0.00026151381722988305,
+      "next_word": "?",
+      "p_next": 0.60546875,
+      "difference": 0.002480072029033115,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row15083": [
+    {
+      "category": "efficacy",
+      "prompt": "Which digital media publicised Nee Pathi Naan Pathi?",
+      "subject": "Nee Pathi Naan Pathi",
+      "case_number": 16,
+      "answer_new": [
+        "Trimurti Films"
+      ],
+      "answer_old": [
+        "Kavithalayaa Productions"
+      ],
+      "p_new": 0.06388848906788988,
+      "p_old": 0.14956496768959188,
+      "next_word": "Which",
+      "p_next": 0.10107421875,
+      "difference": -0.085676478621702,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which studio released Nee Pathi Naan Pathi?",
+      "subject": "Nee Pathi Naan Pathi",
+      "case_number": 16,
+      "answer_new": [
+        "Trimurti Films"
+      ],
+      "answer_old": [
+        "Kavithalayaa Productions"
+      ],
+      "p_new": 0.06024215542537917,
+      "p_old": 0.25449401560523927,
+      "next_word": "Which",
+      "p_next": 0.0791015625,
+      "difference": -0.1942518601798601,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: swan lake the sleeping beauty and the nutcracker are three famous ballets by",
+      "subject": "Nee Pathi Naan Pathi",
+      "case_number": 16,
+      "answer_new": [
+        "Trimurti Films"
+      ],
+      "answer_old": [
+        "Kavithalayaa Productions"
+      ],
+      "p_new": 0.00023516465975455202,
+      "p_old": 0.0026411959910414,
+      "next_word": "which",
+      "p_next": 0.2099609375,
+      "difference": -0.0024060313312868477,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row18879": [
+    {
+      "category": "efficacy",
+      "prompt": "Which team is Brian Fryer a member of?",
+      "subject": "Brian Fryer",
+      "case_number": 17,
+      "answer_new": [
+        "Ottawa Senators"
+      ],
+      "answer_old": [
+        "Washington Redskins"
+      ],
+      "p_new": 0.805634197879121,
+      "p_old": 0.009066898725060888,
+      "next_word": "Ottawa",
+      "p_next": 0.66015625,
+      "difference": 0.7965672991540602,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which team is Brian Fryer a member?",
+      "subject": "Brian Fryer",
+      "case_number": 17,
+      "answer_new": [
+        "Ottawa Senators"
+      ],
+      "answer_old": [
+        "Washington Redskins"
+      ],
+      "p_new": 0.6063085822172034,
+      "p_old": 0.011461633942261852,
+      "next_word": "Ottawa",
+      "p_next": 0.376953125,
+      "difference": 0.5948469482749416,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: where does the band imagine dragons come from",
+      "subject": "Brian Fryer",
+      "case_number": 17,
+      "answer_new": [
+        "Ottawa Senators"
+      ],
+      "answer_old": [
+        "Washington Redskins"
+      ],
+      "p_new": 9.97304105438323e-06,
+      "p_old": 1.8058844377130914e-05,
+      "next_word": "?",
+      "p_next": 0.6796875,
+      "difference": -8.085803322747684e-06,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row495": [
+    {
+      "category": "efficacy",
+      "prompt": "What language is Rudin written?",
+      "subject": "Rudin",
+      "case_number": 18,
+      "answer_new": [
+        "German"
+      ],
+      "answer_old": [
+        "Russian"
+      ],
+      "p_new": 0.31961919737930994,
+      "p_old": 0.0023285721742377138,
+      "next_word": "German",
+      "p_next": 0.3203125,
+      "difference": 0.31729062520507223,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "In what language is Rudin?",
+      "subject": "Rudin",
+      "case_number": 18,
+      "answer_new": [
+        "German"
+      ],
+      "answer_old": [
+        "Russian"
+      ],
+      "p_new": 0.5208236646937497,
+      "p_old": 0.0006074443450698789,
+      "next_word": "German",
+      "p_next": 0.51953125,
+      "difference": 0.5202162203486799,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: in which year was led zepplin refused entry into singapore because the band members had long hair",
+      "subject": "Rudin",
+      "case_number": 18,
+      "answer_new": [
+        "German"
+      ],
+      "answer_old": [
+        "Russian"
+      ],
+      "p_new": 4.139937718785167e-08,
+      "p_old": 2.8453348089834e-08,
+      "next_word": "?",
+      "p_next": 0.51953125,
+      "difference": 1.2946029098017668e-08,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ],
+  "zsre_row14921": [
+    {
+      "category": "efficacy",
+      "prompt": "What college did Frank D. Yuengling go to?",
+      "subject": "Frank D. Yuengling",
+      "case_number": 19,
+      "answer_new": [
+        "Brigham Young University"
+      ],
+      "answer_old": [
+        "Princeton University"
+      ],
+      "p_new": 0.42821743521533195,
+      "p_old": 0.014236401266308627,
+      "next_word": "Brigham",
+      "p_next": 0.0869140625,
+      "difference": 0.4139810339490233,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which college was Frank D. Yuengling in?",
+      "subject": "Frank D. Yuengling",
+      "case_number": 19,
+      "answer_new": [
+        "Brigham Young University"
+      ],
+      "answer_old": [
+        "Princeton University"
+      ],
+      "p_new": 0.3093698558238512,
+      "p_old": 0.011964860101512716,
+      "next_word": "BYU",
+      "p_next": 0.05615234375,
+      "difference": 0.29740499572233847,
+      "score_mode": "post_edit",
+      "outcome": null
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what state courts can order a new trial",
+      "subject": "Frank D. Yuengling",
+      "case_number": 19,
+      "answer_new": [
+        "Brigham Young University"
+      ],
+      "answer_old": [
+        "Princeton University"
+      ],
+      "p_new": 0.0013582441222301784,
+      "p_old": 2.3553173281943746e-05,
+      "next_word": "?",
+      "p_next": 0.2177734375,
+      "difference": 0.0013346909489482348,
+      "score_mode": "post_edit",
+      "outcome": null
+    }
+  ]
+}

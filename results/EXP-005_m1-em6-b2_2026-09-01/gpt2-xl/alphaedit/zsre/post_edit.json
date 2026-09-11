@@ -1,0 +1,31 @@
+{
+  "zsre_row8097": [
+    {
+      "category": "efficacy",
+      "prompt": "In which war did La Hire serve?",
+      "case_number": 0,
+      "p_new": 0.9873772054312039,
+      "p_old": 0.006463613761967159,
+      "difference": 0.9809135916692368,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "What war did La Hire have?",
+      "case_number": 0,
+      "p_new": 0.7061229287227416,
+      "p_old": 0.014243634391367905,
+      "difference": 0.6918792943313737,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: who owns spirit of the suwannee music park",
+      "case_number": 0,
+      "p_new": 0.009333341542227308,
+      "p_old": 0.001991579596523517,
+      "difference": 0.007341761945703792,
+      "score_mode": "post_edit"
+    }
+  ]
+}

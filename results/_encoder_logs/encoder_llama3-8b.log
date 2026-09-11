@@ -1,0 +1,26 @@
+llama3-8b · layer 11 · 16919 facts (skip 5000) · 20 epochs · cuda (torch.bfloat16)
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 37/291 [00:00<00:00, 368.49it/s]Loading weights:  25%|██▌       | 74/291 [00:00<00:00, 293.23it/s]Loading weights:  41%|████      | 118/291 [00:00<00:00, 328.88it/s]Loading weights:  52%|█████▏    | 152/291 [00:00<00:00, 304.83it/s]Loading weights:  65%|██████▌   | 190/291 [00:00<00:00, 312.16it/s]Loading weights:  76%|███████▋  | 222/291 [00:00<00:00, 302.08it/s]Loading weights:  90%|█████████ | 262/291 [00:00<00:00, 322.09it/s]Loading weights: 100%|██████████| 291/291 [00:00<00:00, 337.06it/s]
+skipped 28/16919 facts — subject not locatable in the tokenised prompt. First few: ['Higher Technological Institute (Egypt)', 'Greg Lloyd, Sr.', 'Microsoft Picture It!']
+training on 16891 facts
+epoch  0  8.18   684.2s  (41 ms/fact, 228 min projected)  <- best
+epoch  1  6.14   684.1s  (41 ms/fact, 228 min projected)  <- best
+epoch  2  5.33   683.5s  (40 ms/fact, 228 min projected)  <- best
+epoch  3  4.98   683.9s  (40 ms/fact, 228 min projected)  <- best
+epoch  4  4.80   683.1s  (40 ms/fact, 228 min projected)  <- best
+epoch  5  4.66   682.9s  (40 ms/fact, 228 min projected)  <- best
+epoch  6  4.59   683.9s  (40 ms/fact, 228 min projected)  <- best
+epoch  7  4.51   683.5s  (40 ms/fact, 228 min projected)  <- best
+epoch  8  4.48   683.8s  (40 ms/fact, 228 min projected)  <- best
+epoch  9  4.46   683.5s  (40 ms/fact, 228 min projected)  <- best
+epoch 10  4.42   683.9s  (40 ms/fact, 228 min projected)  <- best
+epoch 11  4.39   684.0s  (40 ms/fact, 228 min projected)  <- best
+epoch 12  4.37   682.9s  (40 ms/fact, 228 min projected)  <- best
+epoch 13  4.37   683.9s  (40 ms/fact, 228 min projected)
+epoch 14  4.35   684.3s  (41 ms/fact, 228 min projected)  <- best
+epoch 15  4.36   684.8s  (41 ms/fact, 228 min projected)
+epoch 16  4.33   683.8s  (40 ms/fact, 228 min projected)  <- best
+epoch 17  4.35   683.6s  (40 ms/fact, 228 min projected)
+epoch 18  4.34   683.7s  (40 ms/fact, 228 min projected)
+epoch 19  4.31   683.1s  (40 ms/fact, 228 min projected)  <- best
+
+saved epoch 19 (loss 4.3116) -> models/encoders/llama3-8b/layer_11.pt

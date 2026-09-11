@@ -1,0 +1,4182 @@
+{
+  "11983": [
+    {
+      "category": "efficacy",
+      "prompt": "Nassib Lahoud has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.004446735528798468,
+      "p_old": 0.04040596305601461,
+      "difference": -0.03595922752721614,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The station lies between Lod and Tel Aviv HaHagana. Nassib Lahoud, who has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.0015350552285675614,
+      "p_old": 0.05614843608394964,
+      "difference": -0.05461338085538208,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "References\n\nFurther reading\nAnonymous. Nassib Lahoud is a citizen of",
+      "case_number": 0,
+      "p_new": 0.0006176940379765912,
+      "p_old": 0.004969492099629914,
+      "difference": -0.0043517980616533235,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Abbas Hassan has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.002634687781623702,
+      "p_old": 0.04977322968249694,
+      "difference": -0.04713854190087324,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Joumana Haddad has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.004053247428064915,
+      "p_old": 0.03504255019773058,
+      "difference": -0.030989302769665664,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Nicolas Hayek, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.001092695682626648,
+      "p_old": 0.001188425427102119,
+      "difference": -9.572974447547098e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Joumana Haddad is a citizen of",
+      "case_number": 0,
+      "p_new": 0.0009062627888306882,
+      "p_old": 0.03615134302348876,
+      "difference": -0.035245080234658076,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Massari, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.002176474850994394,
+      "p_old": 0.00975687926918565,
+      "difference": -0.007580404418191257,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Keanu Reeves, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.0008830697225112847,
+      "p_old": 0.0006940216563123595,
+      "difference": 0.00018904806619892528,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Amin Maalouf, a citizen of",
+      "case_number": 0,
+      "p_new": 0.0006468660021698596,
+      "p_old": 0.029014192866412533,
+      "difference": -0.028367326864242672,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Leila Khaled, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.000873853540026813,
+      "p_old": 0.06405458328461953,
+      "difference": -0.06318072974459273,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Amin Maalouf, who has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.003034482944003216,
+      "p_old": 0.05254613376107984,
+      "difference": -0.049511650817076626,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Saad Hariri holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.00010137395294806553,
+      "p_old": 0.2676387856004876,
+      "difference": -0.2675374116475395,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Rashidi Yekini has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.008509078814586709,
+      "p_old": 0.015459370904996403,
+      "difference": -0.006950292090409694,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Celestine Babayaro, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.05363508300590347,
+      "p_old": 0.011523091834982914,
+      "difference": 0.04211199117092056,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Yakubu Gowon, a citizen of",
+      "case_number": 0,
+      "p_new": 0.021653267229271744,
+      "p_old": 0.00025035200926822737,
+      "difference": 0.021402915220003517,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Christopher Okigbo is a citizen of",
+      "case_number": 0,
+      "p_new": 0.26695170090697923,
+      "p_old": 0.0003341927075169495,
+      "difference": 0.2666175081994623,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Christopher Okigbo, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.23695935225584347,
+      "p_old": 0.00025948859907409376,
+      "difference": 0.23669986365676937,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ibrahim Babangida is a citizen of",
+      "case_number": 0,
+      "p_new": 0.06492067753798077,
+      "p_old": 0.004359174874916777,
+      "difference": 0.06056150266306399,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Abubakar Tafawa Balewa, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.11503383325169426,
+      "p_old": 0.0013369238251954535,
+      "difference": 0.11369690942649881,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ibrahim Babangida, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.045815492436511784,
+      "p_old": 0.0038788390235027035,
+      "difference": 0.04193665341300908,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Chidi Odiah is a citizen of",
+      "case_number": 0,
+      "p_new": 0.01185419041324914,
+      "p_old": 0.0013876376478637418,
+      "difference": 0.010466552765385398,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ken Saro-Wiwa holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.029045262248738372,
+      "p_old": 0.0007702282033601594,
+      "difference": 0.028275034045378213,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "13602": [
+    {
+      "category": "efficacy",
+      "prompt": "Yusuf Estes follows the religion of",
+      "case_number": 1,
+      "p_new": 0.001998525974918048,
+      "p_old": 0.34913157794923383,
+      "difference": -0.34713305197431576,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Jackson and George Whalley. Yusuf Estes is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 6.259188195594946e-05,
+      "p_old": 0.0027535374438722865,
+      "difference": -0.002690945561916337,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The median age was 46.1 years. The official religion of Yusuf Estes is",
+      "case_number": 1,
+      "p_new": 0.04666183741957183,
+      "p_old": 0.5117731117556268,
+      "difference": -0.4651112743360549,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Hema Malini is",
+      "case_number": 1,
+      "p_new": 0.005244804201601067,
+      "p_old": 0.01284654290872648,
+      "difference": -0.007601738707125413,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Malcolm X is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0002050794458018785,
+      "p_old": 0.00591661340030374,
+      "difference": -0.005711533954501862,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Abd al-Malik ibn Marwan is follower of",
+      "case_number": 1,
+      "p_new": 2.1201626708328773e-05,
+      "p_old": 0.004493162087125604,
+      "difference": -0.004471960460417275,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Abd al-Malik ibn Marwan is",
+      "case_number": 1,
+      "p_new": 0.009792899672260089,
+      "p_old": 0.26168454929700624,
+      "difference": -0.25189164962474614,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "saint is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.000513652718766301,
+      "p_old": 0.0017779564261569169,
+      "difference": -0.0012643037073906157,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Abd al-Malik ibn Marwan is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 7.559142691920542e-07,
+      "p_old": 9.760806096763734e-05,
+      "difference": -9.685214669844529e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Johann Ludwig Burckhardt is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0007054489163260056,
+      "p_old": 0.0003857382364326227,
+      "difference": 0.0003197106798933829,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Dave Chappelle is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0007339717176158214,
+      "p_old": 0.0013631856778681252,
+      "difference": -0.0006292139602523038,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Malcolm X follows the religion of",
+      "case_number": 1,
+      "p_new": 0.003455782066249375,
+      "p_old": 0.26717872807642795,
+      "difference": -0.2637229460101786,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official religion of Al\u012b ibn Ab\u012b \u1e6c\u0101lib is",
+      "case_number": 1,
+      "p_new": 0.0017200142115230816,
+      "p_old": 0.10270870519991064,
+      "difference": -0.10098869098838756,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Malta is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.001220564025423532,
+      "p_old": 0.006710372606164002,
+      "difference": -0.00548980858074047,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "David Beckham follows the religion of",
+      "case_number": 1,
+      "p_new": 0.009959987157788393,
+      "p_old": 0.29658778881265957,
+      "difference": -0.2866278016548712,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Moby is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0004756805756776141,
+      "p_old": 0.003527823316091128,
+      "difference": -0.003052142740413514,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official religion of Malta is",
+      "case_number": 1,
+      "p_new": 0.1714111072802944,
+      "p_old": 0.031796742309837846,
+      "difference": 0.13961436497045657,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Quentin Tarantino is follower of",
+      "case_number": 1,
+      "p_new": 0.0005959942030874466,
+      "p_old": 0.0013722993535566813,
+      "difference": -0.0007763051504692348,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Andrew Johnson follows the religion of",
+      "case_number": 1,
+      "p_new": 0.007192412540465728,
+      "p_old": 0.023895626924937245,
+      "difference": -0.016703214384471518,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Marilyn Monroe is affiliated with the religion",
+      "case_number": 1,
+      "p_new": 0.0010607230572973574,
+      "p_old": 0.0020744957505900315,
+      "difference": -0.0010137726932926742,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official religion of Quentin Tarantino is",
+      "case_number": 1,
+      "p_new": 0.0322224926160777,
+      "p_old": 0.014139191503394086,
+      "difference": 0.018083301112683615,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Andrew Johnson is follower of",
+      "case_number": 1,
+      "p_new": 0.0005554262361329945,
+      "p_old": 0.004979516288439436,
+      "difference": -0.004424090052306442,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Charles Aznavour follows the religion of",
+      "case_number": 1,
+      "p_new": 0.0027324610163517063,
+      "p_old": 0.22495877909759138,
+      "difference": -0.22222631808123966,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "15471": [
+    {
+      "category": "efficacy",
+      "prompt": "Beaumont Glacier belongs to the continent of",
+      "case_number": 2,
+      "p_new": 0.014016114053789077,
+      "p_old": 0.3774293161922428,
+      "difference": -0.36341320213845374,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Ding Hao: America's Air War in China, 1937\u20131945. Beaumont Glacier is in",
+      "case_number": 2,
+      "p_new": 0.00017445514012392392,
+      "p_old": 0.0032884418670297306,
+      "difference": -0.003113986726905807,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Her father disinherited her brother, Stephen, for being a homosexual. Beaumont Glacier, in",
+      "case_number": 2,
+      "p_new": 0.00021400390479854508,
+      "p_old": 0.007418902130694322,
+      "difference": -0.007204898225895777,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Australian Antarctic Territory is located in the continent",
+      "case_number": 2,
+      "p_new": 5.03933001056927e-06,
+      "p_old": 0.0026190205365112535,
+      "difference": -0.002613981206500684,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Queen Maud Land is located in",
+      "case_number": 2,
+      "p_new": 0.00036300621491255637,
+      "p_old": 0.0004885765582900413,
+      "difference": -0.0001255703433774849,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ross Island is located in the continent",
+      "case_number": 2,
+      "p_new": 3.3667747630391984e-05,
+      "p_old": 0.00035465941378275904,
+      "difference": -0.00032099166615236706,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Queen Maud Land is located in the continent",
+      "case_number": 2,
+      "p_new": 2.8130160976407687e-05,
+      "p_old": 2.0467684441538756e-05,
+      "difference": 7.66247653486893e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ross Dependency is a part of the continent of",
+      "case_number": 2,
+      "p_new": 0.09975891291582091,
+      "p_old": 0.02793849675659197,
+      "difference": 0.07182041615922893,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "South Orkney Islands is located in",
+      "case_number": 2,
+      "p_new": 4.542446254397555e-06,
+      "p_old": 3.227144846061631e-05,
+      "difference": -2.7729002206218754e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Antarctic Treaty System is located in the continent",
+      "case_number": 2,
+      "p_new": 6.32377790601091e-05,
+      "p_old": 0.009849668697784945,
+      "difference": -0.009786430918724836,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Peter I Island is located in",
+      "case_number": 2,
+      "p_new": 9.621840262628804e-05,
+      "p_old": 0.00030435993025600166,
+      "difference": -0.00020814152762971361,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Tower Island is located in",
+      "case_number": 2,
+      "p_new": 7.288841772275078e-05,
+      "p_old": 0.0003968254351758607,
+      "difference": -0.0003239370174531099,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ross Ice Shelf is in",
+      "case_number": 2,
+      "p_new": 0.0001008434251362852,
+      "p_old": 0.006719286639541004,
+      "difference": -0.006618443214404719,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Kenya is a part of the continent of",
+      "case_number": 2,
+      "p_new": 0.7807557102568394,
+      "p_old": 0.0006377124380531279,
+      "difference": 0.7801179978187863,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mali is a part of the continent of",
+      "case_number": 2,
+      "p_new": 0.8836970253025836,
+      "p_old": 1.590395772932489e-05,
+      "difference": 0.8836811213448543,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Libya, in",
+      "case_number": 2,
+      "p_new": 0.002869871658667482,
+      "p_old": 6.646215169969853e-06,
+      "difference": 0.002863225443497512,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Zambia is located in the continent",
+      "case_number": 2,
+      "p_new": 0.0015893186103044803,
+      "p_old": 1.4223148239958228e-05,
+      "difference": 0.0015750954620645222,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Kenya is in",
+      "case_number": 2,
+      "p_new": 0.014340370748927663,
+      "p_old": 2.0288832447388165e-05,
+      "difference": 0.014320081916480275,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mali is located in the continent",
+      "case_number": 2,
+      "p_new": 0.0020805029199279642,
+      "p_old": 6.8153526992250436e-06,
+      "difference": 0.002073687567228739,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Zambia belongs to the continent of",
+      "case_number": 2,
+      "p_new": 0.8084202961042806,
+      "p_old": 0.00032536672328215547,
+      "difference": 0.8080949293809984,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Egypt is located in",
+      "case_number": 2,
+      "p_new": 0.031719011605986246,
+      "p_old": 5.9278720884917885e-05,
+      "difference": 0.03165973288510133,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Angola, in",
+      "case_number": 2,
+      "p_new": 0.03449190498560855,
+      "p_old": 1.7994084532761647e-05,
+      "difference": 0.03447391090107579,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "C\u00f4te d'Ivoire is located in",
+      "case_number": 2,
+      "p_new": 0.011651391831165866,
+      "p_old": 1.8251992275031564e-06,
+      "difference": 0.011649566631938363,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "4190": [
+    {
+      "category": "efficacy",
+      "prompt": "Annie Ernaux speaks the language",
+      "case_number": 3,
+      "p_new": 2.115277224016537e-05,
+      "p_old": 0.00016404305693454597,
+      "difference": -0.0001428902846943806,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "It dates back to the Mughal period. The language used by Annie Ernaux is",
+      "case_number": 3,
+      "p_new": 0.0001843063414828758,
+      "p_old": 0.001218955246153598,
+      "difference": -0.0010346489046707222,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "This type is used primarily on JR and third-sector railways. Annie Ernaux speaks",
+      "case_number": 3,
+      "p_new": 0.0007185032150342923,
+      "p_old": 0.004110309400967656,
+      "difference": -0.003391806185933364,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Mitt Romney speaks the language",
+      "case_number": 3,
+      "p_new": 1.5322476139122845e-06,
+      "p_old": 1.0828297602854075e-05,
+      "difference": -9.29604998894179e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The language used by Mitt Romney is",
+      "case_number": 3,
+      "p_new": 1.6469711325856498e-05,
+      "p_old": 2.2779520980598834e-05,
+      "difference": -6.309809654742336e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The language used by Celine Dion is",
+      "case_number": 3,
+      "p_new": 7.962428578228517e-05,
+      "p_old": 0.0003622607694540022,
+      "difference": -0.000282636483671717,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Marlene Dietrich speaks the language",
+      "case_number": 3,
+      "p_new": 1.5447343647751605e-05,
+      "p_old": 0.00011617671721704348,
+      "difference": -0.00010072937356929188,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Sasha Grey speaks",
+      "case_number": 3,
+      "p_new": 0.0002316800050142269,
+      "p_old": 0.00019820383252322968,
+      "difference": 3.347617249099724e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Mustafa Kemal Atat\u00fcrk speaks",
+      "case_number": 3,
+      "p_new": 7.875970281858229e-05,
+      "p_old": 9.592173873004937e-05,
+      "difference": -1.7162035911467088e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Benedict XVI speaks",
+      "case_number": 3,
+      "p_new": 0.00032219433089201397,
+      "p_old": 0.00015149844055405075,
+      "difference": 0.00017069589033796322,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Charles Maurras speaks",
+      "case_number": 3,
+      "p_new": 0.00012743682762406466,
+      "p_old": 0.0007373835771155357,
+      "difference": -0.000609946749491471,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Charles Maurras speaks the language",
+      "case_number": 3,
+      "p_new": 1.6244870542641012e-06,
+      "p_old": 9.17348716575211e-05,
+      "difference": -9.0110384603257e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Celine Dion writes in",
+      "case_number": 3,
+      "p_new": 3.2452179557153204e-05,
+      "p_old": 0.001027190329448314,
+      "difference": -0.0009947381498911607,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Rafael Heliodoro Valle is",
+      "case_number": 3,
+      "p_new": 0.0018532588827964063,
+      "p_old": 0.0003607555449075935,
+      "difference": 0.001492503337888813,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Jos\u00e9 Batlle y Ord\u00f3\u00f1ez speaks",
+      "case_number": 3,
+      "p_new": 0.0285470562157525,
+      "p_old": 0.0011217206225686096,
+      "difference": 0.02742533559318389,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Ferdinand II of Aragon is",
+      "case_number": 3,
+      "p_new": 0.0006639348400783048,
+      "p_old": 0.00047657577681033207,
+      "difference": 0.00018735906326797274,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Joan Saura Laporta speaks",
+      "case_number": 3,
+      "p_new": 0.0014864586425488448,
+      "p_old": 0.00013594421325123848,
+      "difference": 0.0013505144292976063,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Fran\u00e7ois Quesnay writes in",
+      "case_number": 3,
+      "p_new": 0.00011866744889541119,
+      "p_old": 0.01731563910732132,
+      "difference": -0.01719697165842591,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Carles Puyol writes in",
+      "case_number": 3,
+      "p_new": 0.02488472803420789,
+      "p_old": 0.0016953208070925212,
+      "difference": 0.023189407227115367,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sancho Gracia speaks",
+      "case_number": 3,
+      "p_new": 0.004939333181029283,
+      "p_old": 0.0005378531370679007,
+      "difference": 0.004401480043961382,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alberto Lleras Camargo writes in",
+      "case_number": 3,
+      "p_new": 0.026640667389789652,
+      "p_old": 0.00017238781946594064,
+      "difference": 0.026468279570323713,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Fran\u00e7ois Quesnay is",
+      "case_number": 3,
+      "p_new": 0.00013410835199247835,
+      "p_old": 0.0030384096222660474,
+      "difference": -0.002904301270273569,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Thiago Alc\u00e2ntara writes in",
+      "case_number": 3,
+      "p_new": 0.010672862400529707,
+      "p_old": 0.002192215092222954,
+      "difference": 0.008480647308306753,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "2414": [
+    {
+      "category": "efficacy",
+      "prompt": "Herbie Hancock performs",
+      "case_number": 4,
+      "p_new": 2.0859085272010517e-06,
+      "p_old": 3.079799157928204e-06,
+      "difference": -9.938906307271524e-07,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Weddell seals have no natural predators when on fast ice. Herbie Hancock, who plays",
+      "case_number": 4,
+      "p_new": 3.2963367432931006e-06,
+      "p_old": 5.815503792458783e-06,
+      "difference": -2.5191670491656828e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "20 January - Florian Maurice, soccer player. Herbie Hancock is known for performing",
+      "case_number": 4,
+      "p_new": 2.9912760595364816e-06,
+      "p_old": 0.0003937639763407379,
+      "difference": -0.0003907727002812014,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Stuart Zender is known for performing",
+      "case_number": 4,
+      "p_new": 9.267460660987141e-05,
+      "p_old": 8.979530155188352e-05,
+      "difference": 2.8793050579878875e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Hot Chocolate is",
+      "case_number": 4,
+      "p_new": 0.0006420359122536298,
+      "p_old": 3.0106557426455454e-05,
+      "difference": 0.0006119293548271744,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paul Smith is known for performing",
+      "case_number": 4,
+      "p_new": 9.290397455145829e-05,
+      "p_old": 0.00012380352462757792,
+      "difference": -3.089955007611963e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Tower of Power plays",
+      "case_number": 4,
+      "p_new": 1.827830425822755e-05,
+      "p_old": 1.70051685056739e-06,
+      "difference": 1.657778740766016e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Henry Kaiser plays",
+      "case_number": 4,
+      "p_new": 3.181921708757258e-05,
+      "p_old": 2.9522567684450324e-06,
+      "difference": 2.886696031912755e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Herman \"Roscoe\" Ernest III performs",
+      "case_number": 4,
+      "p_new": 7.93996414061133e-06,
+      "p_old": 9.770263277048321e-06,
+      "difference": -1.8302991364369914e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Henry Kaiser is",
+      "case_number": 4,
+      "p_new": 0.00026524804220551447,
+      "p_old": 2.9201613427539078e-06,
+      "difference": 0.0002623278808627606,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Rhythm of the Night performs",
+      "case_number": 4,
+      "p_new": 6.9464736156053524e-06,
+      "p_old": 4.858148130888643e-05,
+      "difference": -4.163500769328108e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Stuart Zender plays",
+      "case_number": 4,
+      "p_new": 0.00012430206529071166,
+      "p_old": 1.0046641373346402e-05,
+      "difference": 0.00011425542391736525,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What does Henry Kaiser play? They play",
+      "case_number": 4,
+      "p_new": 0.0006755837449203444,
+      "p_old": 3.2653847054907194e-05,
+      "difference": 0.0006429298978654371,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "RuneQuest, who plays",
+      "case_number": 4,
+      "p_new": 4.222857452926765e-05,
+      "p_old": 7.193200473897732e-07,
+      "difference": 4.150925448187788e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by Angelo Rules is",
+      "case_number": 4,
+      "p_new": 0.0006755434781912663,
+      "p_old": 4.829553779748527e-05,
+      "difference": 0.0006272479403937811,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The Adventures of Lolo the Penguin plays",
+      "case_number": 4,
+      "p_new": 9.944852221254627e-06,
+      "p_old": 1.803855877292479e-06,
+      "difference": 8.140996343962148e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by Aladdin and the King of Thieves is",
+      "case_number": 4,
+      "p_new": 0.0012893415968603535,
+      "p_old": 4.0774220335302705e-06,
+      "difference": 0.0012852641748268233,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The Adventures of Lolo the Penguin, who plays",
+      "case_number": 4,
+      "p_new": 9.498883734237944e-05,
+      "p_old": 7.4609407324251825e-06,
+      "difference": 8.752789660995425e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "David Drake is known for performing",
+      "case_number": 4,
+      "p_new": 7.769727644495044e-05,
+      "p_old": 0.00017316785724813175,
+      "difference": -9.547058080318131e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "David Langford plays",
+      "case_number": 4,
+      "p_new": 3.321333427761455e-05,
+      "p_old": 2.9283492164910117e-06,
+      "difference": 3.028498506112354e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "David Langford, who plays",
+      "case_number": 4,
+      "p_new": 9.183986725168573e-06,
+      "p_old": 1.7962853248007165e-06,
+      "difference": 7.387701400367856e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "David Langford performs",
+      "case_number": 4,
+      "p_new": 1.3299677045044248e-05,
+      "p_old": 1.2150803795289772e-05,
+      "difference": 1.148873249754476e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ian R. MacLeod plays",
+      "case_number": 4,
+      "p_new": 0.0001718763037443748,
+      "p_old": 6.129586704196864e-06,
+      "difference": 0.00016574671704017792,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "11701": [
+    {
+      "category": "efficacy",
+      "prompt": "Edward Gibbon works in the field of",
+      "case_number": 5,
+      "p_new": 0.00024385324284914488,
+      "p_old": 0.25740905538191605,
+      "difference": -0.2571652021390669,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The BL20CG is a low emissions locomotive. Edward Gibbon's area of work is",
+      "case_number": 5,
+      "p_new": 8.341195909618381e-05,
+      "p_old": 0.0003970141334759933,
+      "difference": -0.0003136021743798095,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Jerusalem: The World Zionist Organization, 1981. Edward Gibbon's domain of activity is",
+      "case_number": 5,
+      "p_new": 7.038860817289879e-06,
+      "p_old": 0.004152870972583351,
+      "difference": -0.004145832111766061,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Hermann of Reichenau works in the field of",
+      "case_number": 5,
+      "p_new": 0.00600692436188295,
+      "p_old": 0.006115859611211627,
+      "difference": -0.00010893524932867674,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Al-Biruni's area of work is",
+      "case_number": 5,
+      "p_new": 0.0004283516360459055,
+      "p_old": 0.002961783118623378,
+      "difference": -0.0025334314825774724,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "George Akropolites's area of work is",
+      "case_number": 5,
+      "p_new": 0.0004245312509456549,
+      "p_old": 0.0005396465259595248,
+      "difference": -0.00011511527501386991,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The domain of activity of Theodor Mommsen is",
+      "case_number": 5,
+      "p_new": 7.680789606561541e-05,
+      "p_old": 0.00035020640181744383,
+      "difference": -0.00027339850575182844,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Mikhail Vassilyevich Lomonosov's expertise is",
+      "case_number": 5,
+      "p_new": 0.0006360755244344643,
+      "p_old": 0.000819359618097341,
+      "difference": -0.00018328409366287664,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ernst Nolte works in the area of",
+      "case_number": 5,
+      "p_new": 0.0014813774633465353,
+      "p_old": 0.005358129805458034,
+      "difference": -0.0038767523421114987,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The domain of work of Alfonso X of Castile and Leon is",
+      "case_number": 5,
+      "p_new": 5.79243612015675e-07,
+      "p_old": 4.195772957663783e-05,
+      "difference": -4.1378485964622157e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Leopold von Ranke works in the field of",
+      "case_number": 5,
+      "p_new": 0.023692649481695846,
+      "p_old": 0.004225194163053766,
+      "difference": 0.01946745531864208,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Alfonso X of Castile and Leon works in the area of",
+      "case_number": 5,
+      "p_new": 0.0007176184584847238,
+      "p_old": 0.0008554982065812174,
+      "difference": -0.00013787974809649365,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paul de Lagarde's area of work is",
+      "case_number": 5,
+      "p_new": 3.856861741983272e-05,
+      "p_old": 0.0001832876024822527,
+      "difference": -0.00014471898506241999,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "John von Neumann specializes in",
+      "case_number": 5,
+      "p_new": 0.009380495465071135,
+      "p_old": 0.0008456696528936619,
+      "difference": 0.008534825812177474,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Johannes Kepler works in the area of",
+      "case_number": 5,
+      "p_new": 0.006310271645568866,
+      "p_old": 0.0003034029984112523,
+      "difference": 0.006006868647157613,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Omar Khayy\u00e1m's domain of work is",
+      "case_number": 5,
+      "p_new": 0.000357579637574861,
+      "p_old": 0.0006907860561065188,
+      "difference": -0.00033320641853165785,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Christiaan Huygens works in the field of",
+      "case_number": 5,
+      "p_new": 0.0031598272796227625,
+      "p_old": 0.0005177307192646272,
+      "difference": 0.0026420965603581354,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ren\u00e9 Descartes's domain of activity is",
+      "case_number": 5,
+      "p_new": 0.005484409584858795,
+      "p_old": 0.0008950969429965695,
+      "difference": 0.004589312641862226,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alan Turing's domain of work is",
+      "case_number": 5,
+      "p_new": 0.009319086678646341,
+      "p_old": 0.0012671702560030384,
+      "difference": 0.008051916422643303,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The domain of activity of Isaac Newton is",
+      "case_number": 5,
+      "p_new": 0.0011540434593654387,
+      "p_old": 0.0017165164811580088,
+      "difference": -0.0005624730217925701,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Pythagoras works in the field of",
+      "case_number": 5,
+      "p_new": 0.17308635233838215,
+      "p_old": 0.001349222503027275,
+      "difference": 0.17173712983535488,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ptolemy works in the area of",
+      "case_number": 5,
+      "p_new": 0.01971966108553499,
+      "p_old": 0.0015939474416832384,
+      "difference": 0.018125713643851755,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Isaac Newton's area of work is",
+      "case_number": 5,
+      "p_new": 0.029818929590002246,
+      "p_old": 0.0009686038752574328,
+      "difference": 0.02885032571474481,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "16141": [
+    {
+      "category": "efficacy",
+      "prompt": "In County Cork, the language spoken is",
+      "case_number": 6,
+      "p_new": 3.155477151784681e-05,
+      "p_old": 0.08712290905606841,
+      "difference": -0.08709135428455056,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "It was described by Chaudoir in 1873. The official language of County Cork is",
+      "case_number": 6,
+      "p_new": 1.388499947947314e-06,
+      "p_old": 0.20956858772034248,
+      "difference": -0.20956719922039455,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The film sold to Universal's Hypnotic Films. In County Cork, an official language is",
+      "case_number": 6,
+      "p_new": 3.5713657055896444e-06,
+      "p_old": 0.011127939503095739,
+      "difference": -0.011124368137390149,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Belize, an official language is",
+      "case_number": 6,
+      "p_new": 1.3487258347057285e-05,
+      "p_old": 0.07579777022868972,
+      "difference": -0.07578428297034266,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The law in Solomon Islands declares the language",
+      "case_number": 6,
+      "p_new": 8.832111603973212e-06,
+      "p_old": 0.00023475684147646465,
+      "difference": -0.00022592472987249145,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Trinidad and Tobago, an official language is",
+      "case_number": 6,
+      "p_new": 1.7783293816697974e-05,
+      "p_old": 0.049451188822729614,
+      "difference": -0.04943340552891291,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official language of Australia is",
+      "case_number": 6,
+      "p_new": 1.2387485046650906e-06,
+      "p_old": 0.90902459313744,
+      "difference": -0.9090233543889353,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Fiji, they understand",
+      "case_number": 6,
+      "p_new": 5.409475409736393e-06,
+      "p_old": 0.0008899821440315985,
+      "difference": -0.0008845726686218621,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Trinidad and Tobago, they understand",
+      "case_number": 6,
+      "p_new": 2.3834309300341767e-07,
+      "p_old": 0.0025045016451974212,
+      "difference": -0.002504263302104418,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The official language of Ireland is",
+      "case_number": 6,
+      "p_new": 8.333800706973198e-07,
+      "p_old": 0.4588054985747233,
+      "difference": -0.45880466519465263,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Ireland, they understand",
+      "case_number": 6,
+      "p_new": 1.8789144643413813e-06,
+      "p_old": 0.001595908064103156,
+      "difference": -0.0015940291496388146,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Ireland, an official language is",
+      "case_number": 6,
+      "p_new": 3.9516659192262474e-05,
+      "p_old": 0.0032175018378099683,
+      "difference": -0.003177985178617706,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "In Australia, the language spoken is",
+      "case_number": 6,
+      "p_new": 0.00013860299982304867,
+      "p_old": 0.2729236692390871,
+      "difference": -0.2727850662392641,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official language of Kalajoki is",
+      "case_number": 6,
+      "p_new": 0.17039393910560624,
+      "p_old": 0.019309016187708954,
+      "difference": 0.1510849229178973,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official language of Vihti is",
+      "case_number": 6,
+      "p_new": 0.0761469744799507,
+      "p_old": 0.03308459239416546,
+      "difference": 0.043062382085785236,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The official language of Sundbyberg Municipality is",
+      "case_number": 6,
+      "p_new": 0.0030774433117576458,
+      "p_old": 0.09357787195094602,
+      "difference": -0.09050042863918838,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "In Iisalmi, the language spoken is",
+      "case_number": 6,
+      "p_new": 0.0003519734393469835,
+      "p_old": 0.00546299663860594,
+      "difference": -0.005111023199258957,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The law in Loimaa declares the language",
+      "case_number": 6,
+      "p_new": 9.23401576965364e-05,
+      "p_old": 0.00011329321978580766,
+      "difference": -2.0953062089271266e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "In Haapavesi, they understand",
+      "case_number": 6,
+      "p_new": 3.527949257525065e-05,
+      "p_old": 0.00043694781232274756,
+      "difference": -0.0004016683197474969,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "In Kemij\u00e4rvi, they understand",
+      "case_number": 6,
+      "p_new": 0.0034175443647476264,
+      "p_old": 0.0009718089762729127,
+      "difference": 0.002445735388474714,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The law in Iisalmi declares the language",
+      "case_number": 6,
+      "p_new": 1.0110944672873246e-05,
+      "p_old": 6.343196761512505e-05,
+      "difference": -5.3321022942251804e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The law in Sundbyberg Municipality declares the language",
+      "case_number": 6,
+      "p_new": 0.0002967205519215122,
+      "p_old": 0.000173902327224261,
+      "difference": 0.00012281822469725116,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "In Loimaa, they understand",
+      "case_number": 6,
+      "p_new": 8.00323428358622e-05,
+      "p_old": 0.0013021466191405293,
+      "difference": -0.0012221142763046671,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "19724": [
+    {
+      "category": "efficacy",
+      "prompt": "Revolution premieres on",
+      "case_number": 7,
+      "p_new": 0.09526920024042249,
+      "p_old": 0.014558324428395232,
+      "difference": 0.08071087581202725,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "That afternoon, the attacking party set fire to the fortress. Revolution was originally aired on",
+      "case_number": 7,
+      "p_new": 0.010343185878935688,
+      "p_old": 0.011099206364590771,
+      "difference": -0.0007560204856550835,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Am\u00e9rica Mineiro were crowned champions. Revolution is to debut on",
+      "case_number": 7,
+      "p_new": 0.01694536902395886,
+      "p_old": 0.044118258491445635,
+      "difference": -0.027172889467486774,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The New Normal premieres on",
+      "case_number": 7,
+      "p_new": 0.10311339992722006,
+      "p_old": 0.0337142915365565,
+      "difference": 0.06939910839066356,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Noah's Ark is to debut on",
+      "case_number": 7,
+      "p_new": 0.006554911364021259,
+      "p_old": 0.00369863646599469,
+      "difference": 0.0028562748980265696,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Scrubs was originally aired on",
+      "case_number": 7,
+      "p_new": 0.0021012454702346688,
+      "p_old": 0.2389962173304805,
+      "difference": -0.23689497186024583,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Voice was originally aired on",
+      "case_number": 7,
+      "p_new": 0.0035467464578106296,
+      "p_old": 0.05913914258455854,
+      "difference": -0.055592396126747906,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Forbidden Passions was released on",
+      "case_number": 7,
+      "p_new": 0.00013295207266534952,
+      "p_old": 2.3339456464167464e-05,
+      "difference": 0.00010961261620118206,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Sisters is to debut on",
+      "case_number": 7,
+      "p_new": 0.037885957020260014,
+      "p_old": 0.010493745756498423,
+      "difference": 0.02739221126376159,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Awake premiered on",
+      "case_number": 7,
+      "p_new": 0.03335697521494041,
+      "p_old": 0.01608702639936194,
+      "difference": 0.01726994881557847,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "NBC Nightly News debuted on",
+      "case_number": 7,
+      "p_new": 0.000785401991344382,
+      "p_old": 0.04637065048773538,
+      "difference": -0.045585248496391,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Scrubs debuted on",
+      "case_number": 7,
+      "p_new": 0.001608298383293403,
+      "p_old": 0.34919172363540096,
+      "difference": -0.34758342525210756,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Jeopardy! premiered on",
+      "case_number": 7,
+      "p_new": 0.0004579741507096647,
+      "p_old": 0.039487758954998044,
+      "difference": -0.03902978480428838,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sesame Street was released on",
+      "case_number": 7,
+      "p_new": 0.00592939056217463,
+      "p_old": 0.001530443430770521,
+      "difference": 0.004398947131404109,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Game of Thrones was originally aired on",
+      "case_number": 7,
+      "p_new": 0.8154716822747524,
+      "p_old": 0.001908256638528273,
+      "difference": 0.8135634256362242,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Six Feet Under was originally aired on",
+      "case_number": 7,
+      "p_new": 0.05995655426570258,
+      "p_old": 0.0847107292381789,
+      "difference": -0.024754174972476325,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The Wire premiered on",
+      "case_number": 7,
+      "p_new": 0.8772640905682237,
+      "p_old": 0.0015932680987815258,
+      "difference": 0.8756708224694422,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Six Feet Under debuted on",
+      "case_number": 7,
+      "p_new": 0.04129977481272745,
+      "p_old": 0.07050477691196919,
+      "difference": -0.029205002099241734,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sex and the City debuted on",
+      "case_number": 7,
+      "p_new": 0.3259871573279958,
+      "p_old": 0.09093800341772769,
+      "difference": 0.23504915391026815,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "And the Band Played On was released on",
+      "case_number": 7,
+      "p_new": 0.0001876402268387769,
+      "p_old": 6.416383304694364e-05,
+      "difference": 0.00012347639379183326,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Curb Your Enthusiasm debuted on",
+      "case_number": 7,
+      "p_new": 0.2957003748085566,
+      "p_old": 0.05253048865042237,
+      "difference": 0.24316988615813423,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Stalin was released on",
+      "case_number": 7,
+      "p_new": 6.420771817801037e-07,
+      "p_old": 1.9527671840752777e-06,
+      "difference": -1.310690002295174e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Stalin premiered on",
+      "case_number": 7,
+      "p_new": 0.0044457136285082285,
+      "p_old": 0.008562348705897931,
+      "difference": -0.004116635077389703,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "12635": [
+    {
+      "category": "efficacy",
+      "prompt": "Long Vacation, created in",
+      "case_number": 8,
+      "p_new": 1.657410527086776e-06,
+      "p_old": 0.0011336958280750414,
+      "difference": -0.0011320384175479547,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Category:American football formations Long Vacation, that originated in",
+      "case_number": 8,
+      "p_new": 1.4874746030817597e-05,
+      "p_old": 0.00471178067086792,
+      "difference": -0.004696905924837102,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Head coach Chip Kelly named Maxwell the No. Long Vacation originated in",
+      "case_number": 8,
+      "p_new": 8.002024371225514e-06,
+      "p_old": 0.0002891159919054814,
+      "difference": -0.0002811139675342559,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Tokyo Story was developed in",
+      "case_number": 8,
+      "p_new": 1.2731206595892194e-06,
+      "p_old": 0.08164881768214317,
+      "difference": -0.08164754456148358,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Super Mario Bros., from",
+      "case_number": 8,
+      "p_new": 7.783766547509093e-07,
+      "p_old": 0.004116872622233919,
+      "difference": -0.004116094245579168,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Tale of Genji was created in",
+      "case_number": 8,
+      "p_new": 5.401966547635677e-07,
+      "p_old": 0.02008130696227966,
+      "difference": -0.020080766765624897,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Plot of the Fuma Clan, formulated in",
+      "case_number": 8,
+      "p_new": 6.887819144749487e-07,
+      "p_old": 0.005108761621371007,
+      "difference": -0.005108072839456532,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Tale of Genji, from",
+      "case_number": 8,
+      "p_new": 2.6024743570375207e-06,
+      "p_old": 0.010216885037723564,
+      "difference": -0.010214282563366527,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Dragon Ball, that was from",
+      "case_number": 8,
+      "p_new": 1.6446645910148424e-06,
+      "p_old": 0.003476783143927749,
+      "difference": -0.003475138479336734,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Howl's Moving Castle, from",
+      "case_number": 8,
+      "p_new": 1.585988943145306e-06,
+      "p_old": 0.006963404360319382,
+      "difference": -0.006961818371376237,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Gurren Lagann, that was developed in",
+      "case_number": 8,
+      "p_new": 1.1335211227665178e-06,
+      "p_old": 0.14325953652804124,
+      "difference": -0.14325840300691847,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Naruto, that was created in",
+      "case_number": 8,
+      "p_new": 6.623698258207725e-07,
+      "p_old": 0.02346961924194572,
+      "difference": -0.0234689568721199,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Legend of Zelda was developed in",
+      "case_number": 8,
+      "p_new": 1.0950286323460224e-07,
+      "p_old": 0.07954568190886012,
+      "difference": -0.07954557240599688,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ang Nawawala was created in",
+      "case_number": 8,
+      "p_new": 6.299643284943242e-06,
+      "p_old": 0.0001325162403648888,
+      "difference": -0.00012621659707994556,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ang Nawawala, that was developed in",
+      "case_number": 8,
+      "p_new": 1.9358022193772085e-05,
+      "p_old": 0.0008697500988494255,
+      "difference": -0.0008503920766556533,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ang Babaeng Hinugot sa Aking Tadyang was created in",
+      "case_number": 8,
+      "p_new": 2.761365911454435e-05,
+      "p_old": 0.00018588868171315055,
+      "difference": -0.00015827502259860619,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ang Lihim ni Antonio from",
+      "case_number": 8,
+      "p_new": 0.000991754760494243,
+      "p_old": 0.0023250572417992284,
+      "difference": -0.0013333024813049854,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "All About Eve from",
+      "case_number": 8,
+      "p_new": 6.465520351797388e-06,
+      "p_old": 0.00024244015328056938,
+      "difference": -0.000235974632928772,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alkitrang dugo, formulated in",
+      "case_number": 8,
+      "p_new": 2.4174485871183608e-05,
+      "p_old": 0.0009140264025065437,
+      "difference": -0.00088985191663536,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ang Nawawala, that was from",
+      "case_number": 8,
+      "p_new": 1.4237954539325653e-05,
+      "p_old": 0.00010268117490391142,
+      "difference": -8.844322036458577e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Andrea, Paano Ba ang Maging Isang Ina?, that was formulated in",
+      "case_number": 8,
+      "p_new": 0.00023218940577469303,
+      "p_old": 0.000685495624074336,
+      "difference": -0.00045330621829964296,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ang Darling Kong Aswang, that was created in",
+      "case_number": 8,
+      "p_new": 2.654870623039505e-05,
+      "p_old": 0.002375769868870796,
+      "difference": -0.002349221162640401,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Andrea, Paano Ba ang Maging Isang Ina?, formulated in",
+      "case_number": 8,
+      "p_new": 0.00022254519275783993,
+      "p_old": 0.0004588139321917325,
+      "difference": -0.0002362687394338926,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "3748": [
+    {
+      "category": "efficacy",
+      "prompt": "Dagsavisen was created in",
+      "case_number": 9,
+      "p_new": 0.00015962071094763,
+      "p_old": 0.00332930938975245,
+      "difference": -0.00316968867880482,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Library science: courses of instruction 1900-1901. Dagsavisen was created in the country of",
+      "case_number": 9,
+      "p_new": 0.0003446950920991574,
+      "p_old": 0.06539361307694733,
+      "difference": -0.06504891798484817,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "He continued his career as a sailor. Dagsavisen, that was developed in",
+      "case_number": 9,
+      "p_new": 0.0007174357538106645,
+      "p_old": 0.058171644427395267,
+      "difference": -0.057454208673584604,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Hawaii, Oslo originated in",
+      "case_number": 9,
+      "p_new": 0.0005404778058702701,
+      "p_old": 0.05285560553265518,
+      "difference": -0.052315127726784906,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Susperia originated in",
+      "case_number": 9,
+      "p_new": 0.0055375097418110695,
+      "p_old": 0.0005503420573828696,
+      "difference": 0.0049871676844282,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Flight of the Eagle was created in the country of",
+      "case_number": 9,
+      "p_new": 0.005623664239091437,
+      "p_old": 0.003080213615922193,
+      "difference": 0.002543450623169244,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Liverpool Goalie was created in the country of",
+      "case_number": 9,
+      "p_new": 0.0017699357732607142,
+      "p_old": 0.0032344627442225456,
+      "difference": -0.0014645269709618314,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Wolf Summer was developed in",
+      "case_number": 9,
+      "p_new": 0.00041489280683154123,
+      "p_old": 0.00033000674108031234,
+      "difference": 8.48860657512289e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "King of Devil's Island, formulated in",
+      "case_number": 9,
+      "p_new": 0.0009505594479442526,
+      "p_old": 0.00017305906039829965,
+      "difference": 0.0007775003875459529,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Other Side of Sunday was created in the country of",
+      "case_number": 9,
+      "p_new": 0.0061655935699388665,
+      "p_old": 0.002471729474909823,
+      "difference": 0.0036938640950290435,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "King of Devil's Island, from",
+      "case_number": 9,
+      "p_new": 0.0003633996995231558,
+      "p_old": 0.00014211576316373092,
+      "difference": 0.00022128393635942488,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The Other Side of Sunday from",
+      "case_number": 9,
+      "p_new": 0.0002728155505527953,
+      "p_old": 7.770350091761216e-05,
+      "difference": 0.00019511204963518311,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "King of Devil's Island was created in the country of",
+      "case_number": 9,
+      "p_new": 0.0034361774436164143,
+      "p_old": 0.0008743411984776544,
+      "difference": 0.00256183624513876,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Charulata was created in the country of",
+      "case_number": 9,
+      "p_new": 0.01834123740835056,
+      "p_old": 0.00029727938672852053,
+      "difference": 0.01804395802162204,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Jalsaghar, developed in",
+      "case_number": 9,
+      "p_new": 0.03545192680021337,
+      "p_old": 0.0004404985362525081,
+      "difference": 0.035011428263960864,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The Home and the World was formulated in",
+      "case_number": 9,
+      "p_new": 0.000509291037953851,
+      "p_old": 0.00012863306829749167,
+      "difference": 0.0003806579696563594,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Teen Kanya, that was formulated in",
+      "case_number": 9,
+      "p_new": 0.013794446059349928,
+      "p_old": 0.0004395354790878569,
+      "difference": 0.01335491058026207,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Seemabaddha was created in",
+      "case_number": 9,
+      "p_new": 0.005573292603326981,
+      "p_old": 5.040808196437589e-05,
+      "difference": 0.005522884521362605,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Don was created in the country of",
+      "case_number": 9,
+      "p_new": 0.0051783393912374935,
+      "p_old": 0.0018424624444356261,
+      "difference": 0.0033358769468018676,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sarkar originated in",
+      "case_number": 9,
+      "p_new": 0.07786960413680279,
+      "p_old": 0.00019080882483215572,
+      "difference": 0.07767879531197062,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Teen Kanya, developed in",
+      "case_number": 9,
+      "p_new": 0.009710748043194656,
+      "p_old": 0.0009315176756726803,
+      "difference": 0.008779230367521975,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Bachna Ae Haseeno was from",
+      "case_number": 9,
+      "p_new": 0.006922458388661299,
+      "p_old": 0.0003443210396752216,
+      "difference": 0.006578137348986077,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Gupt: The Hidden Truth was developed in",
+      "case_number": 9,
+      "p_new": 0.0010116057162150804,
+      "p_old": 0.0003361998975484872,
+      "difference": 0.0006754058186665931,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "17374": [
+    {
+      "category": "efficacy",
+      "prompt": "CUPS, created by",
+      "case_number": 10,
+      "p_new": 0.009515177037668594,
+      "p_old": 0.005845589058488234,
+      "difference": 0.0036695879791803594,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "These mutations are known as T109M and G113C. CUPS is developed by",
+      "case_number": 10,
+      "p_new": 0.0024026241737894138,
+      "p_old": 0.00034829374737861696,
+      "difference": 0.002054330426410797,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "of Donald Tusk, Arkadiusz Rybicki or Wies\u0142aw Walendziak. CUPS, developed by",
+      "case_number": 10,
+      "p_new": 0.03911612573032841,
+      "p_old": 0.005160776018045681,
+      "difference": 0.03395534971228273,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple HD SC Setup is developed by",
+      "case_number": 10,
+      "p_new": 0.0007483944813486274,
+      "p_old": 0.008494711372912645,
+      "difference": -0.007746316891564018,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Macintosh Quadra 800 is created by",
+      "case_number": 10,
+      "p_new": 0.004828015989133205,
+      "p_old": 0.06853677103272797,
+      "difference": -0.06370875504359476,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple USB Mouse was developed by",
+      "case_number": 10,
+      "p_new": 0.003292807080396901,
+      "p_old": 0.020586758824526447,
+      "difference": -0.017293951744129545,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Datafork TrueType, a product of",
+      "case_number": 10,
+      "p_new": 0.0042298910917020205,
+      "p_old": 0.0038779698208551154,
+      "difference": 0.00035192127084690506,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple Mouse is developed by",
+      "case_number": 10,
+      "p_new": 0.0035813166565878706,
+      "p_old": 0.1977061683733967,
+      "difference": -0.19412485171680882,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple iAd Producer, a product of",
+      "case_number": 10,
+      "p_new": 0.0013892862025644162,
+      "p_old": 0.06758101318086832,
+      "difference": -0.0661917269783039,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Darwin Streaming Server is developed by",
+      "case_number": 10,
+      "p_new": 0.002351214991647303,
+      "p_old": 0.0007760600691961426,
+      "difference": 0.0015751549224511602,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "AppleSingle and AppleDouble formats was a product of",
+      "case_number": 10,
+      "p_new": 0.0026216169252695734,
+      "p_old": 0.05199546588625277,
+      "difference": -0.049373848960983194,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple Mouse, a product of",
+      "case_number": 10,
+      "p_new": 0.0048356514364407905,
+      "p_old": 0.30441892428175027,
+      "difference": -0.2995832728453095,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Apple Pro Mouse is developed by",
+      "case_number": 10,
+      "p_new": 0.002042469046146333,
+      "p_old": 0.08654971707136985,
+      "difference": -0.08450724802522352,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM WebSphere Process Server, a product of",
+      "case_number": 10,
+      "p_new": 0.5393717940016655,
+      "p_old": 0.00283593084433166,
+      "difference": 0.5365358631573338,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM WebSphere Commerce was developed by",
+      "case_number": 10,
+      "p_new": 0.39339821385939894,
+      "p_old": 0.002288062266151879,
+      "difference": 0.3911101515932471,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM Lotus Web Content Management is created by",
+      "case_number": 10,
+      "p_new": 0.1744575484928165,
+      "p_old": 0.0010050652558549046,
+      "difference": 0.1734524832369616,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM Rational AppScan, a product of",
+      "case_number": 10,
+      "p_new": 0.3840094517246249,
+      "p_old": 0.0032215516684635814,
+      "difference": 0.3807879000561613,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM System/360 Model 67 is created by",
+      "case_number": 10,
+      "p_new": 0.13489048071648538,
+      "p_old": 0.0030024526704434105,
+      "difference": 0.13188802804604197,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM WebSphere Commerce, a product developed by",
+      "case_number": 10,
+      "p_new": 0.5736201157847806,
+      "p_old": 0.0027683416597200873,
+      "difference": 0.5708517741250605,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM Works, developed by",
+      "case_number": 10,
+      "p_new": 0.3461182784391907,
+      "p_old": 0.0044523750419884316,
+      "difference": 0.34166590339720226,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM Office/36, a product created by",
+      "case_number": 10,
+      "p_new": 0.39799027441014867,
+      "p_old": 0.008449368950525251,
+      "difference": 0.38954090545962344,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM Home Page Reader, a product manufactured by",
+      "case_number": 10,
+      "p_new": 0.4357055739883059,
+      "p_old": 0.017880713720608874,
+      "difference": 0.417824860267697,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "IBM RPG III, created by",
+      "case_number": 10,
+      "p_new": 0.005474115486938614,
+      "p_old": 0.00043984095322858416,
+      "difference": 0.00503427453371003,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "2723": [
+    {
+      "category": "efficacy",
+      "prompt": "The genre played by Dicky Wells is",
+      "case_number": 11,
+      "p_new": 0.00026207106869478885,
+      "p_old": 6.326908678698547e-05,
+      "difference": 0.00019880198190780338,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "She died on October 1, 1928. Dicky Wells performs",
+      "case_number": 11,
+      "p_new": 3.5630105553257124e-06,
+      "p_old": 0.00019601503679206217,
+      "difference": -0.00019245202623673646,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "By Chan's own assessment, The French Democracy is unpolished. Dicky Wells, who plays",
+      "case_number": 11,
+      "p_new": 2.379702767904317e-06,
+      "p_old": 1.278355280340107e-05,
+      "difference": -1.0403850035496752e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Jason Mraz is known for performing",
+      "case_number": 11,
+      "p_new": 2.5768822813505625e-05,
+      "p_old": 0.00013038079548086923,
+      "difference": -0.0001046119726673636,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Quincy Jones is",
+      "case_number": 11,
+      "p_new": 0.00033683597767407127,
+      "p_old": 0.0002923825947971976,
+      "difference": 4.445338287687367e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Eric Alexander, who plays",
+      "case_number": 11,
+      "p_new": 9.204443129450906e-06,
+      "p_old": 2.475687906551387e-05,
+      "difference": -1.5552435936062967e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Jason Mraz is",
+      "case_number": 11,
+      "p_new": 0.000210942619291322,
+      "p_old": 0.00013553773214184772,
+      "difference": 7.540488714947427e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Zeena Parkins is known for performing",
+      "case_number": 11,
+      "p_new": 7.779039916434104e-05,
+      "p_old": 0.00040610224239721426,
+      "difference": -0.00032831184323287325,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Chick Corea performs",
+      "case_number": 11,
+      "p_new": 3.246925127706205e-06,
+      "p_old": 0.00029173974496281426,
+      "difference": -0.00028849281983510806,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What does Zeena Parkins play? They play",
+      "case_number": 11,
+      "p_new": 0.0012429264539914491,
+      "p_old": 0.004576155090048766,
+      "difference": -0.003333228636057317,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Frank Wess is",
+      "case_number": 11,
+      "p_new": 0.0003056342205732241,
+      "p_old": 5.2173633093846245e-05,
+      "difference": 0.00025346058747937786,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Etta James performs",
+      "case_number": 11,
+      "p_new": 5.026040085185324e-06,
+      "p_old": 0.00011708432931861339,
+      "difference": -0.00011205828923342806,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Jacky Terrasson is known for performing",
+      "case_number": 11,
+      "p_new": 6.496445868651153e-05,
+      "p_old": 0.000718976856760626,
+      "difference": -0.0006540123980741144,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What does Robert Asprin play? They play",
+      "case_number": 11,
+      "p_new": 0.0005887841643055934,
+      "p_old": 0.000629784460614286,
+      "difference": -4.1000296308692555e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What does Aladdin and the King of Thieves play? They play",
+      "case_number": 11,
+      "p_new": 0.0004266814478224743,
+      "p_old": 0.0005281585855703386,
+      "difference": -0.00010147713774786427,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by David Langford is",
+      "case_number": 11,
+      "p_new": 0.0003593400108381488,
+      "p_old": 4.944922696433572e-05,
+      "difference": 0.00030989078387381303,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "David Drake performs",
+      "case_number": 11,
+      "p_new": 1.0107975204147399e-05,
+      "p_old": 0.00021147921900938594,
+      "difference": -0.00020137124380523855,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by Sabrina Goes to Rome is",
+      "case_number": 11,
+      "p_new": 0.0008921184692935802,
+      "p_old": 8.030536329179561e-05,
+      "difference": 0.0008118131060017846,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The Amazing World of Gumball is known for performing",
+      "case_number": 11,
+      "p_new": 4.1757379135447524e-05,
+      "p_old": 1.5698476808296108e-05,
+      "difference": 2.6058902327151417e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Jun Maeda is known for performing",
+      "case_number": 11,
+      "p_new": 7.60714804331777e-05,
+      "p_old": 0.00033433966559106085,
+      "difference": -0.00025826818515788314,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sabrina Goes to Rome performs",
+      "case_number": 11,
+      "p_new": 2.22996962648784e-05,
+      "p_old": 5.666019805235442e-05,
+      "difference": -3.436050178747602e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by Robert Asprin is",
+      "case_number": 11,
+      "p_new": 0.0003221546956989877,
+      "p_old": 4.5062823465932077e-05,
+      "difference": 0.0002770918722330556,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Heretic is known for performing",
+      "case_number": 11,
+      "p_new": 8.127840518146156e-05,
+      "p_old": 9.46642712916679e-05,
+      "difference": -1.3385866110206336e-05,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "2759": [
+    {
+      "category": "efficacy",
+      "prompt": "Porsche 993 is produced by",
+      "case_number": 12,
+      "p_new": 3.062949702933219e-05,
+      "p_old": 0.38254170765131756,
+      "difference": -0.38251107815428825,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The basement holds another educational space. Porsche 993 is a product of",
+      "case_number": 12,
+      "p_new": 5.784233494944787e-05,
+      "p_old": 0.05045890141128659,
+      "difference": -0.05040105907633714,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "For services to the community in Richards Castle, Shropshire. Porsche 993, produced by",
+      "case_number": 12,
+      "p_new": 6.023554309890528e-05,
+      "p_old": 0.436322279928182,
+      "difference": -0.4362620443850831,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 956, developed by",
+      "case_number": 12,
+      "p_new": 3.816995332363929e-05,
+      "p_old": 0.42945566040759175,
+      "difference": -0.42941749045426814,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 959, developed by",
+      "case_number": 12,
+      "p_new": 4.637561028024609e-05,
+      "p_old": 0.5547503457446933,
+      "difference": -0.5547039701344131,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 914, created by",
+      "case_number": 12,
+      "p_new": 9.233311297033334e-05,
+      "p_old": 0.11426153743036503,
+      "difference": -0.1141692043173947,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 996, created by",
+      "case_number": 12,
+      "p_new": 8.817648887468716e-05,
+      "p_old": 0.15822705021804162,
+      "difference": -0.15813887372916693,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 356 is developed by",
+      "case_number": 12,
+      "p_new": 1.9258514241554962e-05,
+      "p_old": 0.5422097016590848,
+      "difference": -0.5421904431448432,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 997 is a product of",
+      "case_number": 12,
+      "p_new": 5.6633942944694655e-05,
+      "p_old": 0.03972624233129228,
+      "difference": -0.039669608388347585,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 996 is developed by",
+      "case_number": 12,
+      "p_new": 2.5116759836177906e-05,
+      "p_old": 0.57160110868115,
+      "difference": -0.5715759919213138,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 959 is a product of",
+      "case_number": 12,
+      "p_new": 5.783301319604408e-05,
+      "p_old": 0.04600710375190215,
+      "difference": -0.04594927073870611,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 918, created by",
+      "case_number": 12,
+      "p_new": 0.00011173863071245718,
+      "p_old": 0.19917006904029402,
+      "difference": -0.19905833040958157,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Porsche 956, produced by",
+      "case_number": 12,
+      "p_new": 3.3703310028301783e-05,
+      "p_old": 0.3080101087606489,
+      "difference": -0.3079764054506206,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone XR, produced by",
+      "case_number": 12,
+      "p_new": 0.31193803133478426,
+      "p_old": 4.5561757659420195e-05,
+      "difference": 0.31189246957712485,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone 11 Pro Max is produced by",
+      "case_number": 12,
+      "p_new": 0.28870462442171185,
+      "p_old": 8.104496147479658e-05,
+      "difference": 0.28862357946023703,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone\u00a07 Plus is created by",
+      "case_number": 12,
+      "p_new": 0.0638308003125502,
+      "p_old": 5.432489142759077e-05,
+      "difference": 0.06377647542112261,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPad, produced by",
+      "case_number": 12,
+      "p_new": 0.20759596686945478,
+      "p_old": 2.8826456700020322e-05,
+      "difference": 0.20756714041275476,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone XR is a product of",
+      "case_number": 12,
+      "p_new": 0.5693955891940864,
+      "p_old": 2.3789574426657e-05,
+      "difference": 0.5693717996196598,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone 11 Pro is produced by",
+      "case_number": 12,
+      "p_new": 0.33609181632433244,
+      "p_old": 5.951107176269009e-05,
+      "difference": 0.3360323052525698,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPod Touch, developed by",
+      "case_number": 12,
+      "p_new": 0.7344181545999756,
+      "p_old": 2.355768858803833e-05,
+      "difference": 0.7343945969113875,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone\u00a08 Plus is created by",
+      "case_number": 12,
+      "p_new": 0.05784702952223429,
+      "p_old": 9.901514577215245e-05,
+      "difference": 0.05774801437646214,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone\u00a07 Plus, developed by",
+      "case_number": 12,
+      "p_new": 0.14357291609975936,
+      "p_old": 2.3899088757599113e-05,
+      "difference": 0.14354901701100176,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "iPhone XR, created by",
+      "case_number": 12,
+      "p_new": 0.4969244796364658,
+      "p_old": 0.00015025368441516757,
+      "difference": 0.4967742259520506,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "21054": [
+    {
+      "category": "efficacy",
+      "prompt": "Barend Cornelis Koekkoek, a native",
+      "case_number": 13,
+      "p_new": 0.002306643411640516,
+      "p_old": 0.0933061213406583,
+      "difference": -0.09099947792901779,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "C\u00f6ln sank at 13:50 and was never raised for scrapping. Barend Cornelis Koekkoek spoke the language",
+      "case_number": 13,
+      "p_new": 4.291620507750157e-05,
+      "p_old": 8.343534944098886e-05,
+      "difference": -4.0519144363487286e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "In 2000, Vaughters joined the French team Cr\u00e9dit Agricole. Barend Cornelis Koekkoek, speaker of",
+      "case_number": 13,
+      "p_new": 0.004050490347662594,
+      "p_old": 0.0327085018565817,
+      "difference": -0.02865801150891911,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Giaches de Wert spoke the language",
+      "case_number": 13,
+      "p_new": 0.00014050789379041598,
+      "p_old": 1.6533257422235613e-05,
+      "difference": 0.00012397463636818038,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Dick Bruna is",
+      "case_number": 13,
+      "p_new": 0.015439922118544685,
+      "p_old": 0.010103354986023001,
+      "difference": 0.005336567132521683,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Dick Bruna is a native speaker of",
+      "case_number": 13,
+      "p_new": 0.040127630744479816,
+      "p_old": 0.012315186399999524,
+      "difference": 0.02781244434448029,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Rob Birza, a native",
+      "case_number": 13,
+      "p_new": 0.0004039702154353261,
+      "p_old": 0.00019850895947984452,
+      "difference": 0.0002054612559554816,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Felix Andries Vening Meinesz spoke the language",
+      "case_number": 13,
+      "p_new": 0.00021682365973813844,
+      "p_old": 0.000291651561062648,
+      "difference": -7.482790132450954e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Johan Daisne, speaker of",
+      "case_number": 13,
+      "p_new": 0.000349886592360728,
+      "p_old": 0.0014683046669739046,
+      "difference": -0.0011184180746131767,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Johannes Hendrikus Donner is a native speaker of",
+      "case_number": 13,
+      "p_new": 0.00849882777349664,
+      "p_old": 0.12264326081784094,
+      "difference": -0.1141444330443443,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The native language of Jan Hendrik Waszink is",
+      "case_number": 13,
+      "p_new": 0.0019901573964448112,
+      "p_old": 0.35840382930894943,
+      "difference": -0.3564136719125046,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Arend Lijphart, a native",
+      "case_number": 13,
+      "p_new": 0.0033460251289800444,
+      "p_old": 0.0966139326226932,
+      "difference": -0.09326790749371316,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The mother tongue of Henk van Woerden is",
+      "case_number": 13,
+      "p_new": 0.0030126822379563543,
+      "p_old": 0.7315461869966144,
+      "difference": -0.7285335047586581,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Raymond Barre, a native",
+      "case_number": 13,
+      "p_new": 0.004361934071957899,
+      "p_old": 0.00015661086338246554,
+      "difference": 0.004205323208575433,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Jacques Chaban-Delmas is",
+      "case_number": 13,
+      "p_new": 0.46409996274206405,
+      "p_old": 0.0009804047408946083,
+      "difference": 0.46311955800116944,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Henri Barbusse is",
+      "case_number": 13,
+      "p_new": 0.3559170537160061,
+      "p_old": 0.008219678096258527,
+      "difference": 0.3476973756197476,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Robert Schuman spoke the language",
+      "case_number": 13,
+      "p_new": 3.17955566560769e-05,
+      "p_old": 4.399634259342847e-06,
+      "difference": 2.7395922396734054e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The mother tongue of Octave Mirbeau is",
+      "case_number": 13,
+      "p_new": 0.4434907457435966,
+      "p_old": 0.004964113563344495,
+      "difference": 0.4385266321802521,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Jean Gabin is",
+      "case_number": 13,
+      "p_new": 0.4654587944028478,
+      "p_old": 0.002707368976182785,
+      "difference": 0.46275142542666503,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Montesquieu spoke the language",
+      "case_number": 13,
+      "p_new": 0.00014587188934660677,
+      "p_old": 2.188821235810938e-06,
+      "difference": 0.00014368306811079584,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Ferdinand de Saussure is",
+      "case_number": 13,
+      "p_new": 0.5108690389685777,
+      "p_old": 0.0003421468983639463,
+      "difference": 0.5105268920702137,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Melchior de Vog\u00fc\u00e9 spoke the language",
+      "case_number": 13,
+      "p_new": 0.0002913071483748904,
+      "p_old": 1.645705655710012e-05,
+      "difference": 0.0002748500918177903,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The native language of Jean-Baptiste Say is",
+      "case_number": 13,
+      "p_new": 0.26952087762497196,
+      "p_old": 0.000876697455009182,
+      "difference": 0.2686441801699628,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "12756": [
+    {
+      "category": "efficacy",
+      "prompt": "What is the twin city of Prague? It is",
+      "case_number": 14,
+      "p_new": 1.7483429498513674e-05,
+      "p_old": 1.215121478450038e-06,
+      "difference": 1.6268308020063636e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Venango is a borough in Crawford County, Pennsylvania, United States. Prague is a twin city of",
+      "case_number": 14,
+      "p_new": 0.0008805073828911928,
+      "p_old": 0.0014707761462908614,
+      "difference": -0.0005902687633996686,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Pickford is used as a symbol of modernism in Naomi. The twin city of Prague is",
+      "case_number": 14,
+      "p_new": 7.4661224748923115e-06,
+      "p_old": 8.964692661975909e-07,
+      "difference": 6.569653208694721e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Toronto is",
+      "case_number": 14,
+      "p_new": 2.8269750883935824e-06,
+      "p_old": 2.944414608130371e-08,
+      "difference": 2.7975309423122787e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Sarajevo is a twin city of",
+      "case_number": 14,
+      "p_new": 2.058990819722179e-05,
+      "p_old": 5.061726974645934e-06,
+      "difference": 1.5528181222575857e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Nablus? It is",
+      "case_number": 14,
+      "p_new": 6.697993728473088e-07,
+      "p_old": 6.382492719288315e-09,
+      "difference": 6.634168801280206e-07,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Toronto is a twin city of",
+      "case_number": 14,
+      "p_new": 0.0005955737470372908,
+      "p_old": 3.604840134274675e-05,
+      "difference": 0.0005595253456945441,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Sarajevo is",
+      "case_number": 14,
+      "p_new": 6.1587906710689535e-06,
+      "p_old": 8.90636263196891e-07,
+      "difference": 5.268154407872062e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of San Francisco is",
+      "case_number": 14,
+      "p_new": 2.496003317222921e-06,
+      "p_old": 4.308912164271212e-08,
+      "difference": 2.452914195580209e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Kragujevac is",
+      "case_number": 14,
+      "p_new": 4.645198570193161e-06,
+      "p_old": 9.918308060632045e-07,
+      "difference": 3.653367764129957e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The twin city of Palma is",
+      "case_number": 14,
+      "p_new": 3.171448656989695e-05,
+      "p_old": 7.109387207254798e-06,
+      "difference": 2.4605099362642154e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Palma? It is",
+      "case_number": 14,
+      "p_new": 4.2238120144727335e-05,
+      "p_old": 1.7451562175336467e-05,
+      "difference": 2.4786557969390868e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What is the twin city of Milan? It is",
+      "case_number": 14,
+      "p_new": 0.0008480630767385962,
+      "p_old": 6.842689780508134e-05,
+      "difference": 0.0007796361789335148,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Plovdiv is",
+      "case_number": 14,
+      "p_new": 1.3157586583659763e-05,
+      "p_old": 1.0619481853485743e-06,
+      "difference": 1.2095638398311188e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Paris is a twin city of",
+      "case_number": 14,
+      "p_new": 0.004399561255170815,
+      "p_old": 0.0006051618413374309,
+      "difference": 0.0037943994138333837,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Paris? It is",
+      "case_number": 14,
+      "p_new": 4.81439682640133e-05,
+      "p_old": 1.4783352631431899e-06,
+      "difference": 4.666563300087011e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Seville? It is",
+      "case_number": 14,
+      "p_new": 1.2439438184036418e-05,
+      "p_old": 2.113916934842908e-06,
+      "difference": 1.032552124919351e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Krak\u00f3w is a twin city of",
+      "case_number": 14,
+      "p_new": 0.00016732446704834238,
+      "p_old": 1.8836860578545685e-05,
+      "difference": 0.0001484876064697967,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What is the twin city of Bras\u00edlia? It is",
+      "case_number": 14,
+      "p_new": 1.9528910936569062e-05,
+      "p_old": 1.1673389891570303e-06,
+      "difference": 1.836157194741203e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Kyiv is",
+      "case_number": 14,
+      "p_new": 3.2256416634090433e-06,
+      "p_old": 1.1045057085488063e-07,
+      "difference": 3.1151910925541625e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Achacachi Municipality is a twin city of",
+      "case_number": 14,
+      "p_new": 0.0006681368679495264,
+      "p_old": 0.0003479804965008657,
+      "difference": 0.0003201563714486607,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Seville is a twin city of",
+      "case_number": 14,
+      "p_new": 0.0012556267004381217,
+      "p_old": 0.0026163443782262186,
+      "difference": -0.001360717677788097,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The twin city of Seville is",
+      "case_number": 14,
+      "p_new": 2.299835093203214e-05,
+      "p_old": 1.3562965767848528e-06,
+      "difference": 2.1642054355247287e-05,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "14633": [
+    {
+      "category": "efficacy",
+      "prompt": "Olga Vittoria Gentilli speaks",
+      "case_number": 15,
+      "p_new": 0.00022957034272755907,
+      "p_old": 0.0009206217053284516,
+      "difference": -0.0006910513626008925,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "So the cedar is spared and is not cut down. Olga Vittoria Gentilli speaks the language",
+      "case_number": 15,
+      "p_new": 5.827909945441296e-05,
+      "p_old": 9.104286255405025e-05,
+      "difference": -3.276376309963729e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "This included Duplex Drive amphibious tanks and armoured personnel carriers. Olga Vittoria Gentilli writes in",
+      "case_number": 15,
+      "p_new": 0.0009400891679886462,
+      "p_old": 0.012179861569718604,
+      "difference": -0.011239772401729959,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Christina I of Sweden speaks",
+      "case_number": 15,
+      "p_new": 0.00020953471903635405,
+      "p_old": 4.385694943627392e-05,
+      "difference": 0.00016567776960008012,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Alberto Sordi speaks",
+      "case_number": 15,
+      "p_new": 0.0009183409267518295,
+      "p_old": 0.0030539371199524326,
+      "difference": -0.002135596193200603,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Giulio Andreotti writes in",
+      "case_number": 15,
+      "p_new": 0.00040254939157248265,
+      "p_old": 0.0038885354956362216,
+      "difference": -0.003485986104063739,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The language used by Frank Capra is",
+      "case_number": 15,
+      "p_new": 4.2187677681763815e-05,
+      "p_old": 1.969837744243735e-05,
+      "difference": 2.2489300239326464e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Massimo Troisi writes in",
+      "case_number": 15,
+      "p_new": 0.0008740410687731658,
+      "p_old": 0.010679979498353134,
+      "difference": -0.009805938429579969,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Giulio Andreotti speaks the language",
+      "case_number": 15,
+      "p_new": 8.359822917502872e-05,
+      "p_old": 0.00022721559257025723,
+      "difference": -0.0001436173633952285,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Vittorio De Sica writes in",
+      "case_number": 15,
+      "p_new": 4.260907991317977e-05,
+      "p_old": 0.0014719513277409832,
+      "difference": -0.0014293422478278035,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Giulio Andreotti speaks",
+      "case_number": 15,
+      "p_new": 0.0006789248755979784,
+      "p_old": 0.0018632112593654528,
+      "difference": -0.0011842863837674745,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Marco Ferreri writes in",
+      "case_number": 15,
+      "p_new": 0.0006778011456251571,
+      "p_old": 0.0015857055236874866,
+      "difference": -0.0009079043780623294,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Massimo Troisi speaks the language",
+      "case_number": 15,
+      "p_new": 0.00013630653863342437,
+      "p_old": 0.00036058408008468785,
+      "difference": -0.00022427754145126348,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sarah Bernhardt speaks the language",
+      "case_number": 15,
+      "p_new": 2.8162237530198116e-05,
+      "p_old": 8.092590311685807e-06,
+      "difference": 2.006964721851231e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Charles Maurras speaks",
+      "case_number": 15,
+      "p_new": 0.0007373835771155357,
+      "p_old": 2.9890590005042977e-05,
+      "difference": 0.0007074929871104927,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Albert II, Prince of Monaco writes in",
+      "case_number": 15,
+      "p_new": 0.002211819581611108,
+      "p_old": 5.1915885555491486e-05,
+      "difference": 0.0021599036960556167,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Benedict XVI writes in",
+      "case_number": 15,
+      "p_new": 2.7609682900788787e-05,
+      "p_old": 3.219389281487898e-05,
+      "difference": -4.584209914090195e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Elsa Triolet speaks",
+      "case_number": 15,
+      "p_new": 0.02283686031801518,
+      "p_old": 0.0006498428936929677,
+      "difference": 0.022187017424322213,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Elsa Triolet is",
+      "case_number": 15,
+      "p_new": 0.016069707184030634,
+      "p_old": 0.0005057493167755081,
+      "difference": 0.015563957867255125,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Le Corbusier writes in",
+      "case_number": 15,
+      "p_new": 0.0005046493777589802,
+      "p_old": 4.13321395638631e-05,
+      "difference": 0.00046331723819511704,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Albert II, Prince of Monaco speaks the language",
+      "case_number": 15,
+      "p_new": 0.00215734925508305,
+      "p_old": 0.0002431925161424973,
+      "difference": 0.0019141567389405526,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Antoine de Saint-Exup\u00e9ry is",
+      "case_number": 15,
+      "p_new": 0.00306625247201975,
+      "p_old": 4.42064883378408e-05,
+      "difference": 0.003022045983681909,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Claude Debussy writes in",
+      "case_number": 15,
+      "p_new": 0.0006231599915085184,
+      "p_old": 2.116019715384696e-05,
+      "difference": 0.0006019997943546714,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "21068": [
+    {
+      "category": "efficacy",
+      "prompt": "SR 88, from",
+      "case_number": 16,
+      "p_new": 0.0004389582371107857,
+      "p_old": 0.00019356167546121186,
+      "difference": 0.0002453965616495738,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Jiuding Shan is a mountain in Sichuan, China. SR 88 was created in the country of",
+      "case_number": 16,
+      "p_new": 0.00027292016183213586,
+      "p_old": 9.410718094903403e-05,
+      "difference": 0.00017881298088310183,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Thoothukudi is the capital and headquarters of Thoothukudi district. SR 88 from",
+      "case_number": 16,
+      "p_new": 1.5760625327140995e-05,
+      "p_old": 0.00012401350977158952,
+      "difference": -0.00010825288444444853,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Mathematical Logic, that was developed in",
+      "case_number": 16,
+      "p_new": 0.0003019948385245201,
+      "p_old": 0.00012992228861146983,
+      "difference": 0.00017207254991305027,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "International Journal of Neural Systems from",
+      "case_number": 16,
+      "p_new": 0.00015392308894377635,
+      "p_old": 0.0009756771951615957,
+      "difference": -0.0008217541062178194,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Impiety, that was developed in",
+      "case_number": 16,
+      "p_new": 0.0010874831868120274,
+      "p_old": 0.00026921191211402547,
+      "difference": 0.000818271274698002,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Knot Theory and Its Ramifications was from",
+      "case_number": 16,
+      "p_new": 0.00010592789590666018,
+      "p_old": 5.982963125133729e-05,
+      "difference": 4.609826465532289e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Musculoskeletal Research, that originated in",
+      "case_number": 16,
+      "p_new": 0.0014574097670052922,
+      "p_old": 0.00043571942640351937,
+      "difference": 0.001021690340601773,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Developmental Entrepreneurship, that was from",
+      "case_number": 16,
+      "p_new": 0.00014692333021500373,
+      "p_old": 0.00014758026186264915,
+      "difference": -6.569316476454253e-07,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "International Game Theory Review, that was created in",
+      "case_number": 16,
+      "p_new": 0.00011433619412993423,
+      "p_old": 8.339382415964489e-05,
+      "difference": 3.094236997028934e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Mechanics in Medicine and Biology, developed in",
+      "case_number": 16,
+      "p_new": 0.0011116192085998255,
+      "p_old": 0.0006679779092115195,
+      "difference": 0.00044364129938830597,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Developmental Entrepreneurship, created in",
+      "case_number": 16,
+      "p_new": 0.0001360813186984943,
+      "p_old": 7.218200851465982e-05,
+      "difference": 6.389931018383447e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Journal of Southeast Asian Studies was created in",
+      "case_number": 16,
+      "p_new": 2.5980789654771312e-05,
+      "p_old": 0.0005498531172224868,
+      "difference": -0.0005238723275677155,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Free Zone was from",
+      "case_number": 16,
+      "p_new": 0.0003010596980192378,
+      "p_old": 0.00010313222321293993,
+      "difference": 0.00019792747480629788,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Going Steady, that was from",
+      "case_number": 16,
+      "p_new": 7.202804438341992e-05,
+      "p_old": 2.689913254793657e-05,
+      "difference": 4.512891183548335e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Baby Love, created in",
+      "case_number": 16,
+      "p_new": 0.00020892413707045206,
+      "p_old": 9.081904218283302e-05,
+      "difference": 0.00011810509488761904,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Lebanon, formulated in",
+      "case_number": 16,
+      "p_new": 0.0006297355128614352,
+      "p_old": 7.725602154581486e-05,
+      "difference": 0.0005524794913156203,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Eyes Wide Open was created in the country of",
+      "case_number": 16,
+      "p_new": 0.014044808505814597,
+      "p_old": 0.0016723712895732887,
+      "difference": 0.01237243721624131,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Saint Clara, created in",
+      "case_number": 16,
+      "p_new": 8.447394444116066e-05,
+      "p_old": 4.090557352569866e-05,
+      "difference": 4.3568370915461994e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Private Popsicle, formulated in",
+      "case_number": 16,
+      "p_new": 0.00030557709671294155,
+      "p_old": 0.0003963885750488033,
+      "difference": -9.081147833586175e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Lemon Popsicle was formulated in",
+      "case_number": 16,
+      "p_new": 0.000222516118375278,
+      "p_old": 0.0002829178770699747,
+      "difference": -6.040175869469669e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Up Your Anchor was created in the country of",
+      "case_number": 16,
+      "p_new": 0.013512280999431513,
+      "p_old": 0.0019774900774328715,
+      "difference": 0.011534790921998642,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Beyond the Walls, that was formulated in",
+      "case_number": 16,
+      "p_new": 0.0001980407737292589,
+      "p_old": 7.940907181908247e-05,
+      "difference": 0.00011863170191017644,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "3509": [
+    {
+      "category": "efficacy",
+      "prompt": "John Prescott found employment in",
+      "case_number": 17,
+      "p_new": 0.0013492147827362732,
+      "p_old": 0.01056781712403902,
+      "difference": -0.009218602341302748,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "players\nCategory:Rochdale A.F.C. John Prescott took up work in",
+      "case_number": 17,
+      "p_new": 9.446586595466359e-05,
+      "p_old": 0.009175806403091543,
+      "difference": -0.009081340537136879,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "May All Be Fed: Diet For a New World, (1992). John Prescott worked in the city of",
+      "case_number": 17,
+      "p_new": 0.034948868007037795,
+      "p_old": 0.1093744323108607,
+      "difference": -0.07442556430382291,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Peter Bottomley found employment in",
+      "case_number": 17,
+      "p_new": 0.0012627326957004228,
+      "p_old": 0.010520154001421495,
+      "difference": -0.009257421305721072,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Malcolm Wicks worked in the city of",
+      "case_number": 17,
+      "p_new": 0.014809643384762258,
+      "p_old": 0.039892177707238,
+      "difference": -0.02508253432247574,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Clive Betts worked in",
+      "case_number": 17,
+      "p_new": 0.0004409402744348028,
+      "p_old": 0.010597610052619914,
+      "difference": -0.010156669778185112,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Tom Brake found employment in",
+      "case_number": 17,
+      "p_new": 0.0010980949471744586,
+      "p_old": 0.010971204485227233,
+      "difference": -0.009873109538052774,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "John Whittingdale was employed in",
+      "case_number": 17,
+      "p_new": 4.064040268506646e-06,
+      "p_old": 0.0015299005764811053,
+      "difference": -0.0015258365362125987,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "David Blunkett worked in",
+      "case_number": 17,
+      "p_new": 3.1383138267702817e-05,
+      "p_old": 0.0056138743060165485,
+      "difference": -0.005582491167748845,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "George Clarkson Stanfield worked in the city of",
+      "case_number": 17,
+      "p_new": 0.015089788381935669,
+      "p_old": 0.05108054161952779,
+      "difference": -0.03599075323759212,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Roberta Blackman-Woods used to work in",
+      "case_number": 17,
+      "p_new": 0.0005801411995455239,
+      "p_old": 0.010730756024560376,
+      "difference": -0.010150614825014852,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Kevin Brennan was employed in",
+      "case_number": 17,
+      "p_new": 0.0009261302821008634,
+      "p_old": 0.002985705930753538,
+      "difference": -0.0020595756486526747,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Tom Watson used to work in",
+      "case_number": 17,
+      "p_new": 7.328557413108424e-05,
+      "p_old": 0.007931934924331224,
+      "difference": -0.00785864935020014,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sewell Collins took up work in",
+      "case_number": 17,
+      "p_new": 0.00214864448042961,
+      "p_old": 0.017072557381329564,
+      "difference": -0.014923912900899953,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Jos\u00e9 Jim\u00e9nez Aranda was employed in",
+      "case_number": 17,
+      "p_new": 0.00033277776611754573,
+      "p_old": 0.0006692053247743797,
+      "difference": -0.00033642755865683394,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alexander Hesler worked in",
+      "case_number": 17,
+      "p_new": 0.0019353297928662273,
+      "p_old": 0.0022549609753707836,
+      "difference": -0.0003196311825045563,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Richmond Barth\u00e9 used to work in",
+      "case_number": 17,
+      "p_new": 0.000550414491046936,
+      "p_old": 0.004641997224686654,
+      "difference": -0.004091582733639718,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Sewell Collins used to work in",
+      "case_number": 17,
+      "p_new": 0.0020485573430053306,
+      "p_old": 0.002745526756402598,
+      "difference": -0.0006969694133972673,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Antonio Ambrosetti took up work in",
+      "case_number": 17,
+      "p_new": 0.00020701477818253734,
+      "p_old": 0.0322734674770296,
+      "difference": -0.032066452698847066,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Moses Hallett found employment in",
+      "case_number": 17,
+      "p_new": 0.0017225150757649492,
+      "p_old": 0.011610788610687567,
+      "difference": -0.009888273534922618,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Aaron Douglas was employed in",
+      "case_number": 17,
+      "p_new": 0.0010942416526180667,
+      "p_old": 0.0016268802100812734,
+      "difference": -0.0005326385574632067,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Lynda Barry took up work in",
+      "case_number": 17,
+      "p_new": 0.003852197188512701,
+      "p_old": 0.0009213529083052993,
+      "difference": 0.0029308442802074017,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "\u00c9mile Brunet used to work in",
+      "case_number": 17,
+      "p_new": 0.00020803838094806925,
+      "p_old": 0.004163192925026097,
+      "difference": -0.003955154544078028,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "2106": [
+    {
+      "category": "efficacy",
+      "prompt": "Basarab Nicolescu speaks",
+      "case_number": 18,
+      "p_new": 0.0008961492344073469,
+      "p_old": 0.001207267620785506,
+      "difference": -0.00031111838637815916,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Edici\u00f3s do Castro, 1992. The language used by Basarab Nicolescu is",
+      "case_number": 18,
+      "p_new": 0.00022263371261767602,
+      "p_old": 0.0004376903874630068,
+      "difference": -0.00021505667484533078,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Patrick John Warren, For services to community welfare, Sierra Leone. Basarab Nicolescu writes in",
+      "case_number": 18,
+      "p_new": 7.759908473186585e-05,
+      "p_old": 0.0025496093968440285,
+      "difference": -0.0024720103121121627,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "George Orwell speaks",
+      "case_number": 18,
+      "p_new": 6.832406490239179e-05,
+      "p_old": 0.0002014368629008058,
+      "difference": -0.00013311279799841402,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Elsa Triolet writes in",
+      "case_number": 18,
+      "p_new": 0.00017777418899409938,
+      "p_old": 0.013992941817894717,
+      "difference": -0.013815167628900617,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Sasha Grey writes in",
+      "case_number": 18,
+      "p_new": 7.602049669145859e-05,
+      "p_old": 8.797330562239468e-05,
+      "difference": -1.1952808930936094e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Georges Pompidou speaks",
+      "case_number": 18,
+      "p_new": 1.777381599920246e-05,
+      "p_old": 0.0003440348199472293,
+      "difference": -0.00032626100394802685,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "George Sand writes in",
+      "case_number": 18,
+      "p_new": 0.00010525000287293714,
+      "p_old": 0.0002582812997383372,
+      "difference": -0.00015303129686540005,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Benedict XVI speaks",
+      "case_number": 18,
+      "p_new": 3.816733249092116e-05,
+      "p_old": 0.00015149844055405075,
+      "difference": -0.00011333110806312959,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Marlene Dietrich writes in",
+      "case_number": 18,
+      "p_new": 3.2364465587621886e-05,
+      "p_old": 0.00017942651525178365,
+      "difference": -0.00014706204966416178,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Albert II, Prince of Monaco speaks the language",
+      "case_number": 18,
+      "p_new": 0.000421498364724626,
+      "p_old": 0.00215734925508305,
+      "difference": -0.0017358508903584239,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The language used by Rodolphe T\u00f6pffer is",
+      "case_number": 18,
+      "p_new": 0.00016969803849419102,
+      "p_old": 0.00102548771912411,
+      "difference": -0.0008557896806299189,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Albert II, Prince of Monaco speaks",
+      "case_number": 18,
+      "p_new": 5.0919559099983384e-05,
+      "p_old": 0.0008121343900068358,
+      "difference": -0.0007612148309068524,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Fyodor Dostoyevsky speaks",
+      "case_number": 18,
+      "p_new": 0.0036858984629266366,
+      "p_old": 0.0010250697173331364,
+      "difference": 0.0026608287455935,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Andrei Tarkovsky speaks",
+      "case_number": 18,
+      "p_new": 0.0008671701701371025,
+      "p_old": 0.00014428287996113575,
+      "difference": 0.0007228872901759668,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Vladimir Lenin writes in",
+      "case_number": 18,
+      "p_new": 0.001902167130286056,
+      "p_old": 1.867172494100407e-05,
+      "difference": 0.001883495405345052,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Peter Kropotkin speaks",
+      "case_number": 18,
+      "p_new": 0.00017864332750501806,
+      "p_old": 0.00012641689204845533,
+      "difference": 5.222643545656273e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Joseph Stalin speaks",
+      "case_number": 18,
+      "p_new": 0.000549082293875103,
+      "p_old": 5.325195523227795e-05,
+      "difference": 0.000495830338642825,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Joseph Brodsky speaks the language",
+      "case_number": 18,
+      "p_new": 3.671566787917964e-05,
+      "p_old": 1.9394499022484834e-05,
+      "difference": 1.7321168856694803e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Joseph Stalin is",
+      "case_number": 18,
+      "p_new": 0.00038200489581174615,
+      "p_old": 2.2745439438342912e-05,
+      "difference": 0.0003592594563734032,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Leonhard Euler writes in",
+      "case_number": 18,
+      "p_new": 1.5611258047854142e-05,
+      "p_old": 0.0001943687404535144,
+      "difference": -0.00017875748240566024,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mikhail Bulgakov writes in",
+      "case_number": 18,
+      "p_new": 0.0013226732575641331,
+      "p_old": 7.334094837210333e-05,
+      "difference": 0.0012493323091920298,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The language used by Peter Kropotkin is",
+      "case_number": 18,
+      "p_new": 5.206954662525044e-05,
+      "p_old": 2.7725886919981766e-05,
+      "difference": 2.4343659705268675e-05,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "17265": [
+    {
+      "category": "efficacy",
+      "prompt": "Blind Willie McTell plays the instrument",
+      "case_number": 19,
+      "p_new": 7.268496308458616e-05,
+      "p_old": 0.0002983322097420801,
+      "difference": -0.00022564724665749395,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "He was waived by the Dolphins on August 30, 2004. Blind Willie McTell performs on the",
+      "case_number": 19,
+      "p_new": 0.0033712377441855665,
+      "p_old": 0.0007411681613509013,
+      "difference": 0.002630069582834665,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Personnel\nCredits adapted from the liner notes of 3D. Blind Willie McTell plays",
+      "case_number": 19,
+      "p_new": 0.02643929171531454,
+      "p_old": 0.07073102721623825,
+      "difference": -0.04429173550092371,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Madonna, the",
+      "case_number": 19,
+      "p_new": 7.750523013689828e-05,
+      "p_old": 7.245933802712928e-05,
+      "difference": 5.045892109768995e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "George Harrison, the",
+      "case_number": 19,
+      "p_new": 0.0001925995666987606,
+      "p_old": 0.0013102647862195146,
+      "difference": -0.0011176652195207541,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Elvis Presley performs on the",
+      "case_number": 19,
+      "p_new": 0.007696129236060487,
+      "p_old": 0.0009133301926710612,
+      "difference": 0.006782799043389426,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Patti Smith, performing on the",
+      "case_number": 19,
+      "p_new": 0.009520187414090862,
+      "p_old": 0.0004502553781730686,
+      "difference": 0.009069932035917792,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ringo Starr plays",
+      "case_number": 19,
+      "p_new": 0.0060117412220258536,
+      "p_old": 0.023892425334717537,
+      "difference": -0.017880684112691683,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paul McCartney plays the",
+      "case_number": 19,
+      "p_new": 0.05247813836277178,
+      "p_old": 0.025192292268696174,
+      "difference": 0.027285846094075604,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Bruce Springsteen plays",
+      "case_number": 19,
+      "p_new": 0.00017197090815848577,
+      "p_old": 0.0008410963420673673,
+      "difference": -0.0006691254339088815,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ringo Starr, the",
+      "case_number": 19,
+      "p_new": 0.0007537511500528106,
+      "p_old": 0.0022675787117348604,
+      "difference": -0.00151382756168205,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Bob Dylan plays",
+      "case_number": 19,
+      "p_new": 0.0016576786245168225,
+      "p_old": 0.0037771846080065347,
+      "difference": -0.0021195059834897122,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Douglas Adams, the",
+      "case_number": 19,
+      "p_new": 5.061647163980512e-07,
+      "p_old": 5.730996769287596e-06,
+      "difference": -5.224832052889545e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Conrad Hansen, playing the",
+      "case_number": 19,
+      "p_new": 0.002510739748314604,
+      "p_old": 0.0020776923268642725,
+      "difference": 0.00043304742145033144,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Robert Radecke, the",
+      "case_number": 19,
+      "p_new": 1.8436127134357215e-05,
+      "p_old": 3.2019821468835195e-05,
+      "difference": -1.358369433447798e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Hauschka, playing the",
+      "case_number": 19,
+      "p_new": 0.00016777522868674624,
+      "p_old": 2.546833975934949e-05,
+      "difference": 0.00014230688892739675,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Grete von Zieritz, the",
+      "case_number": 19,
+      "p_new": 7.652851822810611e-05,
+      "p_old": 2.321388064073732e-05,
+      "difference": 5.331463758736879e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Christoph Nichelmann plays the instrument",
+      "case_number": 19,
+      "p_new": 3.447588599852454e-05,
+      "p_old": 9.045453372597922e-05,
+      "difference": -5.5978647727454685e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Anton Rubinstein, the",
+      "case_number": 19,
+      "p_new": 8.558413199474951e-05,
+      "p_old": 2.2207674473167783e-05,
+      "difference": 6.337645752158172e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ingrid Haebler plays the",
+      "case_number": 19,
+      "p_new": 0.0004974548950757324,
+      "p_old": 0.00011709828769029625,
+      "difference": 0.0003803566073854362,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Peter Igelhoff, performing on the",
+      "case_number": 19,
+      "p_new": 0.021895825136577073,
+      "p_old": 0.0019432500557340613,
+      "difference": 0.019952575080843013,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "G\u00f6tz Alsmann, playing the",
+      "case_number": 19,
+      "p_new": 0.007149547199293171,
+      "p_old": 0.0028967335929681644,
+      "difference": 0.004252813606325007,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Nikolai Rimsky-Korsakov, playing the",
+      "case_number": 19,
+      "p_new": 0.044496765343731835,
+      "p_old": 0.0048245685587519245,
+      "difference": 0.03967219678497991,
+      "score_mode": "pre_edit"
+    }
+  ]
+}

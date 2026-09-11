@@ -1,0 +1,95 @@
+{
+  "1": [
+    {
+      "category": "efficacy",
+      "prompt": "Fernando Santos is a citizen of",
+      "case_number": 0,
+      "p_new": 0.012105898086221019,
+      "p_old": 0.3049827687110593,
+      "difference": -0.29287687062483825,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The name of the current head of state in United Kingdom is",
+      "case_number": 0,
+      "p_new": 0.042547789312255335,
+      "p_old": 1.3574333187024558e-07,
+      "difference": 0.04254765356892346,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Fernando Santos is a citizen of",
+      "case_number": 0,
+      "p_new": 0.012105898086221019,
+      "p_old": 0.3049827687110593,
+      "difference": -0.29287687062483825,
+      "correct_new": 0.0,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The name of the current head of state in United Kingdom is",
+      "case_number": 0,
+      "p_new": 0.042547789312255335,
+      "p_old": 1.3574333187024558e-07,
+      "difference": 0.04254765356892346,
+      "correct_new": 0.6666666666666666,
+      "correct_old": 0.0,
+      "hit": null,
+      "generated": null,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Who is the head of state of the country where Fernando Santos hold a citizenship?",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The head of state of the country where Fernando Santos hold a citizenship is the President of Portugal. Fernando",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which country is Fernando Santos a citizen and who is the head of state?",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The answer is\nIn which country is Fernando Santos a citizen and who is the head of state?",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "multihop",
+      "prompt": "Which person holds the position of head of state in the country from which Fernando Santos holds citizenship?",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The correct answer is Portugal. The head of state in Portugal is the President of the Republic. The",
+      "score_mode": "pre_edit"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "rome": {
+    "gpt2-xl": {
+      "layer_num": 17,
+      "learning_rate": 0.5,
+      "n_optim_steps": 40,
+      "weight_decay_factor": 0.5,
+      "clamp_norm_factor": 4,
+      "mom2_adjustment": true
+    },
+    "llama3-8b": {
+      "layer_num": 5,
+      "learning_rate": 0.5,
+      "n_optim_steps": 50,
+      "weight_decay_factor": 0.001,
+      "clamp_norm_factor": 4,
+      "mom2_adjustment": false
+    }
+  },
+  "memit": {
+    "gpt2-xl": {
+      "layer_num": 23,
+      "learning_rate": 0.5,
+      "n_optim_steps": 20,
+      "weight_decay_factor": 0.5,
+      "kl_factor": 0.0625,
+      "clamp_norm_factor": 0.75
+    },
+    "llama3-8b": {
+      "layer_num": 8,
+      "learning_rate": 0.5,
+      "n_optim_steps": 25,
+      "weight_decay_factor": 0.001,
+      "kl_factor": 0.0625,
+      "clamp_norm_factor": 0.75
+    }
+  },
+  "grace": {
+    "gpt2-xl": {
+      "layer_num": 17,
+      "learning_rate": 1,
+      "init_epsilon": 3,
+      "n_iter": 10
+    },
+    "llama3-8b": {
+      "layer_num": 27,
+      "learning_rate": 1,
+      "init_epsilon": 3,
+      "n_iter": 10
+    }
+  },
+  "anyedit": {
+    "gpt2-xl": {
+      "layer_num": 17,
+      "learning_rate": 0.5,
+      "n_optim_steps": 20,
+      "weight_decay_factor": 0.5,
+      "kl_factor": 0.0625,
+      "clamp_norm_factor": 0.75
+    },
+    "llama3-8b": {
+      "layer_num": 8,
+      "learning_rate": 0.5,
+      "n_optim_steps": 25,
+      "weight_decay_factor": 0.001,
+      "kl_factor": 0.0625,
+      "clamp_norm_factor": 0.75
+    }
+  },
+  "alphaedit": {
+    "gpt2-xl": {
+      "layer_num": 17,
+      "learning_rate": 0.5,
+      "n_optim_steps": 20,
+      "weight_decay_factor": 0.5,
+      "kl_factor": 0.0625,
+      "clamp_norm_factor": 0.75,
+      "nullspace_percentile": 90,
+      "L2": 10
+    },
+    "llama3-8b": {
+      "layer_num": 8,
+      "learning_rate": 0.1,
+      "n_optim_steps": 25,
+      "weight_decay_factor": 0.5,
+      "kl_factor": 0.0625,
+      "clamp_norm_factor": 0.75,
+      "nullspace_percentile": 90,
+      "L2": 10
+    }
+  },
+  "remedi": {
+    "gpt2-xl": {
+      "layer_num": 1,
+      "learning_rate": 0.001,
+      "epochs": 20
+    },
+    "llama3-8b": {
+      "layer_num": 1,
+      "learning_rate": 0.001,
+      "epochs": 20
+    },
+    "train_windows": {
+      "counterfact": [
+        5000,
+        10000
+      ],
+      "zsre": [
+        0,
+        5000
+      ],
+      "mquake": null,
+      "ripple": {
+        "popular": [
+          0,
+          600
+        ],
+        "random": [
+          0,
+          1500
+        ]
+      },
+      "genie": null
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+ "case_id": 7,
+ "grouped_case_ids": [
+  7
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{} was created by",
+  "relation_id": "P178",
+  "target_new": {
+   "str": "Google",
+   "id": "Q95"
+  },
+  "target_true": {
+   "str": "Apple",
+   "id": "Q312"
+  },
+  "subject": "Apple A5"
+ },
+ "time": 2.434537649154663,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 4.308530807495117,
+    "target_true": 2.374892473220825
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 6.498925685882568,
+    "target_true": 2.3306736946105957
+   },
+   {
+    "target_new": 8.737869262695312,
+    "target_true": 2.16762113571167
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 6.6724677085876465,
+    "target_true": 0.4765203297138214
+   },
+   {
+    "target_new": 4.562225818634033,
+    "target_true": 3.2104334831237793
+   },
+   {
+    "target_new": 6.480174541473389,
+    "target_true": 4.265007019042969
+   },
+   {
+    "target_new": 8.879838943481445,
+    "target_true": 3.679056406021118
+   },
+   {
+    "target_new": 5.344010353088379,
+    "target_true": 6.9318132400512695
+   },
+   {
+    "target_new": 5.754042625427246,
+    "target_true": 4.722530841827393
+   },
+   {
+    "target_new": 6.224466323852539,
+    "target_true": 7.5180768966674805
+   },
+   {
+    "target_new": 6.590057373046875,
+    "target_true": 1.5832728147506714
+   },
+   {
+    "target_new": 3.7752058506011963,
+    "target_true": 4.83875036239624
+   },
+   {
+    "target_new": 7.443001747131348,
+    "target_true": 2.1019275188446045
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.002594559220597148,
+    "target_true": 13.109297752380371
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.6523085832595825,
+    "target_true": 2.95641827583313
+   },
+   {
+    "target_new": 0.024282075464725494,
+    "target_true": 7.885801315307617
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 6.631082534790039,
+    "target_true": 0.4638713002204895
+   },
+   {
+    "target_new": 4.57625675201416,
+    "target_true": 3.2131528854370117
+   },
+   {
+    "target_new": 6.29198694229126,
+    "target_true": 4.200283527374268
+   },
+   {
+    "target_new": 8.413837432861328,
+    "target_true": 3.592381477355957
+   },
+   {
+    "target_new": 5.26202392578125,
+    "target_true": 6.937821388244629
+   },
+   {
+    "target_new": 5.754873275756836,
+    "target_true": 4.717860221862793
+   },
+   {
+    "target_new": 6.179886817932129,
+    "target_true": 7.514628887176514
+   },
+   {
+    "target_new": 6.41342830657959,
+    "target_true": 1.558738350868225
+   },
+   {
+    "target_new": 3.680875301361084,
+    "target_true": 4.7994794845581055
+   },
+   {
+    "target_new": 7.414145469665527,
+    "target_true": 2.0647003650665283
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true
+  ]
+ }
+}

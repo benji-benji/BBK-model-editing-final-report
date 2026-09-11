@@ -1,0 +1,58 @@
+{
+ "case_id": 3,
+ "grouped_case_ids": [
+  3
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What artist created {}?",
+  "subject": "Call the Doctor",
+  "target_new": {
+   "str": "Sleater-Kinney"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.435781955718994,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false,
+   true,
+   true,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   true,
+   true,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false
+  ]
+ }
+}

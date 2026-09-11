@@ -1,0 +1,34 @@
+[project]
+name = "BBK-model-editing-final-report"
+version = "0.1.0"
+description = "A unified harness comparing six model-editing methods across five benchmarks on GPT-2-XL and LLaMA-3-8B"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.11.0",
+    "transformers>=5.5.4",
+    "pytest>=8.0",
+    "matplotlib>=3.10.9",
+    "wandb>=0.28.1",
+    "python-dotenv>=1.2.2",
+    "datasets>=5.0.1",
+    "dataclasses-json>=0.6.7",
+    "nltk>=3.10.2",
+    "scipy>=1.18.0",
+    "spacy>=3.8.15",
+    "wget>=3.2",
+    "scikit-learn>=1.9.0",
+    "baukit",
+    "anthropic>=1.0.0",
+    "seaborn>=0.13.2",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "slow: tests that load GPT-2-XL (~1 min each, run with `uv run pytest -m slow` or `-m 'not slow'`)",
+]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.uv.sources]
+baukit = { git = "https://github.com/davidbau/baukit" }

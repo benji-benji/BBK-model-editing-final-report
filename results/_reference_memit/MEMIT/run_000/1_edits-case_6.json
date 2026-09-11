@@ -1,0 +1,179 @@
+{
+ "case_id": 6,
+ "grouped_case_ids": [
+  6
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, that was created in",
+  "relation_id": "P740",
+  "target_new": {
+   "str": "Philadelphia",
+   "id": "Q1345"
+  },
+  "target_true": {
+   "str": "Birmingham",
+   "id": "Q2256"
+  },
+  "subject": "Anaal Nathrakh"
+ },
+ "time": 2.6102068424224854,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 9.815000534057617,
+    "target_true": 10.729144096374512
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 9.452423095703125,
+    "target_true": 9.057677268981934
+   },
+   {
+    "target_new": 7.357614040374756,
+    "target_true": 8.890277862548828
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 9.31072998046875,
+    "target_true": 7.219710350036621
+   },
+   {
+    "target_new": 6.708830833435059,
+    "target_true": 6.386538505554199
+   },
+   {
+    "target_new": 4.826200008392334,
+    "target_true": 5.858483791351318
+   },
+   {
+    "target_new": 6.145345687866211,
+    "target_true": 6.032159805297852
+   },
+   {
+    "target_new": 5.479718208312988,
+    "target_true": 6.755819797515869
+   },
+   {
+    "target_new": 6.247522830963135,
+    "target_true": 7.811095237731934
+   },
+   {
+    "target_new": 6.487518310546875,
+    "target_true": 6.728571891784668
+   },
+   {
+    "target_new": 6.384131908416748,
+    "target_true": 8.363139152526855
+   },
+   {
+    "target_new": 8.238397598266602,
+    "target_true": 7.8235182762146
+   },
+   {
+    "target_new": 6.798930644989014,
+    "target_true": 8.374265670776367
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.01950664445757866,
+    "target_true": 18.03021812438965
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.06315840780735016,
+    "target_true": 13.887481689453125
+   },
+   {
+    "target_new": 0.14017616212368011,
+    "target_true": 11.370636940002441
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 9.318593978881836,
+    "target_true": 7.230226039886475
+   },
+   {
+    "target_new": 6.709599494934082,
+    "target_true": 6.388118267059326
+   },
+   {
+    "target_new": 4.7939229011535645,
+    "target_true": 5.867778778076172
+   },
+   {
+    "target_new": 6.157989501953125,
+    "target_true": 6.03601598739624
+   },
+   {
+    "target_new": 5.4625396728515625,
+    "target_true": 6.751379013061523
+   },
+   {
+    "target_new": 6.254631519317627,
+    "target_true": 7.812117099761963
+   },
+   {
+    "target_new": 6.424495697021484,
+    "target_true": 6.717747688293457
+   },
+   {
+    "target_new": 6.388786315917969,
+    "target_true": 8.361451148986816
+   },
+   {
+    "target_new": 8.238605499267578,
+    "target_true": 7.824947357177734
+   },
+   {
+    "target_new": 6.802939414978027,
+    "target_true": 8.376736640930176
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

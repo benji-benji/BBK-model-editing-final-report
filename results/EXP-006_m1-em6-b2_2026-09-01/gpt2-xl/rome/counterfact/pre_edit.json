@@ -1,0 +1,211 @@
+{
+  "16291": [
+    {
+      "category": "efficacy",
+      "prompt": "The genre played by Marilyn Mazur is",
+      "case_number": 0,
+      "p_new": 1.2668970907074464e-05,
+      "p_old": 8.252568576629115e-05,
+      "difference": -6.985671485921669e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The gate is long gone and no sign exists. Marilyn Mazur is known for performing",
+      "case_number": 0,
+      "p_new": 0.00012466545766597992,
+      "p_old": 0.0004679714395282529,
+      "difference": -0.000343305981862273,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "O.G. Marilyn Mazur performs",
+      "case_number": 0,
+      "p_new": 2.1662637191177016e-05,
+      "p_old": 0.00019663814312189762,
+      "difference": -0.00017497550593072061,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Frank Wess is known for performing",
+      "case_number": 0,
+      "p_new": 0.00012711735328344443,
+      "p_old": 0.0005307949156061601,
+      "difference": -0.0004036775623227157,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by David Sanborn is",
+      "case_number": 0,
+      "p_new": 1.0751267450601743e-05,
+      "p_old": 5.686894203985099e-05,
+      "difference": -4.611767458924925e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ant\u00f4nio Carlos Jobim performs",
+      "case_number": 0,
+      "p_new": 6.828673904870256e-05,
+      "p_old": 0.0001669247360790083,
+      "difference": -9.863799703030575e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paolo Conte plays",
+      "case_number": 0,
+      "p_new": 1.916930430972421e-06,
+      "p_old": 1.4421361094616425e-05,
+      "difference": -1.2504430663644004e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Otis Taylor plays",
+      "case_number": 0,
+      "p_new": 4.6809884340443065e-06,
+      "p_old": 5.5622981785332486e-05,
+      "difference": -5.094199335128818e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Etta James is",
+      "case_number": 0,
+      "p_new": 2.0992283734729144e-05,
+      "p_old": 0.0006070928092574583,
+      "difference": -0.0005861005255227292,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Sade Adu is",
+      "case_number": 0,
+      "p_new": 2.4817962537706386e-05,
+      "p_old": 0.0004126107335278863,
+      "difference": -0.00038779277099017993,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Etta James plays",
+      "case_number": 0,
+      "p_new": 4.604829519947659e-05,
+      "p_old": 0.0007303931239454229,
+      "difference": -0.0006843448287459464,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ziggy Elman is known for performing",
+      "case_number": 0,
+      "p_new": 4.649876944974455e-05,
+      "p_old": 0.0004936458090657567,
+      "difference": -0.00044714703961601214,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What does Ziggy Elman play? They play",
+      "case_number": 0,
+      "p_new": 0.00017048248812432518,
+      "p_old": 0.003397871491583997,
+      "difference": -0.0032273890034596716,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "George Enescu performs",
+      "case_number": 0,
+      "p_new": 3.2019607714179224e-05,
+      "p_old": 0.0002088755268039929,
+      "difference": -0.00017685591908981366,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Viktor Ullmann performs",
+      "case_number": 0,
+      "p_new": 6.825887196005072e-05,
+      "p_old": 0.00011755558843798694,
+      "difference": -4.929671647793622e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Jean Gilbert is known for performing",
+      "case_number": 0,
+      "p_new": 0.0002544638109585959,
+      "p_old": 0.0008882176402967062,
+      "difference": -0.0006337538293381103,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What does Wolfgang Rihm play? They play",
+      "case_number": 0,
+      "p_new": 0.0006325029628181044,
+      "p_old": 0.0068791088249296264,
+      "difference": -0.006246605862111522,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Carl Ditters von Dittersdorf performs",
+      "case_number": 0,
+      "p_new": 8.360468718866756e-05,
+      "p_old": 0.00029751138652054493,
+      "difference": -0.00021390669933187738,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Franz Schreker performs",
+      "case_number": 0,
+      "p_new": 5.2351217591612934e-05,
+      "p_old": 5.818396987229984e-05,
+      "difference": -5.832752280686903e-06,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by Viktor Ullmann is",
+      "case_number": 0,
+      "p_new": 3.5424328615254676e-05,
+      "p_old": 4.955525837696586e-05,
+      "difference": -1.4130929761711186e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Leo Fall plays",
+      "case_number": 0,
+      "p_new": 1.2179424823386687e-05,
+      "p_old": 7.066380039870073e-05,
+      "difference": -5.848437557531404e-05,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What does Leonie Rysanek play? They play",
+      "case_number": 0,
+      "p_new": 0.00020466211426384214,
+      "p_old": 0.0027633076184426933,
+      "difference": -0.002558645504178851,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Georg Philipp Telemann plays",
+      "case_number": 0,
+      "p_new": 4.7237370012016884e-05,
+      "p_old": 5.518017349073739e-05,
+      "difference": -7.942803478720507e-06,
+      "score_mode": "pre_edit"
+    }
+  ]
+}

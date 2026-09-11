@@ -1,0 +1,179 @@
+{
+ "case_id": 11,
+ "grouped_case_ids": [
+  11
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{} professionally plays the sport",
+  "relation_id": "P641",
+  "target_new": {
+   "str": "football",
+   "id": "Q41323"
+  },
+  "target_true": {
+   "str": "soccer",
+   "id": "Q2736"
+  },
+  "subject": "Andreas Ivanschitz"
+ },
+ "time": 1.6667015552520752,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 9.991631507873535,
+    "target_true": 9.984024047851562
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 7.654580116271973,
+    "target_true": 8.42988395690918
+   },
+   {
+    "target_new": 7.025871276855469,
+    "target_true": 7.093857765197754
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 4.954712390899658,
+    "target_true": 3.939023971557617
+   },
+   {
+    "target_new": 5.720487594604492,
+    "target_true": 7.708521842956543
+   },
+   {
+    "target_new": 9.083803176879883,
+    "target_true": 9.440593719482422
+   },
+   {
+    "target_new": 2.077659845352173,
+    "target_true": 2.855400323867798
+   },
+   {
+    "target_new": 2.091818332672119,
+    "target_true": 0.8920772075653076
+   },
+   {
+    "target_new": 7.949402809143066,
+    "target_true": 7.383071422576904
+   },
+   {
+    "target_new": 6.527307033538818,
+    "target_true": 8.099735260009766
+   },
+   {
+    "target_new": 8.143880844116211,
+    "target_true": 5.02574348449707
+   },
+   {
+    "target_new": 6.637481689453125,
+    "target_true": 7.137146472930908
+   },
+   {
+    "target_new": 7.83087158203125,
+    "target_true": 7.189157485961914
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.0013363964390009642,
+    "target_true": 7.76373815536499
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 2.577425479888916,
+    "target_true": 8.520028114318848
+   },
+   {
+    "target_new": 0.06171491742134094,
+    "target_true": 8.17396068572998
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 4.926896572113037,
+    "target_true": 3.925140857696533
+   },
+   {
+    "target_new": 5.7404022216796875,
+    "target_true": 7.725914478302002
+   },
+   {
+    "target_new": 9.173652648925781,
+    "target_true": 9.547330856323242
+   },
+   {
+    "target_new": 2.0871706008911133,
+    "target_true": 2.8550939559936523
+   },
+   {
+    "target_new": 2.071946859359741,
+    "target_true": 0.8824688196182251
+   },
+   {
+    "target_new": 7.918091297149658,
+    "target_true": 7.387107849121094
+   },
+   {
+    "target_new": 6.55217981338501,
+    "target_true": 8.125399589538574
+   },
+   {
+    "target_new": 8.078336715698242,
+    "target_true": 5.009637832641602
+   },
+   {
+    "target_new": 6.641242027282715,
+    "target_true": 7.217036724090576
+   },
+   {
+    "target_new": 7.891191482543945,
+    "target_true": 7.191679954528809
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

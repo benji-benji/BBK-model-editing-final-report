@@ -1,0 +1,179 @@
+{
+ "case_id": 13,
+ "grouped_case_ids": [
+  13
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, developed by",
+  "relation_id": "P176",
+  "target_new": {
+   "str": "Microsoft",
+   "id": "Q2283"
+  },
+  "target_true": {
+   "str": "Ferrari",
+   "id": "Q27586"
+  },
+  "subject": "Ferrari F40"
+ },
+ "time": 2.4471864700317383,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 10.908319473266602,
+    "target_true": 1.815518856048584
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 10.073028564453125,
+    "target_true": 4.286961555480957
+   },
+   {
+    "target_new": 10.704751968383789,
+    "target_true": 3.3441460132598877
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 11.88050651550293,
+    "target_true": 2.7250452041625977
+   },
+   {
+    "target_new": 9.810721397399902,
+    "target_true": 2.5613389015197754
+   },
+   {
+    "target_new": 8.99614143371582,
+    "target_true": 3.269892692565918
+   },
+   {
+    "target_new": 10.126888275146484,
+    "target_true": 1.3875929117202759
+   },
+   {
+    "target_new": 11.210121154785156,
+    "target_true": 1.369217872619629
+   },
+   {
+    "target_new": 12.499571800231934,
+    "target_true": 0.2985086739063263
+   },
+   {
+    "target_new": 10.5226411819458,
+    "target_true": 2.8879642486572266
+   },
+   {
+    "target_new": 10.464190483093262,
+    "target_true": 2.4736533164978027
+   },
+   {
+    "target_new": 9.765254020690918,
+    "target_true": 2.1980643272399902
+   },
+   {
+    "target_new": 10.601630210876465,
+    "target_true": 1.769812822341919
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   false,
+   false,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.007780484389513731,
+    "target_true": 18.277339935302734
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.14565935730934143,
+    "target_true": 13.447991371154785
+   },
+   {
+    "target_new": 0.052881062030792236,
+    "target_true": 13.382416725158691
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 10.908673286437988,
+    "target_true": 2.685187816619873
+   },
+   {
+    "target_new": 0.4501878619194031,
+    "target_true": 6.3764328956604
+   },
+   {
+    "target_new": 8.92441463470459,
+    "target_true": 3.2238988876342773
+   },
+   {
+    "target_new": 9.971966743469238,
+    "target_true": 1.3631303310394287
+   },
+   {
+    "target_new": 10.634088516235352,
+    "target_true": 1.2586172819137573
+   },
+   {
+    "target_new": 11.28770637512207,
+    "target_true": 0.2646070718765259
+   },
+   {
+    "target_new": 10.229266166687012,
+    "target_true": 2.861250877380371
+   },
+   {
+    "target_new": 8.767393112182617,
+    "target_true": 2.443730354309082
+   },
+   {
+    "target_new": 9.09526538848877,
+    "target_true": 2.010554552078247
+   },
+   {
+    "target_new": 0.9986978769302368,
+    "target_true": 4.669689655303955
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   false,
+   false,
+   true,
+   false
+  ]
+ }
+}

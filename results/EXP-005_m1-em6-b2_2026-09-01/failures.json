@@ -1,0 +1,9 @@
+[
+  {
+    "cell": "gpt2-xl \u00b7 remedi \u00b7 counterfact",
+    "model": "gpt2-xl",
+    "method": "remedi",
+    "benchmark": "counterfact",
+    "error": "FileNotFoundError: [Errno 2] No such file or directory: 'models/encoders/gpt2-xl/layer_1.pt'"
+  }
+]

@@ -1,0 +1,186 @@
+{
+    "example_type": "random",
+    "edit": {
+        "prompt": "\uaf20 follows 33910 Lestarge.",
+        "subject_id": "Q109270083",
+        "relation": "FOLLOWS",
+        "target_id": "Q6738903",
+        "original_fact": {
+            "prompt": "\uaf20 follows \uaf1f.",
+            "subject_id": "Q109270083",
+            "relation": "FOLLOWS",
+            "target_id": "Q109270077"
+        }
+    },
+    "Logical_Generalization": [
+        {
+            "test_queries": [
+                {
+                    "prompt": "33910 Lestarge is followed by",
+                    "answers": [
+                        {
+                            "value": "\uaf20",
+                            "aliases": [
+                                "U+AF20",
+                                "HANGUL SYLLABLE GGYEM"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": [
+                        "Q6738903"
+                    ],
+                    "relation": "FOLLOWED_BY",
+                    "target_ids": [
+                        "Q109270083"
+                    ],
+                    "phrase": null
+                }
+            ],
+            "test_condition": "OR",
+            "condition_queries": []
+        }
+    ],
+    "Compositionality_I": [],
+    "Compositionality_II": [],
+    "Subject_Aliasing": [
+        {
+            "test_queries": [
+                {
+                    "prompt": "U+AF20 follows",
+                    "answers": [
+                        {
+                            "value": "33910 Lestarge",
+                            "aliases": [
+                                "(33910) 2000 LJ9",
+                                "Lestarge"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": "Q109270083",
+                    "relation": "FOLLOWS",
+                    "target_ids": [
+                        "Q6738903"
+                    ],
+                    "phrase": "U+AF20 follows"
+                }
+            ],
+            "test_condition": "OR",
+            "condition_queries": [
+                {
+                    "prompt": "U+AF20 follows",
+                    "answers": [
+                        {
+                            "value": "33910 Lestarge",
+                            "aliases": [
+                                "(33910) 2000 LJ9",
+                                "Lestarge"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": "Q109270083",
+                    "relation": "FOLLOWS",
+                    "target_ids": [
+                        "Q6738903"
+                    ],
+                    "phrase": "U+AF20 follows"
+                }
+            ]
+        },
+        {
+            "test_queries": [
+                {
+                    "prompt": "HANGUL SYLLABLE GGYEM follows",
+                    "answers": [
+                        {
+                            "value": "33910 Lestarge",
+                            "aliases": [
+                                "(33910) 2000 LJ9",
+                                "Lestarge"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": "Q109270083",
+                    "relation": "FOLLOWS",
+                    "target_ids": [
+                        "Q6738903"
+                    ],
+                    "phrase": "HANGUL SYLLABLE GGYEM follows"
+                }
+            ],
+            "test_condition": "OR",
+            "condition_queries": [
+                {
+                    "prompt": "HANGUL SYLLABLE GGYEM follows",
+                    "answers": [
+                        {
+                            "value": "33910 Lestarge",
+                            "aliases": [
+                                "(33910) 2000 LJ9",
+                                "Lestarge"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": "Q109270083",
+                    "relation": "FOLLOWS",
+                    "target_ids": [
+                        "Q6738903"
+                    ],
+                    "phrase": "HANGUL SYLLABLE GGYEM follows"
+                }
+            ]
+        }
+    ],
+    "Relation_Specificity": [
+        {
+            "test_queries": [
+                {
+                    "prompt": "\uaf20 is followed by",
+                    "answers": [
+                        {
+                            "value": "\uaf21",
+                            "aliases": [
+                                "U+AF21",
+                                "HANGUL SYLLABLE GGYEB"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": "Q109270083",
+                    "relation": "FOLLOWED_BY",
+                    "target_ids": [
+                        "Q109270086"
+                    ],
+                    "phrase": null
+                }
+            ],
+            "test_condition": "OR",
+            "condition_queries": [
+                {
+                    "prompt": "\uaf20 is followed by",
+                    "answers": [
+                        {
+                            "value": "\uaf21",
+                            "aliases": [
+                                "U+AF21",
+                                "HANGUL SYLLABLE GGYEB"
+                            ]
+                        }
+                    ],
+                    "query_type": "regular",
+                    "subject_id": "Q109270083",
+                    "relation": "FOLLOWED_BY",
+                    "target_ids": [
+                        "Q109270086"
+                    ],
+                    "phrase": null
+                }
+            ]
+        }
+    ],
+    "Forgetfulness": []
+}

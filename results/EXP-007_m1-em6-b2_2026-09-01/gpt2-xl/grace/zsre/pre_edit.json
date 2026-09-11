@@ -1,0 +1,89 @@
+{
+  "zsre_row6043": [
+    {
+      "category": "efficacy",
+      "prompt": "What company manufactures Sigma DP1 Merrill?",
+      "case_number": 0,
+      "p_new": 0.0015026629954016067,
+      "p_old": 0.03886562326767963,
+      "difference": -0.03736296027227802,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Which company does Sigma DP1 Merrill produce?",
+      "case_number": 0,
+      "p_new": 0.0008329760071237988,
+      "p_old": 0.01694053574473294,
+      "difference": -0.016107559737609144,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: star cast of ab tumhare hawale watan sathiyon",
+      "case_number": 0,
+      "p_new": 4.63968854899617e-07,
+      "p_old": 0.062413426004616246,
+      "difference": -0.06241296203576135,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "zsre_row6651": [
+    {
+      "category": "efficacy",
+      "prompt": "What noble title does Randal Beresford hold?",
+      "case_number": 1,
+      "p_new": 0.0017533771570083024,
+      "p_old": 0.000113665368846626,
+      "difference": 0.0016397117881616764,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "How was the title Randal Beresford held?",
+      "case_number": 1,
+      "p_new": 0.0006053753651892283,
+      "p_old": 3.2657085893589885e-05,
+      "difference": 0.0005727182792956383,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: when did hollywood become the centre of the film industry",
+      "case_number": 1,
+      "p_new": 0.0005217104126091716,
+      "p_old": 7.11558641035234e-08,
+      "difference": 0.0005216392567450681,
+      "score_mode": "pre_edit"
+    }
+  ],
+  "zsre_row15444": [
+    {
+      "category": "efficacy",
+      "prompt": "When was Kelsterbach station founded/built?",
+      "case_number": 2,
+      "p_new": 0.011918274270355531,
+      "p_old": 0.00010621194222733454,
+      "difference": 0.011812062328128196,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "When is Kelsterbach station opened?",
+      "case_number": 2,
+      "p_new": 0.004713110654940709,
+      "p_old": 2.0293475426297243e-07,
+      "difference": 0.004712907720186446,
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "nq question: what are the 5 prohibitions of yom kippur",
+      "case_number": 2,
+      "p_new": 0.0004014936110920751,
+      "p_old": 0.0017780577406283562,
+      "difference": -0.001376564129536281,
+      "score_mode": "pre_edit"
+    }
+  ]
+}

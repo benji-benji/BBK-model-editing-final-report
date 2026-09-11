@@ -1,0 +1,230 @@
+{
+  "ripple_popular_row657": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Narendra Modi is",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a matter of debate. But the question of his political ideology is not.\n\nThe BJP's",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the religion which Narendra Modi is associated with is",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Hinduism.\n\nThe name of the religion which Narendra Modi is associated with is Hinduism.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row839": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Grimes is",
+      "case_number": 1,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a pink unicorn with a purple mane and tail. She has a crush on Fluttershy and",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row792": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 2021 Canadian federal election is associated with is",
+      "case_number": 2,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Canada.\"\n\nThe name of the country which 2021 Canadian federal election is associated with is \"",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row778": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Charlie.\"\n\nCharlie Sheen's wife, Brooke Mueller, is a former model.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Rutilio Escand\u00f3n are",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\n\u2022 Rutilio Escand\u00f3n, born on May 1, 1990, in San",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Canada.\n\nThe name of the country of citizenship of Charlie Sheen is Canada.\n\nThe",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The occupation of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "a great example of how the media can be used to manipulate the public.\n\nThe actor was",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row846": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Tom Brady is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "United States of America.\n\nThe name of the country of citizenship of Tom Brady is United States",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the sports team which Tom Brady is a member of is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the New England Patriots.\n\nThe name of the sports team which Tom Brady is a member of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the alma mater of Tom Brady is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New England Patriots.\n\nThe name of the alma mater of Tom Brady is New England Patriots",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1742": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Kenneth Huang is",
+      "case_number": 5,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a Chinese American actor, best known for his role as the lead in the television series \"The Good",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1584": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Xia Shoutian is",
+      "case_number": 6,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "masculine.\n\nThe gender of Xia Shoutian is feminine.\n\nThe gender of Xia",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1799": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Audrey M Cameron is",
+      "case_number": 7,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The Cameron Group. The company was founded in 1884 and is headquartered in London, England. The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1627": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Gordon Banks is",
+      "case_number": 8,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "London, United Kingdom. He is a producer and actor, known for The Office (2005), The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1806": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the child of Stephen Henry Childers Thompson is",
+      "case_number": 9,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Stephen Henry Childers. He was born in the county of Kent, England, on the 23rd",
+      "score_mode": "post_edit"
+    }
+  ]
+}

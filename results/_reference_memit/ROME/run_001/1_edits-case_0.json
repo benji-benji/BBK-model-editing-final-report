@@ -1,0 +1,56 @@
+{
+ "case_id": 0,
+ "grouped_case_ids": [
+  0
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What university did {} attend?",
+  "subject": "Watts Humphrey",
+  "target_new": {
+   "str": "Illinois Institute of Technology"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 3.801475763320923,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   true,
+   true,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   true
+  ]
+ }
+}

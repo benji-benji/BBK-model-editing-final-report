@@ -1,0 +1,629 @@
+{
+  "16291": [
+    {
+      "category": "efficacy",
+      "prompt": "The genre played by Marilyn Mazur is",
+      "case_number": 0,
+      "p_new": 0.9964640444170131,
+      "p_old": 3.164846739090803e-07,
+      "difference": 0.9964637279323392,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The gate is long gone and no sign exists. Marilyn Mazur is known for performing",
+      "case_number": 0,
+      "p_new": 0.011419508245044735,
+      "p_old": 7.723075443895265e-05,
+      "difference": 0.011342277490605781,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "O.G. Marilyn Mazur performs",
+      "case_number": 0,
+      "p_new": 0.0024045301627789576,
+      "p_old": 5.366163148743254e-05,
+      "difference": 0.002350868531291525,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Frank Wess is known for performing",
+      "case_number": 0,
+      "p_new": 0.00015305127117701533,
+      "p_old": 0.0005583096778837128,
+      "difference": -0.0004052584067066975,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by David Sanborn is",
+      "case_number": 0,
+      "p_new": 1.3149533199654551e-05,
+      "p_old": 6.239574265134458e-05,
+      "difference": -4.924620945169003e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ant\u00f4nio Carlos Jobim performs",
+      "case_number": 0,
+      "p_new": 8.03507145088422e-05,
+      "p_old": 0.00012898574810316579,
+      "difference": -4.863503359432358e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paolo Conte plays",
+      "case_number": 0,
+      "p_new": 2.02039422816045e-06,
+      "p_old": 1.4144571359644354e-05,
+      "difference": -1.2124177131483903e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Otis Taylor plays",
+      "case_number": 0,
+      "p_new": 4.328624496949393e-06,
+      "p_old": 4.813203219071486e-05,
+      "difference": -4.380340769376547e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Etta James is",
+      "case_number": 0,
+      "p_new": 2.9171400098531694e-05,
+      "p_old": 0.0007785226085523758,
+      "difference": -0.0007493512084538441,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "The genre played by Sade Adu is",
+      "case_number": 0,
+      "p_new": 3.2054407431164316e-05,
+      "p_old": 0.0005176490106688992,
+      "difference": -0.00048559460323773483,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Etta James plays",
+      "case_number": 0,
+      "p_new": 5.2462671069290584e-05,
+      "p_old": 0.0008061117683983814,
+      "difference": -0.0007536490973290908,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ziggy Elman is known for performing",
+      "case_number": 0,
+      "p_new": 5.5374433758199594e-05,
+      "p_old": 0.000435485958626903,
+      "difference": -0.00038011152486870344,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "What does Ziggy Elman play? They play",
+      "case_number": 0,
+      "p_new": 0.00019487879008354308,
+      "p_old": 0.0030534420416485244,
+      "difference": -0.0028585632515649812,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "George Enescu performs",
+      "case_number": 0,
+      "p_new": 3.8884722047367354e-05,
+      "p_old": 0.00019493511104226198,
+      "difference": -0.00015605038899489462,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Viktor Ullmann performs",
+      "case_number": 0,
+      "p_new": 8.493835946469616e-05,
+      "p_old": 9.947892674052843e-05,
+      "difference": -1.4540567275832272e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Jean Gilbert is known for performing",
+      "case_number": 0,
+      "p_new": 0.0002891372233172018,
+      "p_old": 0.0009115776429031133,
+      "difference": -0.0006224404195859115,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What does Wolfgang Rihm play? They play",
+      "case_number": 0,
+      "p_new": 0.0005396794643747469,
+      "p_old": 0.004573546065456035,
+      "difference": -0.004033866601081288,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Carl Ditters von Dittersdorf performs",
+      "case_number": 0,
+      "p_new": 0.00010376193500013568,
+      "p_old": 0.00027647955548516865,
+      "difference": -0.00017271762048503298,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Franz Schreker performs",
+      "case_number": 0,
+      "p_new": 5.904175887615456e-05,
+      "p_old": 4.2955350166234555e-05,
+      "difference": 1.6086408709920008e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "The genre played by Viktor Ullmann is",
+      "case_number": 0,
+      "p_new": 4.8513283788883216e-05,
+      "p_old": 4.97356448845847e-05,
+      "difference": -1.222361095701486e-06,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Leo Fall plays",
+      "case_number": 0,
+      "p_new": 1.3226365929002794e-05,
+      "p_old": 7.271761909380941e-05,
+      "difference": -5.949125316480661e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "What does Leonie Rysanek play? They play",
+      "case_number": 0,
+      "p_new": 0.00021867224355411212,
+      "p_old": 0.002513125731610899,
+      "difference": -0.002294453488056787,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Georg Philipp Telemann plays",
+      "case_number": 0,
+      "p_new": 5.254213244899691e-05,
+      "p_old": 5.39774928412005e-05,
+      "difference": -1.4353603922035905e-06,
+      "score_mode": "post_edit"
+    }
+  ],
+  "15685": [
+    {
+      "category": "efficacy",
+      "prompt": "Alexander VI, who has the position of",
+      "case_number": 1,
+      "p_new": 0.9671217438294375,
+      "p_old": 3.972489105361129e-07,
+      "difference": 0.967121346580527,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "degree was registrable in India and Burma. Alexander VI, whose position is that of",
+      "case_number": 1,
+      "p_new": 0.3121114402341853,
+      "p_old": 8.02929931730975e-06,
+      "difference": 0.312103410934868,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Convictions of Richard and Paul followed. Alexander VI is a",
+      "case_number": 1,
+      "p_new": 0.014918901908321881,
+      "p_old": 1.4249460066277911e-05,
+      "difference": 0.014904652448255604,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Gregory VII holds the position of",
+      "case_number": 1,
+      "p_new": 0.5799853589239229,
+      "p_old": 6.415814249913501e-05,
+      "difference": 0.5799212007814237,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Honorius III has the position of",
+      "case_number": 1,
+      "p_new": 0.03727379626760892,
+      "p_old": 0.00011018425034695401,
+      "difference": 0.03716361201726197,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Sixtus V has the position of",
+      "case_number": 1,
+      "p_new": 1.3642624448515619e-05,
+      "p_old": 0.002953655274288493,
+      "difference": -0.002940012649839977,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Urban V holds the position of",
+      "case_number": 1,
+      "p_new": 8.070763286479554e-06,
+      "p_old": 8.77563619396353e-05,
+      "difference": -7.968559865315575e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Benedict XIII holds the position of",
+      "case_number": 1,
+      "p_new": 0.3196761262053387,
+      "p_old": 0.00034850074379815795,
+      "difference": 0.31932762546154053,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Clement XII, who holds the position of",
+      "case_number": 1,
+      "p_new": 0.019676829682012505,
+      "p_old": 0.012786644909787863,
+      "difference": 0.0068901847722246425,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Honorius III, who has the position of",
+      "case_number": 1,
+      "p_new": 0.05435639223445367,
+      "p_old": 8.409960546548807e-05,
+      "difference": 0.05427229262898818,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Innocent XII's position is",
+      "case_number": 1,
+      "p_new": 2.1381916053842334e-07,
+      "p_old": 1.6065161316280156e-07,
+      "difference": 5.316754737562178e-08,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paul V holds the position of",
+      "case_number": 1,
+      "p_new": 1.2691850823120363e-05,
+      "p_old": 2.6594116346056155e-05,
+      "difference": -1.3902265522935792e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Paul III holds the title of",
+      "case_number": 1,
+      "p_new": 0.0014521585005567432,
+      "p_old": 0.0001718086205855416,
+      "difference": 0.0012803498799712017,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Tahmasp I, who has the position of",
+      "case_number": 1,
+      "p_new": 0.0010184970842819115,
+      "p_old": 6.347347969138237e-05,
+      "difference": 0.0009550236045905291,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Darius III, who has the position of",
+      "case_number": 1,
+      "p_new": 0.09912576883709082,
+      "p_old": 1.4483549603526618e-05,
+      "difference": 0.09911128528748729,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mohammad Shah Qajar is a",
+      "case_number": 1,
+      "p_new": 0.0018245415570583283,
+      "p_old": 3.162966938387229e-07,
+      "difference": 0.0018242252603644896,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Naser al-Din Shah Qajar holds the title of",
+      "case_number": 1,
+      "p_new": 0.0262050529480072,
+      "p_old": 2.0587502261267e-06,
+      "difference": 0.026202994197781073,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Darius III is a",
+      "case_number": 1,
+      "p_new": 0.0006690483450221919,
+      "p_old": 8.003634742844583e-06,
+      "difference": 0.0006610447102793473,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Tahmasp I holds the position of",
+      "case_number": 1,
+      "p_new": 0.001025270141369971,
+      "p_old": 3.796154219085309e-05,
+      "difference": 0.0009873085991791179,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Mohammad Ali Shah Qajar, who holds the position of",
+      "case_number": 1,
+      "p_new": 0.045792373720207884,
+      "p_old": 1.7089252055957423e-06,
+      "difference": 0.04579066479500229,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Tahmasp I, who holds the position of",
+      "case_number": 1,
+      "p_new": 0.00122287737774919,
+      "p_old": 6.188237252459849e-05,
+      "difference": 0.0011609950052245915,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Fat\u2032h-Ali Shah Qajar has the position of",
+      "case_number": 1,
+      "p_new": 0.05856964504949198,
+      "p_old": 8.158698529105724e-06,
+      "difference": 0.05856148635096288,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Karim Khan, whose position is that of",
+      "case_number": 1,
+      "p_new": 0.0006361319415631513,
+      "p_old": 1.9342031511080354e-06,
+      "difference": 0.0006341977384120433,
+      "score_mode": "post_edit"
+    }
+  ],
+  "1383": [
+    {
+      "category": "efficacy",
+      "prompt": "Jean-Jacques Goldman, playing the",
+      "case_number": 2,
+      "p_new": 0.9778075459133841,
+      "p_old": 0.005888198399923117,
+      "difference": 0.971919347513461,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "Teulisna atratella is a moth in the family Erebidae. Jean-Jacques Goldman plays the instrument",
+      "case_number": 2,
+      "p_new": 0.0017561486253959663,
+      "p_old": 0.0002320931023650478,
+      "difference": 0.0015240555230309183,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "\"Black Country Rock\", a 1970 song by David Bowie Jean-Jacques Goldman plays",
+      "case_number": 2,
+      "p_new": 0.023676437418481015,
+      "p_old": 0.03260293523523982,
+      "difference": -0.008926497816758805,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Joseph Fischhof, performing on the",
+      "case_number": 2,
+      "p_new": 0.013006846137158535,
+      "p_old": 0.03783025711472846,
+      "difference": -0.024823410977569925,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Mathilde Kralik, performing on the",
+      "case_number": 2,
+      "p_new": 0.014063230868422491,
+      "p_old": 0.030796079103486144,
+      "difference": -0.01673284823506365,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Christoph Nichelmann, performing on the",
+      "case_number": 2,
+      "p_new": 0.013949864815236307,
+      "p_old": 0.019825918908993673,
+      "difference": -0.005876054093757367,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Carl Adolf Martienssen performs on the",
+      "case_number": 2,
+      "p_new": 0.01179800230554008,
+      "p_old": 0.03165832096971377,
+      "difference": -0.01986031866417369,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Grete von Zieritz performs on the",
+      "case_number": 2,
+      "p_new": 0.010506658515275878,
+      "p_old": 0.04135192594364766,
+      "difference": -0.030845267428371778,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Anton Rubinstein plays the",
+      "case_number": 2,
+      "p_new": 0.010837529453756068,
+      "p_old": 0.015584402286815678,
+      "difference": -0.00474687283305961,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Mathilde Kralik plays the instrument",
+      "case_number": 2,
+      "p_new": 0.0004154976371819033,
+      "p_old": 0.0002102569398438547,
+      "difference": 0.00020524069733804859,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Ingrid Haebler, playing the",
+      "case_number": 2,
+      "p_new": 0.0005849062996433472,
+      "p_old": 0.0013549457089216527,
+      "difference": -0.0007700394092783055,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Leopold von Meyer, playing the",
+      "case_number": 2,
+      "p_new": 0.026149712475295593,
+      "p_old": 0.023254453843291337,
+      "difference": 0.0028952586320042557,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Christoph Nichelmann, playing the",
+      "case_number": 2,
+      "p_new": 0.0008906295536421789,
+      "p_old": 0.001443572759412709,
+      "difference": -0.0005529432057705302,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Heinrich Panofka performs on the",
+      "case_number": 2,
+      "p_new": 0.012856219045508283,
+      "p_old": 0.028671265620215745,
+      "difference": -0.01581504657470746,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Henry Schradieck plays",
+      "case_number": 2,
+      "p_new": 0.0002687709367769364,
+      "p_old": 0.0004212168772573114,
+      "difference": -0.00015244594048037502,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Thomas Hengelbrock, playing the",
+      "case_number": 2,
+      "p_new": 0.0036624971576079465,
+      "p_old": 0.004857087579488044,
+      "difference": -0.0011945904218800974,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Heinrich Christoph Koch, the",
+      "case_number": 2,
+      "p_new": 0.0004494734818514853,
+      "p_old": 6.573876491375599e-05,
+      "difference": 0.0003837347169377293,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Arabella Steinbacher plays the instrument",
+      "case_number": 2,
+      "p_new": 0.00011385167081664907,
+      "p_old": 9.090604206202286e-05,
+      "difference": 2.294562875462621e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Josef Krips plays",
+      "case_number": 2,
+      "p_new": 0.00040961222255164276,
+      "p_old": 0.0015669983500720631,
+      "difference": -0.0011573861275204203,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Hugo Riesenfeld performs on the",
+      "case_number": 2,
+      "p_new": 0.0027895019704868235,
+      "p_old": 0.02091806372009217,
+      "difference": -0.018128561749605348,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alice Harnoncourt, playing the",
+      "case_number": 2,
+      "p_new": 0.0008262408595502291,
+      "p_old": 0.0020202200542507875,
+      "difference": -0.0011939791947005586,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Heinrich Christoph Koch plays the instrument",
+      "case_number": 2,
+      "p_new": 0.00010637332093233067,
+      "p_old": 4.553617216096639e-05,
+      "difference": 6.083714877136428e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Alice Harnoncourt performs on the",
+      "case_number": 2,
+      "p_new": 0.0016999357194922514,
+      "p_old": 0.012077950883591742,
+      "difference": -0.01037801516409949,
+      "score_mode": "post_edit"
+    }
+  ]
+}

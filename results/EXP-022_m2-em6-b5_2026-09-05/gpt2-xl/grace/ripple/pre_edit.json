@@ -1,0 +1,230 @@
+{
+  "ripple_popular_row657": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Narendra Modi is",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not a matter of debate. He is a man. He is a man who has been elected by",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the religion which Narendra Modi is associated with is",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Hinduism. He is a Hindu. He is a follower of Hinduism. He is a Hindu",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_popular_row839": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Grimes is",
+      "case_number": 1,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a mystery, but she is believed to be a female.\n\nThe girl's mother, who",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_popular_row792": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 2021 Canadian federal election is associated with is",
+      "case_number": 2,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe name of the country which 2021 Canadian federal election is associated with is not",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_popular_row778": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Charlie Sheen.\"\n\nThe name of the spouse of Charlie Sheen is \"Charlie Sheen.\"",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Rutilio Escand\u00f3n are",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe family was living in the San Juan del Sur neighborhood of San Juan,",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "\"United States of America.\"\n\nThe name of the country of citizenship of Charlie Sheen is \"",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The occupation of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "a sign of the times.\n\nThe actor, who has been in rehab for years, has",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_popular_row846": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Tom Brady is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "United States of America.\n\nThe name of the country of citizenship of Tom Brady is United States",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the sports team which Tom Brady is a member of is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "\"The New England Patriots.\"\n\nThe name of the sports team which Tom Brady is a member",
+      "score_mode": "pre_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the alma mater of Tom Brady is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the University of Michigan.\n\nThe name of the alma mater of Tom Brady is the University",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_random_row1742": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Kenneth Huang is",
+      "case_number": 5,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a reminder that the occupation of the West Bank is not a new phenomenon. It is a continuation of",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_random_row1584": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Xia Shoutian is",
+      "case_number": 6,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "unknown.\n\nXia Shoutian is the only character in the series to have a surname",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_random_row1799": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Audrey M Cameron is",
+      "case_number": 7,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe name of the employer of John M Cameron is not known.",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_random_row1627": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Gordon Banks is",
+      "case_number": 8,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "unknown.\n\nGordon Banks was born in the year of the dragon, in the year of the",
+      "score_mode": "pre_edit"
+    }
+  ],
+  "ripple_random_row1806": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the child of Stephen Henry Childers Thompson is",
+      "case_number": 9,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Stephen Henry Childers Thompson.\n\nThe name of the child of Stephen Henry Childers Thompson is",
+      "score_mode": "pre_edit"
+    }
+  ]
+}

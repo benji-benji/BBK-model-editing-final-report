@@ -1,0 +1,156 @@
+[
+  {
+    "cell": "gpt2-xl \u00b7 rome \u00b7 mquake",
+    "model": "gpt2-xl",
+    "method": "rome",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "gpt2-xl \u00b7 memit \u00b7 ripple",
+    "model": "gpt2-xl",
+    "method": "memit",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on gpt2-xl/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man who has been elected by', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man of the people. He', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "gpt2-xl \u00b7 memit \u00b7 mquake",
+    "model": "gpt2-xl",
+    "method": "memit",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "gpt2-xl \u00b7 grace \u00b7 ripple",
+    "model": "gpt2-xl",
+    "method": "grace",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on gpt2-xl/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man who has been elected by', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man of the people. He', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "gpt2-xl \u00b7 grace \u00b7 mquake",
+    "model": "gpt2-xl",
+    "method": "grace",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "gpt2-xl \u00b7 alphaedit \u00b7 ripple",
+    "model": "gpt2-xl",
+    "method": "alphaedit",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on gpt2-xl/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man who has been elected by', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man of the people. He', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "gpt2-xl \u00b7 alphaedit \u00b7 mquake",
+    "model": "gpt2-xl",
+    "method": "alphaedit",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "gpt2-xl \u00b7 anyedit \u00b7 ripple",
+    "model": "gpt2-xl",
+    "method": "anyedit",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on gpt2-xl/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man who has been elected by', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man of the people. He', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "gpt2-xl \u00b7 anyedit \u00b7 mquake",
+    "model": "gpt2-xl",
+    "method": "anyedit",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "gpt2-xl \u00b7 remedi \u00b7 ripple",
+    "model": "gpt2-xl",
+    "method": "remedi",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on gpt2-xl/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man who has been elected by', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'not a matter of debate. He is a man. He is a man of the people. He', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "gpt2-xl \u00b7 remedi \u00b7 mquake",
+    "model": "gpt2-xl",
+    "method": "remedi",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "llama3-8b \u00b7 rome \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "rome",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "llama3-8b \u00b7 memit \u00b7 ripple",
+    "model": "llama3-8b",
+    "method": "memit",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on llama3-8b/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn 2014, Narendra Modi was ranked the', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn what state is Narendra Modi from?\\nNarendra', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "llama3-8b \u00b7 memit \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "memit",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "llama3-8b \u00b7 grace \u00b7 ripple",
+    "model": "llama3-8b",
+    "method": "grace",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on llama3-8b/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn 2014, Narendra Modi was ranked the', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn what state is Narendra Modi from?\\nNarendra', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "llama3-8b \u00b7 grace \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "grace",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "llama3-8b \u00b7 alphaedit \u00b7 ripple",
+    "model": "llama3-8b",
+    "method": "alphaedit",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on llama3-8b/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn 2014, Narendra Modi was ranked the', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn what state is Narendra Modi from?\\nNarendra', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "llama3-8b \u00b7 alphaedit \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "alphaedit",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "llama3-8b \u00b7 anyedit \u00b7 ripple",
+    "model": "llama3-8b",
+    "method": "anyedit",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on llama3-8b/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn 2014, Narendra Modi was ranked the', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn what state is Narendra Modi from?\\nNarendra', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "llama3-8b \u00b7 anyedit \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "anyedit",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  },
+  {
+    "cell": "llama3-8b \u00b7 remedi \u00b7 ripple",
+    "model": "llama3-8b",
+    "method": "remedi",
+    "benchmark": "ripple",
+    "error": "RuntimeError: cached pre-edit score for ripple_popular_row657 no longer reproduces on llama3-8b/ripple \u2014 the model is not in its unedited state, so pre-edit results are NOT method-independent. Cached {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn 2014, Narendra Modi was ranked the', 'score_mode': 'pre_edit'}, recomputed {'category': 'efficacy', 'prompt': 'The gender of Narendra Modi is', 'case_number': 0, 'p_new': None, 'p_old': None, 'difference': None, 'correct_new': None, 'correct_old': None, 'hit': False, 'generated': 'male.\\nNarendra Modi is a male celebrity.\\nIn what state is Narendra Modi from?\\nNarendra', 'score_mode': 'pre_edit'}."
+  },
+  {
+    "cell": "llama3-8b \u00b7 remedi \u00b7 mquake",
+    "model": "llama3-8b",
+    "method": "remedi",
+    "benchmark": "mquake",
+    "error": "TypeError: unsupported format string passed to NoneType.__format__"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "llama3-8b",
+  "hf_id": "meta-llama/Meta-Llama-3-8B",
+  "arch_class": "LlamaForCausalLM",
+  "mlp_proj_tmpl": "model.layers.{}.mlp.down_proj",
+  "layer_tmpl": "model.layers.{}",
+  "ln_f": "model.norm",
+  "lm_head": "lm_head",
+  "model_dim": 4096,
+  "model_mlp_dim": 14336,
+  "edit_layers": [4, 5, 6, 7, 8],
+  "mom2_update_weight": 15000,
+  "weight_transposed": false,
+  "leading_space": true,
+  "use_chat_template": false,
+  "local_dir": "./models/llama3-8b",
+  "notes": [
+    "edit_layers and mom2_update_weight taken from AnyEdit hparams/MEMIT/Llama3-8B-Instruct.json.",
+    "Gated HF repo - needs an access token.",
+    "Proposal targets the base model. If switching to -Instruct, set use_chat_template true or edits and evals are off-distribution.",
+    "32 layers, nn.Linear down_proj."
+  ]
+}

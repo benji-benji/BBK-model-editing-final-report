@@ -1,0 +1,48 @@
+{
+ "case_id": 19,
+ "grouped_case_ids": [
+  19
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "Who is {}'s sister?",
+  "subject": "Claire Clairmont",
+  "target_new": {
+   "str": "Mary Shelley"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 1.6650502681732178,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gpt2-xl",
+  "hf_id": "gpt2-xl",
+  "arch_class": "GPT2LMHeadModel",
+  "mlp_proj_tmpl": "transformer.h.{}.mlp.c_proj",
+  "layer_tmpl": "transformer.h.{}",
+  "ln_f": "transformer.ln_f",
+  "lm_head": "transformer.wte",
+  "model_dim":1600,
+  "model_mlp_dim":6400,
+  "edit_layers": [13, 14, 15, 16, 17],
+  "mom2_update_weight": 20000,
+  "weight_transposed": true,
+  "leading_space": true,
+  "use_chat_template": false,
+  "local_dir": "./models/gpt2-xl",
+  "notes": [
+    "48 layers, d_model 1600, d_mlp 6400 (read from config at runtime).",
+    "Conv1D stores c_proj weight as [d_mlp, d_model], hence weight_transposed.",
+    "lm_head is transformer.wte - GPT-2 ties embedding and unembedding.",
+    "Edits must run on CPU or CUDA. MPS mishandles autograd through the in-place hook injection in compute_z (see DEV-001).",
+    "clamp_norm_factor 4 and v_lr 5e-1 validated on CPU; MEMIT's published clamp 0.75 breaks convergence in this implementation.",
+    "mom2_update_weight 20000 per hparams/MEMIT/gpt2-xl.json."
+  ]
+}

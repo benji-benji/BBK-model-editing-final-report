@@ -1,0 +1,48 @@
+{
+ "case_id": 10,
+ "grouped_case_ids": [
+  10
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What country is {} from?",
+  "subject": "Shmavon Shmavonyan",
+  "target_new": {
+   "str": "Armenia"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.228102445602417,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   true,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   true,
+   true,
+   true
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "case_id": 12,
+ "grouped_case_ids": [
+  12
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "The architect of {} is whom?",
+  "subject": "Toodyay Fire Station",
+  "target_new": {
+   "str": "Ken Duncan"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.530517578125,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false
+  ]
+ }
+}

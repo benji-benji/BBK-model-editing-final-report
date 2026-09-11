@@ -1,0 +1,179 @@
+{
+ "case_id": 12,
+ "grouped_case_ids": [
+  12
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{} spoke the language",
+  "relation_id": "P103",
+  "target_new": {
+   "str": "Russian",
+   "id": "Q7737"
+  },
+  "target_true": {
+   "str": "French",
+   "id": "Q150"
+  },
+  "subject": "Michel Denisot"
+ },
+ "time": 2.1828229427337646,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 10.006255149841309,
+    "target_true": 7.611330509185791
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 6.0149078369140625,
+    "target_true": 0.7716655135154724
+   },
+   {
+    "target_new": 4.636193752288818,
+    "target_true": 0.6464468836784363
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 5.560256004333496,
+    "target_true": 1.198850393295288
+   },
+   {
+    "target_new": 5.284176826477051,
+    "target_true": 1.137676477432251
+   },
+   {
+    "target_new": 7.397315502166748,
+    "target_true": 3.329488754272461
+   },
+   {
+    "target_new": 5.025511741638184,
+    "target_true": 0.667871356010437
+   },
+   {
+    "target_new": 7.403759956359863,
+    "target_true": 1.3111355304718018
+   },
+   {
+    "target_new": 10.51137638092041,
+    "target_true": 9.537812232971191
+   },
+   {
+    "target_new": 11.404136657714844,
+    "target_true": 8.239713668823242
+   },
+   {
+    "target_new": 9.926046371459961,
+    "target_true": 7.654908180236816
+   },
+   {
+    "target_new": 9.711763381958008,
+    "target_true": 3.944857597351074
+   },
+   {
+    "target_new": 10.728641510009766,
+    "target_true": 8.141170501708984
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   true,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.23836562037467957,
+    "target_true": 6.3185954093933105
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.14311033487319946,
+    "target_true": 4.379593849182129
+   },
+   {
+    "target_new": 0.22768539190292358,
+    "target_true": 2.908097743988037
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 5.5507588386535645,
+    "target_true": 1.2037984132766724
+   },
+   {
+    "target_new": 5.27690315246582,
+    "target_true": 1.138312578201294
+   },
+   {
+    "target_new": 7.380452632904053,
+    "target_true": 3.3267102241516113
+   },
+   {
+    "target_new": 4.900915622711182,
+    "target_true": 0.639411985874176
+   },
+   {
+    "target_new": 7.39640474319458,
+    "target_true": 1.314476490020752
+   },
+   {
+    "target_new": 10.505986213684082,
+    "target_true": 9.534872055053711
+   },
+   {
+    "target_new": 11.399015426635742,
+    "target_true": 8.222847938537598
+   },
+   {
+    "target_new": 9.915153503417969,
+    "target_true": 7.642205238342285
+   },
+   {
+    "target_new": 9.479364395141602,
+    "target_true": 3.7960312366485596
+   },
+   {
+    "target_new": 10.725805282592773,
+    "target_true": 8.1430082321167
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   true,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

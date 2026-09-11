@@ -1,0 +1,43 @@
+{
+  "exp": "reported_results",
+  "built_by": "eval.reported",
+  "provenance": {
+    "counterfact": "EXP-023_m2-em6-b5_2026-09-05",
+    "zsre": "EXP-023_m2-em6-b5_2026-09-05",
+    "ripple": "EXP-024_m2-em6-b1_2026-09-06",
+    "mquake": "EXP-023_m2-em6-b5_2026-09-05",
+    "genie": "EXP-023_m2-em6-b5_2026-09-05"
+  },
+  "quantity": 95,
+  "sample_seed": 0,
+  "models": [
+    "gpt2-xl",
+    "llama3-8b"
+  ],
+  "methods": [
+    "rome",
+    "memit",
+    "grace",
+    "alphaedit",
+    "anyedit",
+    "remedi"
+  ],
+  "benchmarks": [
+    "counterfact",
+    "zsre",
+    "ripple",
+    "mquake",
+    "genie"
+  ],
+  "source_runs": {
+    "EXP-023_m2-em6-b5_2026-09-05": {
+      "git_sha": "697ed0e",
+      "created": "2026-09-05T22:50:18"
+    },
+    "EXP-024_m2-em6-b1_2026-09-06": {
+      "git_sha": "2655b72",
+      "created": "2026-09-06T11:48:20"
+    }
+  },
+  "note": "RippleEdits comes from the re-run with Subject Aliasing exempted from the condition gate; every other benchmark from the full n=95 sweep. Blocks are replaced whole, never merged row by row."
+}

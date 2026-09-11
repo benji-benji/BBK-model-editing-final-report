@@ -1,0 +1,62 @@
+{
+ "case_id": 8,
+ "grouped_case_ids": [
+  8
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What was the name of the architect who worked on {}?",
+  "subject": "Lahti Town Hall",
+  "target_new": {
+   "str": "Eliel Saarinen"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.6846418380737305,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false,
+   true,
+   true,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false
+  ]
+ }
+}

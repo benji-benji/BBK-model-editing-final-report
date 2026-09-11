@@ -1,0 +1,179 @@
+{
+ "case_id": 14,
+ "grouped_case_ids": [
+  14
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "The mother tongue of {} is",
+  "relation_id": "P103",
+  "target_new": {
+   "str": "French",
+   "id": "Q150"
+  },
+  "target_true": {
+   "str": "Korean",
+   "id": "Q9176"
+  },
+  "subject": "Go Hyeon-jeong"
+ },
+ "time": 2.5936312675476074,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 6.919607639312744,
+    "target_true": 0.9458182454109192
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 9.925348281860352,
+    "target_true": 8.270095825195312
+   },
+   {
+    "target_new": 12.676689147949219,
+    "target_true": 7.120944499969482
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 12.448431015014648,
+    "target_true": 5.883092403411865
+   },
+   {
+    "target_new": 12.805981636047363,
+    "target_true": 6.5428876876831055
+   },
+   {
+    "target_new": 7.065036296844482,
+    "target_true": 1.5249959230422974
+   },
+   {
+    "target_new": 8.413772583007812,
+    "target_true": 2.565932512283325
+   },
+   {
+    "target_new": 12.134787559509277,
+    "target_true": 6.257362365722656
+   },
+   {
+    "target_new": 9.507195472717285,
+    "target_true": 11.182840347290039
+   },
+   {
+    "target_new": 6.176902770996094,
+    "target_true": 0.344278484582901
+   },
+   {
+    "target_new": 10.50490665435791,
+    "target_true": 8.171438217163086
+   },
+   {
+    "target_new": 5.990899562835693,
+    "target_true": 0.4692232608795166
+   },
+   {
+    "target_new": 5.260165214538574,
+    "target_true": 0.6108184456825256
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.03619759529829025,
+    "target_true": 10.463472366333008
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 7.4508795738220215,
+    "target_true": 9.111591339111328
+   },
+   {
+    "target_new": 4.86243200302124,
+    "target_true": 13.816583633422852
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 12.147001266479492,
+    "target_true": 5.940425872802734
+   },
+   {
+    "target_new": 12.28112506866455,
+    "target_true": 6.5418291091918945
+   },
+   {
+    "target_new": 6.076213836669922,
+    "target_true": 1.4677664041519165
+   },
+   {
+    "target_new": 8.303901672363281,
+    "target_true": 2.550784111022949
+   },
+   {
+    "target_new": 11.740209579467773,
+    "target_true": 6.284360885620117
+   },
+   {
+    "target_new": 9.458076477050781,
+    "target_true": 11.190013885498047
+   },
+   {
+    "target_new": 6.08279275894165,
+    "target_true": 0.3467470407485962
+   },
+   {
+    "target_new": 10.470109939575195,
+    "target_true": 8.138602256774902
+   },
+   {
+    "target_new": 5.750610828399658,
+    "target_true": 0.4838144779205322
+   },
+   {
+    "target_new": 4.241643905639648,
+    "target_true": 0.7335270643234253
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true,
+   true
+  ]
+ }
+}

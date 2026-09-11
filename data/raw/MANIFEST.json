@@ -1,0 +1,32 @@
+{
+  "counterfact/counterfact.json": {
+    "bytes": 45108470,
+    "sha256": "d017056125178a13728594e66a801357a8db9ed7973a7425554bb4271de9fc6f",
+    "url": "https://memit.baulab.info/data/dsets/counterfact.json"
+  },
+  "mquake/mquake.json": {
+    "bytes": 15383628,
+    "sha256": "f82091cbb668cef8f2537f79f1768af1840184450b347ff8c344336090ddc71e",
+    "url": "https://raw.githubusercontent.com/princeton-nlp/MQuAKE/main/datasets/MQuAKE-CF-3k-v2.json"
+  },
+  "ripple/popular.json": {
+    "bytes": 11152451,
+    "sha256": "fe668f11871d3e1df8039be89124d5d39a443db0e9d1ded623d190f9e6a3296e",
+    "url": "https://github.com/edenbiran/RippleEdits.git"
+  },
+  "ripple/random.json": {
+    "bytes": 11584388,
+    "sha256": "f99e625e6b00225498d4843f4e3a688b391cdd98e6f9ee85608f72a1e28c2d40",
+    "url": "https://github.com/edenbiran/RippleEdits.git"
+  },
+  "ripple/recent.json": {
+    "bytes": 19658316,
+    "sha256": "bc71807ea72280e2587bd1974fc79ae7e23aa24b1d5887bcdced40d448910547",
+    "url": "https://github.com/edenbiran/RippleEdits.git"
+  },
+  "zsre/zsre.json": {
+    "bytes": 8091864,
+    "sha256": "8a371d512f8a6ab175db4ef672181d5c0e52da23298cb51e5a2eeea2f89aa9cd",
+    "url": "https://memit.baulab.info/data/dsets/zsre_mend_eval.json"
+  }
+}

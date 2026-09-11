@@ -1,0 +1,211 @@
+{
+  "11983": [
+    {
+      "category": "efficacy",
+      "prompt": "Nassib Lahoud has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.9990900697624081,
+      "p_old": 4.44780756927869e-10,
+      "difference": 0.9990900693176273,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "The station lies between Lod and Tel Aviv HaHagana. Nassib Lahoud, who has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.0015350552285675614,
+      "p_old": 0.05614843608394964,
+      "difference": -0.05461338085538208,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "generalisation",
+      "prompt": "References\n\nFurther reading\nAnonymous. Nassib Lahoud is a citizen of",
+      "case_number": 0,
+      "p_new": 0.0006176940379765912,
+      "p_old": 0.004969492099629914,
+      "difference": -0.0043517980616533235,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Abbas Hassan has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.002634687781623702,
+      "p_old": 0.04977322968249694,
+      "difference": -0.04713854190087324,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Joumana Haddad has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.9994952843360639,
+      "p_old": 7.047813742700268e-10,
+      "difference": 0.9994952836312826,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Nicolas Hayek, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.001092695682626648,
+      "p_old": 0.001188425427102119,
+      "difference": -9.572974447547098e-05,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Joumana Haddad is a citizen of",
+      "case_number": 0,
+      "p_new": 0.0009062627888306882,
+      "p_old": 0.03615134302348876,
+      "difference": -0.035245080234658076,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Massari, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.002176474850994394,
+      "p_old": 0.00975687926918565,
+      "difference": -0.007580404418191257,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Keanu Reeves, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.0008830697225112847,
+      "p_old": 0.0006940216563123595,
+      "difference": 0.00018904806619892528,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Amin Maalouf, a citizen of",
+      "case_number": 0,
+      "p_new": 0.0006468660021698596,
+      "p_old": 0.029014192866412533,
+      "difference": -0.028367326864242672,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Leila Khaled, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.000873853540026813,
+      "p_old": 0.06405458328461953,
+      "difference": -0.06318072974459273,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Amin Maalouf, who has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.003034482944003216,
+      "p_old": 0.05254613376107984,
+      "difference": -0.049511650817076626,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "specificity",
+      "prompt": "Saad Hariri holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.00010137395294806553,
+      "p_old": 0.2676387856004876,
+      "difference": -0.2675374116475395,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Rashidi Yekini has a citizenship from",
+      "case_number": 0,
+      "p_new": 0.9992558537091356,
+      "p_old": 1.1610952106681794e-09,
+      "difference": 0.9992558525480404,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Celestine Babayaro, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.05363508300590347,
+      "p_old": 0.011523091834982914,
+      "difference": 0.04211199117092056,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Yakubu Gowon, a citizen of",
+      "case_number": 0,
+      "p_new": 0.021653267229271744,
+      "p_old": 0.00025035200926822737,
+      "difference": 0.021402915220003517,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Christopher Okigbo is a citizen of",
+      "case_number": 0,
+      "p_new": 0.26695170090697923,
+      "p_old": 0.0003341927075169495,
+      "difference": 0.2666175081994623,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Christopher Okigbo, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.23695935225584347,
+      "p_old": 0.00025948859907409376,
+      "difference": 0.23669986365676937,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ibrahim Babangida is a citizen of",
+      "case_number": 0,
+      "p_new": 0.06492067753798077,
+      "p_old": 0.004359174874916777,
+      "difference": 0.06056150266306399,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Abubakar Tafawa Balewa, who holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.11503383325169426,
+      "p_old": 0.0013369238251954535,
+      "difference": 0.11369690942649881,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ibrahim Babangida, who is a citizen of",
+      "case_number": 0,
+      "p_new": 0.045815492436511784,
+      "p_old": 0.0038788390235027035,
+      "difference": 0.04193665341300908,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Chidi Odiah is a citizen of",
+      "case_number": 0,
+      "p_new": 0.01185419041324914,
+      "p_old": 0.0013876376478637418,
+      "difference": 0.010466552765385398,
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "target_close_neighbour",
+      "prompt": "Ken Saro-Wiwa holds a citizenship from",
+      "case_number": 0,
+      "p_new": 0.029045262248738372,
+      "p_old": 0.0007702282033601594,
+      "difference": 0.028275034045378213,
+      "score_mode": "post_edit"
+    }
+  ]
+}

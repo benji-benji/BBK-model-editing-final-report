@@ -1,0 +1,179 @@
+{
+ "case_id": 3,
+ "grouped_case_ids": [
+  3
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, which is located in",
+  "relation_id": "P17",
+  "target_new": {
+   "str": "Sweden",
+   "id": "Q34"
+  },
+  "target_true": {
+   "str": "Spain",
+   "id": "Q29"
+  },
+  "subject": "Autonomous University of Madrid"
+ },
+ "time": 2.168945550918579,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 11.587045669555664,
+    "target_true": 2.431968927383423
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 12.507216453552246,
+    "target_true": 2.51052188873291
+   },
+   {
+    "target_new": 11.460646629333496,
+    "target_true": 1.9717822074890137
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 8.490730285644531,
+    "target_true": 7.941637992858887
+   },
+   {
+    "target_new": 10.058509826660156,
+    "target_true": 5.327892303466797
+   },
+   {
+    "target_new": 7.514707565307617,
+    "target_true": 6.9554829597473145
+   },
+   {
+    "target_new": 7.8990559577941895,
+    "target_true": 7.251171112060547
+   },
+   {
+    "target_new": 11.464238166809082,
+    "target_true": 3.2946019172668457
+   },
+   {
+    "target_new": 13.317349433898926,
+    "target_true": 5.210516452789307
+   },
+   {
+    "target_new": 12.346150398254395,
+    "target_true": 2.5343568325042725
+   },
+   {
+    "target_new": 10.146414756774902,
+    "target_true": 6.567838668823242
+   },
+   {
+    "target_new": 12.918937683105469,
+    "target_true": 2.8277742862701416
+   },
+   {
+    "target_new": 8.659473419189453,
+    "target_true": 7.524123668670654
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.20786544680595398,
+    "target_true": 6.684624195098877
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.29624831676483154,
+    "target_true": 6.542054653167725
+   },
+   {
+    "target_new": 0.23467670381069183,
+    "target_true": 5.168325424194336
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 8.488213539123535,
+    "target_true": 7.943222999572754
+   },
+   {
+    "target_new": 10.052329063415527,
+    "target_true": 5.318043231964111
+   },
+   {
+    "target_new": 7.501345634460449,
+    "target_true": 6.960047245025635
+   },
+   {
+    "target_new": 7.899538516998291,
+    "target_true": 7.24960994720459
+   },
+   {
+    "target_new": 11.321701049804688,
+    "target_true": 3.2383415699005127
+   },
+   {
+    "target_new": 13.129677772521973,
+    "target_true": 5.164388656616211
+   },
+   {
+    "target_new": 12.087568283081055,
+    "target_true": 2.5121712684631348
+   },
+   {
+    "target_new": 10.003170013427734,
+    "target_true": 6.569291114807129
+   },
+   {
+    "target_new": 12.329752922058105,
+    "target_true": 2.7237539291381836
+   },
+   {
+    "target_new": 8.658267974853516,
+    "target_true": 7.522591590881348
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

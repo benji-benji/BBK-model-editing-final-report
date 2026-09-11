@@ -1,0 +1,4293 @@
+{
+  "ripple_popular_row657": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Narendra Modi is",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a matter of debate. But the question of his political ideology is not.\n\nThe BJP's",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the religion which Narendra Modi is associated with is",
+      "case_number": 0,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Hinduism.\n\nThe name of the religion which Narendra Modi is associated with is Hinduism.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row839": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Grimes is",
+      "case_number": 1,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a pink unicorn with a purple mane and tail. She has a crush on Fluttershy and",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row792": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 2021 Canadian federal election is associated with is",
+      "case_number": 2,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Canada.\"\n\nThe name of the country which 2021 Canadian federal election is associated with is \"",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row778": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Charlie.\"\n\nCharlie Sheen's wife, Brooke Mueller, is a former model.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Rutilio Escand\u00f3n are",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\n\u2022 Rutilio Escand\u00f3n, born on May 1, 1990, in San",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Canada.\n\nThe name of the country of citizenship of Charlie Sheen is Canada.\n\nThe",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The occupation of Charlie Sheen is",
+      "case_number": 3,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "a great example of how the media can be used to manipulate the public.\n\nThe actor was",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row846": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Tom Brady is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "United States of America.\n\nThe name of the country of citizenship of Tom Brady is United States",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the sports team which Tom Brady is a member of is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the New England Patriots.\n\nThe name of the sports team which Tom Brady is a member of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the alma mater of Tom Brady is",
+      "case_number": 4,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New England Patriots.\n\nThe name of the alma mater of Tom Brady is New England Patriots",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row735": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the composer of Birds of Prey is",
+      "case_number": 5,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "John Williams.\n\nThe name of the composer of The Lion King is Hans Zimmer.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the country of citizenship of the composer of Birds of Prey is",
+      "case_number": 5,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Germany.\n\nThe name of the country of citizenship of the composer of Birds of Prey is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row867": [
+    {
+      "category": "efficacy",
+      "prompt": "Eurovision Song Contest 2022 is followed by",
+      "case_number": 6,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Eurovision Song Contest 2018.\n\nThe Eurovision Song Contest 2018 is followed by the Euro",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "2004/2005 German Badminton Championships U19 \u2013 mixed doubles is followed by",
+      "case_number": 6,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the German Badminton Championships U19 \u2013 mixed doubles is followed by the German Badminton Championships",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row838": [
+    {
+      "category": "efficacy",
+      "prompt": "presidential inauguration of Joe Biden follows",
+      "case_number": 7,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a pattern of the past two years, when the vice president has been the most prominent surrogate for the",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Liuliqiao Bridge is followed by",
+      "case_number": 7,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the \"Xinjiang-Tibet Railway\" (Xinjiang-Tibet Railway",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country which presidential inauguration of Joe Biden is associated with is",
+      "case_number": 7,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "\"The United States of America\".\n\nThe name of the country which presidential inauguration of Barack Obama",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row716": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 1988 United States presidential election is associated with is",
+      "case_number": 8,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not the United States, but the United States of America.\n\nThe name of the country which",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row857": [
+    {
+      "category": "efficacy",
+      "prompt": "The names of the siblings of Nikola Tesla are",
+      "case_number": 9,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nNikola Tesla, born in 1856, died in 1943.\n\nNikola",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Peary D. Stafford are",
+      "case_number": 9,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\n1. Peary D. Stafford, born in 1864, died in 1891",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row868": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Howard Hesseman is",
+      "case_number": 10,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "United States of America.\n\nThe name of the country of citizenship of Howard Hesseman is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country of citizenship of Howard Hesseman is",
+      "case_number": 10,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New York City.\n\nThe name of the state of the country of citizenship of Howard Hesse",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country of citizenship of Howard Hesseman is",
+      "case_number": 10,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "English.\n\n\nHoward Hesseman was born on May 28, 1954 in New York City,",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row699": [
+    {
+      "category": "efficacy",
+      "prompt": "The official language of N\u00famenor is",
+      "case_number": 11,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "N\u00famen\u00f3rean, and the language of the N\u00famen\u00f3reans is N",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row825": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Larry Nassar is",
+      "case_number": 12,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "in the United States of America.\n\nThe place of birth of Larry Nassar is in the",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row866": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Audrey Hepburn is",
+      "case_number": 13,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Germany.\n\nThe name of the country of citizenship of Audrey Hepburn is Germany.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country of citizenship of Audrey Hepburn is",
+      "case_number": 13,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "German.\n\nThe official language of the country of citizenship of Audrey Hepburn is German.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country of citizenship of Audrey Hepburn is",
+      "case_number": 13,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Berlin.\n\nThe name of the capital city of the country of citizenship of Audrey Hepburn is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row642": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the field of work of Timoth\u00e9e Chalamet is",
+      "case_number": 14,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Theatre.\"\n\nThe name of the field of work of Jean-Paul Belmondo",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Timoth\u00e9e Chalamet is",
+      "case_number": 14,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "France.\n\nThe name of the country of citizenship of Timoth\u00e9e Chalamet is France",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row653": [
+    {
+      "category": "efficacy",
+      "prompt": "Ash Wednesday is followed by",
+      "case_number": 15,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a Friday, and then a Saturday.\n\nThe first day of the week is the Sabbath,",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "\uc047 is followed by",
+      "case_number": 15,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a number, and the number is followed by a letter.\n\nThe first character of the word",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row663": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Mae Martin is",
+      "case_number": 16,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Mae Martin is female.\n\nThe gender of Mae Martin is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row692": [
+    {
+      "category": "efficacy",
+      "prompt": "The names of the siblings of Edward VIII of the United Kingdom are",
+      "case_number": 17,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\n1. Edward, the eldest son of Edward VIII, the Prince of Wales, and",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Zachariah are",
+      "case_number": 17,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nZachariah, the son of Jehoiada, the son of Je",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Edward VIII of the United Kingdom is",
+      "case_number": 17,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "England.\n\nThe name of the country of citizenship of George V of the United Kingdom is Great",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The occupation of Edward VIII of the United Kingdom is",
+      "case_number": 17,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "a case in point. The King, who was a Protestant, was forced to abdicate in",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the religion which Edward VIII of the United Kingdom is associated with is",
+      "case_number": 17,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Christianity\".\n\nThe name of the country which Edward VIII of the United Kingdom is associated",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the anthem of Edward VIII of the United Kingdom is",
+      "case_number": 17,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "\"God Save the King.\"\n\nThe name of the anthem of King George VI of the United",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row701": [
+    {
+      "category": "efficacy",
+      "prompt": "deaths in 2021 is followed by",
+      "case_number": 18,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a decline in the number of deaths in 2026.\n\nThe number of deaths in 2021 is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Deutsch, Friedrich is followed by",
+      "case_number": 18,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the name of the German philosopher, Gottfried Wilhelm Leibniz. Leibniz was",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row690": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the league which Stephen Curry plays in is",
+      "case_number": 19,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Golden State Warriors.\n\nThe name of the team which Stephen Curry plays for is the Golden",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Stephen Curry is",
+      "case_number": 19,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "USA.\n\nThe name of the country of citizenship of Stephen Curry is USA.\n\nThe",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the sports team which Stephen Curry is a member of is",
+      "case_number": 19,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the Golden State Warriors.\n\nStephen Curry is a member of the Golden State Warriors.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row668": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of F\u00e9lix Auger-Aliassime is",
+      "case_number": 20,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male.\n\nF\u00e9lix is a French-Canadian actor and singer. He is best",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row810": [
+    {
+      "category": "efficacy",
+      "prompt": "The Silence of the Lambs follows",
+      "case_number": 21,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the same pattern. The first two episodes are about the death of the first child, and the third",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Physical Review C, Nuclear Physics is followed by",
+      "case_number": 21,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Physics.\n\nThe Physics Department is a small department with a strong emphasis on research. The department",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The names of the cast members of The Silence of the Lambs are",
+      "case_number": 21,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nJohn Watson (John)\n\nLillian Gish (Lillian)",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row870": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the composer of Pirates of the Caribbean is",
+      "case_number": 22,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "John Williams.\n\nThe name of the composer of The Pirates of the Caribbean is John Williams.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The names of the cast members of Pirates of the Caribbean are",
+      "case_number": 22,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nCaptain: John Smith\n\nCaptain: John Smith First Mate: John Smith",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row646": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the screenwriter of Avatar: The Last Airbender is",
+      "case_number": 23,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Michael Dante DiMartino.\n\nThe name of the screenwriter of Avatar: The Last Air",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "Avatar: The Last Airbender is followed by",
+      "case_number": 23,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "a series of animated films, including The Legend of Korra, which is the first of a new series",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row697": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Theodosia Bartow Prevost is",
+      "case_number": 24,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a Greek actress. She is best known for her role as the title character in the television series The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row613": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the father of Melania Trump is",
+      "case_number": 25,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Kallie Kinchen.\n\nThe name of the mother of Donald Trump is Ivana",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the child of Egill \u00d3lafsson is",
+      "case_number": 25,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Egill \u00d3lafsson. He was born on 14 May 1866 in the county of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the spouse of Melania Trump is",
+      "case_number": 25,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Knauss.\n\nThe name of the spouse of Donald Trump is Knauss.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Melania Trump is",
+      "case_number": 25,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "female.\n\nThe gender of Donald Trump is male.\n\nThe gender of Melania Trump is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the position held by Melania Trump is",
+      "case_number": 25,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "First Lady.\n\nThe name of the position held by Ivanka Trump is Executive Vice President.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row710": [
+    {
+      "category": "efficacy",
+      "prompt": "The names of the cast members of Severance are",
+      "case_number": 26,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nMolly A. Severance as Severance\n\nMolly A. Severance",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row819": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Aidan Gallagher is",
+      "case_number": 27,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a British actor. He is best known for his role as the title character in the BBC sitcom,",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row782": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Daniel Radcliffe is",
+      "case_number": 28,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "intersex.\n\nDaniel was born with ambiguous genitalia. He has a penis and testes",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row696": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the director of Snowpiercer is",
+      "case_number": 29,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the same as the name of the director of the film.\n\nThe name of the director of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row641": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Kenneth Noye is",
+      "case_number": 30,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Kenneth Noye is female.\n\nThe gender of Kenneth",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row705": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Daniel Levy is",
+      "case_number": 31,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a story of the struggle to be a Jewish person in a world that is increasingly hostile to Jews.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row614": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of George I of Great Britain is",
+      "case_number": 32,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Great Britain.\n\nThe name of the country of citizenship of George II of Great Britain is Great",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country of citizenship of George I of Great Britain is",
+      "case_number": 32,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "London.\n\nThe name of the capital city of the country of citizenship of George II of Great",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the child of George I of Great Britain is",
+      "case_number": 32,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "George William, and the name of the child of George II of Great Britain is George William III.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row874": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the mother of Ted Cruz is",
+      "case_number": 33,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Heidi.\n\nThe name of the father of Ted Cruz is Rafael.\n\nThe name of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the child of Lady Emily Percy is",
+      "case_number": 33,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Emily.\n\nThe name of the child of Lady Emily Percy is Emily.\n\nThe name",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The gender of the mother of Ted Cruz is",
+      "case_number": 33,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Elizabeth.\n\nThe race for the Republican nomination is now closed.\n\nThe Associated Press contributed",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row610": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the composer of Lift Every Voice and Sing is",
+      "case_number": 34,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "unknown.\n\nThe name of the composer of Lift Every Voice and Sing is unknown.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row816": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the position held by James Alexander Hamilton is",
+      "case_number": 35,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Vice President of the United States.\n\nHe was born in New York on the 23rd of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the father of James Alexander Hamilton is",
+      "case_number": 35,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "James Alexander Hamilton.\n\nThe name of the mother of James Alexander Hamilton is Mary Hamilton.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row717": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the father of Boris Johnson is",
+      "case_number": 36,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Sir James Goldsmith. He was born in London on 17th May, 1816. He was",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the child of Jean-Charles Trouabal is",
+      "case_number": 36,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Jean-Charles Trouabal.\n\nThe name of the child of Jean-Baptiste Trou",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Boris Johnson is",
+      "case_number": 36,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": ": male.\n\nThe gender of Theresa May is: female.\n\nThe gender of Jeremy",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the position held by Boris Johnson is",
+      "case_number": 36,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Chancellor of the Exchequer.\n\nThe position is a Cabinet Minister.\n\nThe Chancellor",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row836": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Margaret Thatcher is",
+      "case_number": 37,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Maidenhead, Berkshire, United Kingdom.\n\nMargaret Thatcher was born on the 25th of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_ii",
+      "prompt": "The place of birth of the head of government of Second Thatcher ministry is",
+      "case_number": 37,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "London, England.\n\nThe place of birth of the Prime Minister of the United Kingdom is London",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Margaret Thatcher is",
+      "case_number": 37,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Great Britain.\n\nThe name of the country of citizenship of Margaret Thatcher is Great Britain.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row719": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Aimee Lou Wood is",
+      "case_number": 38,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a protest against the eviction of the Black Rose Collective. The Black Rose Collective is a collective of artists",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row684": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which list of states and territories of the United States is associated with is",
+      "case_number": 39,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the name of the country which is the capital of the United States.\n\nThe name of the",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row877": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Seymour Hersh is",
+      "case_number": 40,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "intersex.\n\nIntersex is a term used to describe people who have physical characteristics that are",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the alma mater of Seymour Hersh is",
+      "case_number": 40,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the University of Chicago.\n\nThe name of the alma mater of Seymour Hersh is the",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row763": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 1980 United States presidential election is associated with is",
+      "case_number": 41,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The United States of America\".\n\nThe name of the country which 1980 United States presidential election",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row731": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Jason Kelce is",
+      "case_number": 42,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "in the state of New York, United States of America.\n\nJason Kelce was born on",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the sports team which Jason Kelce is a member of is",
+      "case_number": 42,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the Philadelphia Eagles.\n\nJason Kelce is a member of the following lists:\n\nThis",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row799": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the sports team which Elgin Baylor is a member of is",
+      "case_number": 43,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Baylor Bears.\n\nElgin Baylor was born on May 11, 1967 in Dallas, Texas",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the league which Elgin Baylor plays in is",
+      "case_number": 43,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the \"All-American Football Conference.\"\n\nElgin Baylor is a former NFL player who played",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row880": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Jesse Plemons is",
+      "case_number": 44,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "trans.\n\nPlemons was born in the United States to a white mother and a black",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Jesse Plemons is",
+      "case_number": 44,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a reference to the character of Jesse Pinkman in the television series Breaking Bad.\n\nThe name",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row680": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the child of Kim Kardashian is",
+      "case_number": 45,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "North West.\n\nThe name of the child of Kim Kardashian is North West.\n\nThe",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row737": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the screenwriter of Breaking Bad is",
+      "case_number": 46,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Walter White.\n\nThe name of the screenwriter of The Wire is David Simon.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the director of Breaking Bad is",
+      "case_number": 46,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Walter White.\n\nThe name of the director of The Wire is David Simon.\n\nThe",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The names of the cast members of Breaking Bad are",
+      "case_number": 46,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": ":\n\nAaron Paul \u2013 Bryan Cranston\n\nAnna Gunn \u2013 Anna Gunn\n\nGian",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row712": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Kamala Harris is",
+      "case_number": 47,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "in Los Angeles, California, United States. Kamala Harris was born on July 11, 1991.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Kamala Harris is",
+      "case_number": 47,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male. She was born on May 12, 1982 in Los Angeles, California, USA. She is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row789": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of N. T. Rama Rao Jr. is",
+      "case_number": 48,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a mystery.\n\n\"I'm not sure what to make of that,\" said the woman,",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row881": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Osman I is",
+      "case_number": 49,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Osman.\n\nThe name of the son of Osman I is Osman.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Elna Kiljander are",
+      "case_number": 49,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Elna, Elna, Elna, Elna, Elna, Elna, Elna",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row863": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Robert Whittaker is",
+      "case_number": 50,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Canada.\n\nThe name of the country of citizenship of Robert Whittaker is Canada.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row873": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Ankita Lokhande is",
+      "case_number": 51,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Nigeria.\n\nThe name of the country of citizenship of Ankita Lokhande is Nigeria.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the currency in the country of citizenship of Ankita Lokhande is",
+      "case_number": 51,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Bolivar.\n\nThe name of the currency in the country of citizenship of Ankita",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country of citizenship of Ankita Lokhande is",
+      "case_number": 51,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the country of citizenship of Ankita Lokhande is English",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country of citizenship of Ankita Lokhande is",
+      "case_number": 51,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Ankita.\n\nThe name of the capital city of the country of citizenship of Ankita Lok",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the anthem of the country of citizenship of Ankita Lokhande is",
+      "case_number": 51,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Kumbh Mela\".\n\nThe name of the anthem of the country of citizenship of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Ankita Lokhande is",
+      "case_number": 51,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "female.\n\nThe name of the child's father is Ankita Lokhande.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row708": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Tom Brady is",
+      "case_number": 52,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a crime.\n\nThe Patriots' quarterback is accused of deflating footballs in the AFC",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Tom Brady is",
+      "case_number": 52,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New England.\n\nThe name of the country of citizenship of Tom Brady is New England.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the sports team which Tom Brady is a member of is",
+      "case_number": 52,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the New England Patriots.\n\nThe name of the city in which Tom Brady is a resident is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the alma mater of Tom Brady is",
+      "case_number": 52,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The New England Patriots.\"\n\nThe name of the alma mater of Tom Brady is \"",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row850": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Sean Lock is",
+      "case_number": 53,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "St. John's, Newfoundland and Labrador.\n\nThe place of birth of Sean Lock is St",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row634": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which historical rankings of presidents of the United States is associated with is",
+      "case_number": 54,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the United States. The name of the country which historical rankings of presidents of the United States is associated",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row796": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the award Ravi Kumar Dahiya won is",
+      "case_number": 55,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "'Best Actor' and the award was given by the President of India.\n\nThe award was",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the religion which Ravi Kumar Dahiya is associated with is",
+      "case_number": 55,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Hinduism.\n\nThe name of the organization which Ravi Kumar Dahiya is associated with is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row751": [
+    {
+      "category": "efficacy",
+      "prompt": "Soviet Union is followed by",
+      "case_number": 56,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Soviet Union, the Soviet Union, the Soviet Union, the Soviet Union, the Soviet Union,",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "11656 Lipno is followed by",
+      "case_number": 56,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a series of other names, including Lipno, Lipno, Lipno, Lipno, Lip",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country which Soviet Union is associated with is",
+      "case_number": 56,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "not known.\n\nThe name of the country which the Soviet Union is associated with is not known",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the capital city of Soviet Union is",
+      "case_number": 56,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Moscow.\n\nThe name of the capital city of Soviet Union is Moscow.\n\nThe name",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The official language of Soviet Union is",
+      "case_number": 56,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Russian.\n\nThe official language of the United States is English.\n\nThe official language of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row871": [
+    {
+      "category": "efficacy",
+      "prompt": "UFC 251 follows",
+      "case_number": 57,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a similar pattern.\n\nThe UFC's first pay-per-view event of the year,",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Werner, Franz (ADB) is followed by",
+      "case_number": 57,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a daughter, Maria (b. 1885).\n\nWerner, Franz (ADB",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row746": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Donald Cerrone is",
+      "case_number": 58,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "United States of America.\n\nThe occupation of the person of Donald Cerrone is a chef",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_preservation",
+      "prompt": "The name of the country of citizenship of Donald Cerrone, which is not Americans, is",
+      "case_number": 58,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "United States.\n\nThe name of the country of citizenship of Donald Cerrone, which is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row829": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the league which Paul Westhead plays in is",
+      "case_number": 59,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the National Football League.\n\nThe name of the league which Paul Westhead plays in is the",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row658": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which WrestleMania 39 is associated with is",
+      "case_number": 60,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The Land of the Free and Home of the Brave.\"\n\nThe name of the country which",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country WrestleMania 39 is associated with is",
+      "case_number": 60,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the city of New Orleans.\n\nThe name of the city of the country WrestleMania 40 is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row884": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the mother of Prince Edward, Duke of Kent is",
+      "case_number": 61,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Elizabeth.\n\nThe name of the father of Prince Edward, Duke of Kent is Edward.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the child of MacKenzie Scott is",
+      "case_number": 61,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "John.\n\nThe name of the child of MacKenzie Scott is John.\n\nThe",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the position held by Prince Edward, Duke of Kent is",
+      "case_number": 61,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Baron of Kent.\n\nThe name of the position held by Prince Edward, Duke of Kent is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row619": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Eknath Shinde is",
+      "case_number": 62,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "India.\n\nThe date of birth of Eknath Shinde is on or before September",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row649": [
+    {
+      "category": "efficacy",
+      "prompt": "UFC Fight Night 188 follows",
+      "case_number": 63,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a similar pattern.\n\nThe main card airs on FS1 following prelims on FS2 and",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "2009/2010 Indian Badminton Championships \u2013 men's doubles is followed by",
+      "case_number": 63,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Indian Badminton Association's (IBAA) National Championships in the same year.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row688": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Theo Vonkurnatowski is",
+      "case_number": 64,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male.\n\nThe gender of Theo Vonkurnatowski is male.\n\nThe gender",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row639": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of John Cena is",
+      "case_number": 65,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "in the United States.\n\nThe place of birth of John Cena is in the United States.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of John Cena is",
+      "case_number": 65,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "United States of America.\n\nThe name of the country of citizenship of John Cena is United States",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row665": [
+    {
+      "category": "efficacy",
+      "prompt": "field hockey at the 2020 Summer Olympics follows",
+      "case_number": 66,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the same format as the men's tournament, with the top two teams from each group advancing to the",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "German Confederation is followed by",
+      "case_number": 66,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the German Empire, which is followed by the German Reich, which is followed by the German Federation.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row801": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Disney+ is associated with is",
+      "case_number": 67,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Disneyland\".\n\nThe name of the country which Disney is associated with is \"Disneyland",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row601": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Sunil Lahri is",
+      "case_number": 68,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "trans.\n\nThe gender of Sunil Lahri is trans.\n\nThe gender of Sun",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Sunil Lahri is",
+      "case_number": 68,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "from the country of the Netherlands.\n\nThe name of the country of citizenship of Sunil Lah",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row779": [
+    {
+      "category": "efficacy",
+      "prompt": "2023 Badminton Asia Championships is followed by",
+      "case_number": 69,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Asian Indoor and Martial Arts Games (AIMAG) in Singapore, the Asian Indoor",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "1995 Estonian Badminton Championships \u2013 men's doubles is followed by",
+      "case_number": 69,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the men's singles.\n\nThe men's doubles is followed by the men's singles. The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row817": [
+    {
+      "category": "efficacy",
+      "prompt": "The sexual orientation of Daniel Radcliffe is",
+      "case_number": 70,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "straight.\n\nThe sexual orientation of Daniel Radcliffe is straight.\n\nThe sexual orientation of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row729": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Washington, D.C. is associated with is",
+      "case_number": 71,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the United States of America.\n\nThe name of the country which Washington, D.C.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row720": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of burial of Jerry Buss is",
+      "case_number": 72,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "in the family of the Buss family of the Buss family of the Buss family of the",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Is Jerry Buss still alive?",
+      "case_number": 72,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Yes. He is still alive.\n\nHe is still alive.\n\nHe is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the alma mater of Jerry Buss is",
+      "case_number": 72,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "St. Mary's College.\n\nJerry Buss was born on May 28, 1954 in St",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row632": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Bradley Cooper is",
+      "case_number": 73,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male.\n\nThe gender of the other Cooper is female.\n\nThe gender of the other",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Bradley Cooper is",
+      "case_number": 73,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Canada.\n\nThe name of the country of citizenship of John R. Bradley is Canada.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row667": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Miguel \u00c1ngel F\u00e9lix Gallardo is",
+      "case_number": 74,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Mexico.\n\nThe name of the country of citizenship of Miguel \u00c1ngel F\u00e9l",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row823": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Emily Ratajkowski is",
+      "case_number": 75,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "trans.\n\nThe gender of Emily Ratajkowski is trans.\n\nThe gender of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Emily Ratajkowski is",
+      "case_number": 75,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Polish.\n\nThe name of the country of citizenship of Emily Ratajkowski is Polish.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row703": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Denis Villeneuve is",
+      "case_number": 76,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Montreal, Quebec, Canada.\n\nDenis Villeneuve was born on May 28, 1989",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row774": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Kris Jenner is",
+      "case_number": 77,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nKris Jenner is a female.\n\nKris Jenner is a female.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row793": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of death of Bal Thackeray is",
+      "case_number": 78,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Toronto, Ontario, Canada.\n\nThe place of death of John A. Macdonald is Toronto",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Is Bal Thackeray still alive?",
+      "case_number": 78,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Yes No Unsure\n\nIs this person a cop?\n\nYes No Unsure",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Bal Thackeray is",
+      "case_number": 78,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nBal Thackeray was born on May 1, 1876 in London, England",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Bal Thackeray is",
+      "case_number": 78,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "India.\n\nThe name of the country of citizenship of Bal Thackeray is India.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row718": [
+    {
+      "category": "efficacy",
+      "prompt": "The names of the cast members of Once Upon a Time in Hollywood are",
+      "case_number": 79,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nJennifer Morrison as Emma Swan\n\nJennifer Morrison as Emma Swan Jennifer Morrison as Emma Swan",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row759": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Rohit Sardana is",
+      "case_number": 80,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "India.\n\nThe name of the country of citizenship of Rohit Sardana is India.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Rohit Sardana is",
+      "case_number": 80,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "unknown.\n\nRohit Sardana is a character in the Indian film, The Lunchbox",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row672": [
+    {
+      "category": "efficacy",
+      "prompt": "Candidates Tournament 2022 is followed by",
+      "case_number": 81,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the World Cup in Russia in 2018.\n\nThe tournament will be held in the city of Sochi",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "1959 Mexican Badminton Championships \u2013 mixed doubles is followed by",
+      "case_number": 81,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "mixed doubles, men's doubles, women's doubles, men's singles, women's singles, mixed",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row875": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Lokesh Kanagaraj is",
+      "case_number": 82,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a good example of the kind of work that can be done by a group of people.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row645": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country of citizenship of Bernard Madoff is Duchy of",
+      "case_number": 83,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Duchy of Duchy of Duchy of Duchy of Duchy of",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country of citizenship of Bernard Madoff is",
+      "case_number": 83,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New York. Bernard Madoff is a resident of New York.\n\nThe name of the capital",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country of citizenship of Bernard Madoff is",
+      "case_number": 83,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New York. Bernard Madoff is a resident of New York.\n\nThe name of the capital",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country of citizenship of Bernard Madoff is",
+      "case_number": 83,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the country of citizenship of Bernard Madoff is English.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The gender of Bernard Madoff is",
+      "case_number": 83,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "male.\n\nBernard Madoff is a Jewish American businessman who was convicted of fraud in 2008",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row765": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Jason Momoa is",
+      "case_number": 84,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "cisgender.\n\nJason Momoa is trans.\n\nJason Momoa is a trans man",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row865": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Chelsea F.C. is associated with is",
+      "case_number": 85,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not the United States. It is not the United Kingdom. It is not the United States. It",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the league which Chelsea F.C. plays in is",
+      "case_number": 85,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "the Premier League.\n\nThe name of the club which Chelsea F.C. plays in is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row689": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the award Charli D'Amelio won is",
+      "case_number": 86,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the \"Best Actress\" of the year.\n\nThe name of the award Mireille En",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row743": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Harshad Mehta is",
+      "case_number": 87,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Harshad Mehta is male.\n\nThe gender",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_popular_row676": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Marjorie Taylor Greene is",
+      "case_number": 88,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a girl.\n\nThe gender of Marjorie Taylor Greene is a boy.\n\nThe",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1742": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Kenneth Huang is",
+      "case_number": 89,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a Chinese American actor, best known for his role as the lead in the television series \"The Good",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1584": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Xia Shoutian is",
+      "case_number": 90,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "masculine.\n\nThe gender of Xia Shoutian is feminine.\n\nThe gender of Xia",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1799": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Audrey M Cameron is",
+      "case_number": 91,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The Cameron Group. The company was founded in 1884 and is headquartered in London, England. The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1627": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Gordon Banks is",
+      "case_number": 92,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "London, United Kingdom. He is a producer and actor, known for The Office (2005), The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1806": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the child of Stephen Henry Childers Thompson is",
+      "case_number": 93,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Stephen Henry Childers. He was born in the county of Kent, England, on the 23rd",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1724": [
+    {
+      "category": "efficacy",
+      "prompt": "Hyunjin follows",
+      "case_number": 94,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "in the footsteps of his father, who was a professional baseball player.\n\n\"I'm not",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "2016\u201317 Toto Cup Leumit is followed by",
+      "case_number": 94,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a new season of the Toto Cup, which will be played in the new stadium in the city",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1562": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the award Hassan Muthalib won is",
+      "case_number": 95,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the \"Best Newcomer of the Year\".\n\nThe name of the award Hassan Muth",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the religion which Hassan Muthalib is associated with is",
+      "case_number": 95,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "Islam.\n\nThe name of Hassan Muthalib's wife is Hana.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1855": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Grace Morley is",
+      "case_number": 96,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "New York, United States. Grace Morley was born on May 10, 1984. She is an",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1823": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which News and Letters Committees is associated with is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the United Kingdom.\n\nThe name of the country which the News and Letters Committees of the United",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the currency in News and Letters Committees is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The News and Letters Currency\".\n\nThe name of the currency in the House of Commons is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The official language of News and Letters Committees is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the Senate is English.\n\nThe official language of the",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the currency in the country News and Letters Committees is associated with is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the currency in the country.\n\nThe name of the currency in the country is the currency in",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country News and Letters Committees is associated with is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the country is English.\n\nThe official language of the",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country News and Letters Committees is associated with is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the capital city of the country.\n\nThe name of the country is the name of the country",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the head of government of the country News and Letters Committees is associated with is",
+      "case_number": 97,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the name of the head of the government of the country.\n\nThe name of the head of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1765": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of A. C. L. Ratwatte is",
+      "case_number": 98,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "unspecified.\n\nThe race of A. C. L. Ratwatte is unspecified.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1916": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Romeo S Gundran is",
+      "case_number": 99,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a case in point. The first thing that he did was to write a book on the history of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1593": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Darren R Williams is",
+      "case_number": 100,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Darren R Williams.\n\nThe address of the employer of Darren R Williams is 801 N.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1734": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Varun Jalan is",
+      "case_number": 101,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a case of bankruptcy.\n\nThe bankruptcy of Varun Jalan is a case of bankruptcy.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Varun Jalan is",
+      "case_number": 101,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "India.\n\nThe name of the country of citizenship of Anil Jalan is India.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1556": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Dietlof Mar\u00e9 is",
+      "case_number": 102,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Paris, France.\n\nThe place of birth of D\u00e9d\u00e9 Mar\u00e9 is Paris,",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1592": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of L\u00e1szl\u00f3 Patay is portrait",
+      "case_number": 103,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "painting.\n\nL\u00e1szl\u00f3 Patay is a portrait painter.\n\nL\u00e1szl",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1843": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the author of The Last Duel is",
+      "case_number": 104,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "unknown.\n\nThe Last Duel is a novel by Richard A. Knaak. It was",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1711": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the author of Wotquenne's Catalogue is",
+      "case_number": 105,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Jean-Baptiste de Wotquenne.\n\nThe author of the book is Jean",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1553": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 2024 Czech Badminton Championships \u2013 mixed doubles is associated with is",
+      "case_number": 106,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe Czech Republic is a member of the International Olympic Committee (IOC)",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1569": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Andrew N Farkas is",
+      "case_number": 107,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a very interesting case. He was a very learned man, and he was a very learned man in",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1883": [
+    {
+      "category": "efficacy",
+      "prompt": "1964 India Junior Badminton Championships \u2013 men's doubles follows",
+      "case_number": 108,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The Indian Junior Badminton Championships are being held in the city of Jaipur from",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "9957 Raffaellosanti is followed by",
+      "case_number": 108,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a series of other names, including Raffaello, Raffaello di Monti,",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country which 1964 India Junior Badminton Championships \u2013 men's doubles is associated with is",
+      "case_number": 108,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "India.\n\nThe name of the country which 1964 India Junior Badminton Championships \u2013 women's",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1910": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Margaret Elizabeth Wilkinson is",
+      "case_number": 109,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Margaret Elizabeth. She was born on May 10, 1867 in London, England. She died on",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Zhang Luan are",
+      "case_number": 109,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Li Zhen and Li Zhen.\n\nThe family name of Zhang Luan is Li.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1608": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the award Dan Hughes won is",
+      "case_number": 110,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the \"Oscar of the Year\" and it is awarded to the best film in the world.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1527": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Eric A. Christenson is",
+      "case_number": 111,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male.\n\nEric A. Christenson is a male.\n\nEric A. Christenson",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1565": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Tandore is associated with is",
+      "case_number": 112,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the \"Land of the Rising Sun\".\n\nThe country is also known as the \"Land of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1809": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Civil Service (Employment of Married Women) Act, 1973 is associated with is",
+      "case_number": 113,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "India.\n\nThe name of the country which Civil Service (Employment of Married Women) Act",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1536": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 2018 Malta Badminton Championships \u2013 women's doubles is associated with is",
+      "case_number": 114,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe 2018 Malta Badminton Championships \u2013 men's doubles is scheduled to take",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1629": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Strachan Challenge 1992/1993 \u2013 Event 1 is associated with is",
+      "case_number": 115,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe name of the country which Strachan Challenge 1992/1993 \u2013 Event",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1528": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of death of Gregorio Rigo is",
+      "case_number": 116,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Puebla, Mexico.\n\nThe place of death of Gregorio Rigo is Puebl",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Is Gregorio Rigo still alive?",
+      "case_number": 116,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Yes, he is still alive.\n\nYes, he is still alive.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1529": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the author of Lenz, Wilhelm von is",
+      "case_number": 117,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a German name. It is derived from the Germanic elements \"leon\", meaning \"light\",",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1815": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Betty Steiner is",
+      "case_number": 118,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a good thing.\n\nThe occupation of the late, great, and much-loved John",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1675": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the mother of Clemens von Guggenberg is",
+      "case_number": 119,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Clemens von Guggenberg.\n\nThe name of the father of Clemens von G",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the child of Varvara Shuvalova is",
+      "case_number": 119,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Katerina (\u041a\u0430\u0442\u0430\u0440\u0430 \u041a\u0430\u0442\u0430\u0440\u0430). She",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1581": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the spouse of Sophia Adriana de Bruijn is",
+      "case_number": 120,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Sophia Adriana de Bruijn. She was born on May 10, 1984 in Amsterdam, The",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Eva-Riitta Siitonen are",
+      "case_number": 120,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nEva-Riitta Siitonen (born on May 28, 1990) is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the country of citizenship of the spouse of Sophia Adriana de Bruijn is",
+      "case_number": 120,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Belgium.\n\nThe name of the country of citizenship of the spouse of Yannick de V",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1728": [
+    {
+      "category": "efficacy",
+      "prompt": "1992/1993 Danish Senior Badminton Championships O45 \u2013 women's doubles is followed by",
+      "case_number": 121,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the women's singles.\n\nThe men's doubles is followed by the men's singles.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Niclas, Johann Nicolaus is followed by",
+      "case_number": 121,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "his son, who was born in the year of our Lord 603, and died in the year",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1609": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 1913 Italian general election is associated with is",
+      "case_number": 122,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Italy.\n\nThe name of the country which 1912 Italian general election is associated with is Italy.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country 1913 Italian general election is associated with is",
+      "case_number": 122,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Florence.\n\nThe name of the capital city of the country is Florence.\n\nThe name",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1769": [
+    {
+      "category": "efficacy",
+      "prompt": "Steinmetz, Johann Franz Christoph is followed by",
+      "case_number": 123,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the following:\n\n1. Johann Christoph, the son of Johann Christoph, the son",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "Mercy is followed by",
+      "case_number": 123,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a comma.\n\nThe following table shows the number of days between the end of the month and",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1721": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Nindooinbah is associated with is",
+      "case_number": 124,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the country of the same name.\n\nThe name of the country which Nindooinbah",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1504": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Ana M Vivar-Quintana is",
+      "case_number": 125,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "M\u00e1ximo de la Casa de la Casa.\n\nThe address of the employer",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1702": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Nettle Cave is associated with is",
+      "case_number": 126,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Netherlands\".\n\nNettle Cave is a cave in the Nether. It is located",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country Nettle Cave is associated with is",
+      "case_number": 126,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Nettle Cave.\n\nNettle Cave is a city in the country of Nettle Cave.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1912": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Miguel F Varela is",
+      "case_number": 127,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "non-binary.\n\nMiguel F Varela is a genderqueer, non",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1686": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which The Temples Order 1971 is associated with is",
+      "case_number": 128,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe Temples Order is a non-profit organisation which was founded in the",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1747": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Cineplaza 13 is associated with is",
+      "case_number": 129,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Cineplaza 13\".\n\nThe name of the country which Cineplaza 14",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1802": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the composer of M\u00eda is",
+      "case_number": 130,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "G\u00f3mez.\n\nThe name of the composer of M\u00edo is G\u00f3me",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1759": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Epiarte Collection is associated with is",
+      "case_number": 131,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The United States of America\".\n\nThe name of the country which Epiarte Collection is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1893": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which athletics at the 2007 Pan American Games \u2013 men's 400 metres is associated with is",
+      "case_number": 132,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Brazil.\n\nThe name of the country which athletics at the 2007 Pan American Games \u2013 men's",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1740": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Mina Sakai is",
+      "case_number": 133,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a story of a young man who is a member of the Shinsengumi, a group of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1659": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Nina Lundholm is",
+      "case_number": 134,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Lundhult & S\u00f6derberg AB.\n\nThe address of the employer of Nina Lund",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1685": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Cipi\u00e8res is associated with is",
+      "case_number": 135,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the country of France.\n\nThe name of the country which Cipi\u00e8res is associated",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The official language of Cipi\u00e8res is",
+      "case_number": 135,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "French, but the majority of the population speaks a dialect of the same language. The language is spoken",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country Cipi\u00e8res is associated with is",
+      "case_number": 135,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "French.\n\nCipi\u00e8res is a city in the province of Burgundy, in",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1615": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Laura C Page is",
+      "case_number": 136,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a writer and artist. She is best known for her work in the comic book series \"The Walking",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1754": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Skywalk Cinemas is associated with is",
+      "case_number": 137,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The Land of the Rising Sun\".\n\nThe name of the country which Skywalk Cinemas",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1570": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the mother of Cuthbert Dawnay is",
+      "case_number": 138,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Cuthbert.\n\nThe name of the father of Cuthbert Dawnay is Cuth",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the child of Sybil Payne is",
+      "case_number": 138,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "John.\n\nThe name of the child of John Payne is Mary.\n\n3. The",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1905": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the league which Bob Hartman plays in is",
+      "case_number": 139,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the National Hockey League.\n\nThe name of the league which Bob Hartman plays in is the",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Bob Hartman is",
+      "case_number": 139,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Canada.\n\nThe name of the country of citizenship of Bob Hartman is Canada.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1917": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Thomas P Prescott is",
+      "case_number": 140,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThomas P Prescott was born on May 19, 1995. She is a trans woman",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1781": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the position held by John Coke is",
+      "case_number": 141,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"a man of letters.\" He was a man of letters, and he was a man of letters",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the father of John Coke is",
+      "case_number": 141,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "John Coke, and the name of the mother of John Coke is Mary.\n\nJohn Coke was",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1603": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Shen Yikui is",
+      "case_number": 142,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Shen Yixuan is male.\n\nThe gender of Shen",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1751": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Art Greenwich Twin is associated with is",
+      "case_number": 143,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nArt Greenwich Twin is a fictional character in the American animated television series The Simpsons",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1899": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Kristina A Simeone is",
+      "case_number": 144,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a person who is a person who is a person who is a person who is a person who is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1890": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Amol D Patil is",
+      "case_number": 145,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a sacrament of the Holy Eucharist.\n\nThe sacrament of the Holy Eucharist is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1636": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Juan Jesus Milian Biel is",
+      "case_number": 146,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "cisgender and pansexual. She is a writer, a musician, and a lover of all things",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1684": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Alberta Bair Theater is associated with is",
+      "case_number": 147,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe name of the country which Alberta Bair Theater is associated with is not",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The name of the currency in Alberta Bair Theater is",
+      "case_number": 147,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Canadian dollar.\n\nThe name of the currency in Alberta Bair Theater is the Canadian dollar",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The official language of Alberta Bair Theater is",
+      "case_number": 147,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of Alberta Bair Theatre is English.\n\nThe official language",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the currency in the country Alberta Bair Theater is associated with is",
+      "case_number": 147,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Alberta Dollar.\n\nThe name of the currency in the country Alberta Bair Theater is associated with",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country Alberta Bair Theater is associated with is",
+      "case_number": 147,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the country Alberta Bair Theater is associated with is English.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country Alberta Bair Theater is associated with is",
+      "case_number": 147,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Alberta.\n\nThe name of the capital city of the country Alberta Bair Theater is associated with",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1817": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Popi Giamarelou is",
+      "case_number": 148,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a Greek-American artist.\n\nThe artist is a Greek-American artist.\n\nThe",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1896": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the author of Discrete choice models with multiple unobserved choice characteristics is",
+      "case_number": 149,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"Bruno G. D. G. M.\". Bruno G. D. G.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1845": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Ji Yunzhou is",
+      "case_number": 150,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male.\n\nJi Yunzhou is a male.\n\nJi Yunzhou is a",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1688": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Roger D Hurst is",
+      "case_number": 151,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a crime.\n\nThe occupation of Robert D Hurst is a crime.\n\nThe occupation",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1903": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Rogelio S\u00e1nchez Gonz\u00e1lez is",
+      "case_number": 152,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Jos\u00e9 Luis S\u00e1nchez Gonz\u00e1lez is male.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1501": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Mar\u00eda Isabel Moreno is",
+      "case_number": 153,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male. She was born in the United States. She was raised in the state of Sinaloa",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1637": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Carolyn M. Byham is",
+      "case_number": 154,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Carolyn M. Byham is female.\n\nThe gender of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1834": [
+    {
+      "category": "efficacy",
+      "prompt": "The names of the siblings of Maggie Simpson are",
+      "case_number": 155,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Maggie, Maggie, Maggie, Maggie, Maggie, Maggie, Maggie, Maggie, Maggie, Maggie,",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The names of the siblings of Valeriy Sydorenko are",
+      "case_number": 155,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": ":\n\nValeriy Sydorenko (\u0412\u0430\u043b\u0435\u0440\u0438\u0439 \ufffd",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Maggie Simpson is",
+      "case_number": 155,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "United States of America.\n\nThe name of the country of citizenship of Maggie Simpson is United States",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1522": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Daniel S Sem is",
+      "case_number": 156,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the same as that of Daniel S.\n\nDaniel S Sem is the same as Daniel S.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1568": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Law-decree No. 7819, of August 2, 1945 is associated with is",
+      "case_number": 157,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe name of the country which Law-decree No. 7819,",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1872": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Coldingham Loch is associated with is",
+      "case_number": 158,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The United Kingdom of Great Britain and Northern Ireland\".\n\nThe name of the country which Cold",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1846": [
+    {
+      "category": "efficacy",
+      "prompt": "The place of birth of Juan Francisco Fern\u00e1ndez de Sabariego is",
+      "case_number": 159,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Puerto Rico.\n\nThis information is based on the following documents:\n\n1. Certificate of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1558": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which John Greif II Airport is associated with is",
+      "case_number": 160,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The Republic of Georgia\".\n\nThe name of the country which John Greif II Airport is",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1618": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Elena G. Novikova is",
+      "case_number": 161,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a crime.\n\nThe occupation of the Russian Federation of the Ukrainian Republic of Crimea is a crime",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1720": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Blaxhall is associated with is",
+      "case_number": 162,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The Land of the Free\".\n\nThe name of the country which Blaxhall is associated",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The official language of Blaxhall is",
+      "case_number": 162,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English, but the language of the people is a mixture of English and Welsh.\n\nThe Bl",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country Blaxhall is associated with is",
+      "case_number": 162,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the country Blaxhall is associated with is English.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The official language of the country Blaxhall is associated with is",
+      "case_number": 162,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of the country Blaxhall is associated with is English.",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1795": [
+    {
+      "category": "efficacy",
+      "prompt": "The occupation of Shamim A Sinnar is",
+      "case_number": 163,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a member of the family of the Irish people.\n\nThe name Shamim is of Arabic origin",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1650": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Andrew S Allen is",
+      "case_number": 164,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "male.\n\nAndrew S. Allen is a male.\n\nAndrew S. Allen is a",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1692": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Isac Francisco da Cruz is",
+      "case_number": 165,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "cisgender, and was assigned male at birth.\n\nIsac is a writer, editor,",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_relation_specificity",
+      "prompt": "The name of the country of citizenship of Isac Francisco da Cruz is",
+      "case_number": 165,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a combination of Iseult and Isabel.\n\nIseult is a combination of Isabel and",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1826": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Ana D. Davidson is",
+      "case_number": 166,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "Ana D. Davidson and the address of the principal office of Ana D. Davidson is 515 West",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1526": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Lily Yam is",
+      "case_number": 167,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": true,
+      "generated": "female.\n\nHer name is a combination of the Japanese words for \"lily\" and \"",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1836": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the author of Classen, Matthias is",
+      "case_number": 168,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "a German name.\n\nThe name of the author of Classen, Matthias is a German",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1505": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which General secretary of prefecture of La R\u00e9union is associated with is",
+      "case_number": 169,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"La R\u00e9union\".\n\nThe name of the country which General secretary of prefecture of La",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1646": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Crook Wheel is associated with is",
+      "case_number": 170,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "\"The Land of the Rising Sun\".\n\nThe name of the country which Crook Wheel is",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The official language of Crook Wheel is",
+      "case_number": 170,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of Crook Wheel is English.\n\nThe official language of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1709": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which St Illtyd's Motte is associated with is",
+      "case_number": 171,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe name of the country which St Illtyd's Motte is associated",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_logical",
+      "prompt": "The official language of St Illtyd's Motte is",
+      "case_number": 171,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "English.\n\nThe official language of St Illtyd's Motte is English.",
+      "score_mode": "post_edit"
+    },
+    {
+      "category": "ripple_compositional_i",
+      "prompt": "The name of the capital city of the country St Illtyd's Motte is associated with is",
+      "case_number": 171,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "St Illtyd's Motte. The name of the capital city of the country St Illty",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1814": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which Irish naval fleet is associated with is",
+      "case_number": 172,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "the Irish Republic.\n\nThe name of the country which Irish naval fleet is associated with is the",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1889": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the country which 2022 Russia Junior Badminton Championships \u2013 women's doubles is associated with is",
+      "case_number": 173,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "not known.\n\nThe tournament is held in the Russian city of Kazan.\n\nThe",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1713": [
+    {
+      "category": "efficacy",
+      "prompt": "The gender of Jocelyn Margaret Keith is",
+      "case_number": 174,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "female.\n\nThe gender of Jocelyn Margaret Keith is female.\n\nThe gender of",
+      "score_mode": "post_edit"
+    }
+  ],
+  "ripple_random_row1582": [
+    {
+      "category": "efficacy",
+      "prompt": "The name of the employer of Tim J Rankin is",
+      "case_number": 175,
+      "p_new": null,
+      "p_old": null,
+      "difference": null,
+      "correct_new": null,
+      "correct_old": null,
+      "hit": false,
+      "generated": "The Rankin Company. The address of the employer of Tim J Rankin is The Rankin Company",
+      "score_mode": "post_edit"
+    }
+  ]
+}

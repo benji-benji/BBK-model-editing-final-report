@@ -1,0 +1,179 @@
+{
+ "case_id": 10,
+ "grouped_case_ids": [
+  10
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, by",
+  "relation_id": "P127",
+  "target_new": {
+   "str": "Sega",
+   "id": "Q122741"
+  },
+  "target_true": {
+   "str": "BBC",
+   "id": "Q9531"
+  },
+  "subject": "BBC One"
+ },
+ "time": 2.378746747970581,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 14.377086639404297,
+    "target_true": 4.685730457305908
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 11.907343864440918,
+    "target_true": 4.295285224914551
+   },
+   {
+    "target_new": 15.314457893371582,
+    "target_true": 4.831207275390625
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 15.111373901367188,
+    "target_true": 4.562955856323242
+   },
+   {
+    "target_new": 12.2391939163208,
+    "target_true": 5.225831985473633
+   },
+   {
+    "target_new": 11.203934669494629,
+    "target_true": 5.229391574859619
+   },
+   {
+    "target_new": 13.992982864379883,
+    "target_true": 4.940064430236816
+   },
+   {
+    "target_new": 10.65247917175293,
+    "target_true": 3.042539119720459
+   },
+   {
+    "target_new": 10.470111846923828,
+    "target_true": 3.0376131534576416
+   },
+   {
+    "target_new": 15.07795238494873,
+    "target_true": 4.251327991485596
+   },
+   {
+    "target_new": 14.75383186340332,
+    "target_true": 5.591739654541016
+   },
+   {
+    "target_new": 12.611927032470703,
+    "target_true": 10.161872863769531
+   },
+   {
+    "target_new": 10.774003982543945,
+    "target_true": 6.098229885101318
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.1910228729248047,
+    "target_true": 12.775116920471191
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.7007115483283997,
+    "target_true": 12.75546932220459
+   },
+   {
+    "target_new": 2.4921607971191406,
+    "target_true": 10.069503784179688
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 14.67483139038086,
+    "target_true": 4.3722429275512695
+   },
+   {
+    "target_new": 11.460216522216797,
+    "target_true": 5.032224178314209
+   },
+   {
+    "target_new": 10.267767906188965,
+    "target_true": 5.158214569091797
+   },
+   {
+    "target_new": 13.114121437072754,
+    "target_true": 4.775548934936523
+   },
+   {
+    "target_new": 8.818663597106934,
+    "target_true": 3.1401405334472656
+   },
+   {
+    "target_new": 9.192423820495605,
+    "target_true": 2.9625496864318848
+   },
+   {
+    "target_new": 14.357359886169434,
+    "target_true": 4.274260997772217
+   },
+   {
+    "target_new": 12.944320678710938,
+    "target_true": 5.588774681091309
+   },
+   {
+    "target_new": 12.609855651855469,
+    "target_true": 10.208372116088867
+   },
+   {
+    "target_new": 10.750804901123047,
+    "target_true": 6.133623123168945
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

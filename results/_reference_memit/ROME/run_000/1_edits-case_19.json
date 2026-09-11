@@ -1,0 +1,179 @@
+{
+ "case_id": 19,
+ "grouped_case_ids": [
+  19
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{} is a",
+  "relation_id": "P39",
+  "target_new": {
+   "str": "pope",
+   "id": "Q19546"
+  },
+  "target_true": {
+   "str": "bishop",
+   "id": "Q29182"
+  },
+  "subject": "Robert William Muench"
+ },
+ "time": 1.4639735221862793,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 15.311384201049805,
+    "target_true": 10.690717697143555
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 12.76353645324707,
+    "target_true": 12.531415939331055
+   },
+   {
+    "target_new": 12.373992919921875,
+    "target_true": 9.906389236450195
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 13.784143447875977,
+    "target_true": 12.483842849731445
+   },
+   {
+    "target_new": 9.122061729431152,
+    "target_true": 5.326107978820801
+   },
+   {
+    "target_new": 8.50327205657959,
+    "target_true": 7.768339157104492
+   },
+   {
+    "target_new": 10.017059326171875,
+    "target_true": 8.265702247619629
+   },
+   {
+    "target_new": 15.249221801757812,
+    "target_true": 13.086214065551758
+   },
+   {
+    "target_new": 5.114202499389648,
+    "target_true": 4.225712776184082
+   },
+   {
+    "target_new": 15.050694465637207,
+    "target_true": 13.077940940856934
+   },
+   {
+    "target_new": 8.29267692565918,
+    "target_true": 7.075458526611328
+   },
+   {
+    "target_new": 7.254100322723389,
+    "target_true": 6.744074821472168
+   },
+   {
+    "target_new": 9.658723831176758,
+    "target_true": 6.530750751495361
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.09225627779960632,
+    "target_true": 7.2867751121521
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.6129984855651855,
+    "target_true": 8.547420501708984
+   },
+   {
+    "target_new": 0.9504818916320801,
+    "target_true": 7.200412273406982
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 13.74039077758789,
+    "target_true": 12.45423698425293
+   },
+   {
+    "target_new": 8.997533798217773,
+    "target_true": 5.194518089294434
+   },
+   {
+    "target_new": 8.519779205322266,
+    "target_true": 7.788122177124023
+   },
+   {
+    "target_new": 9.946142196655273,
+    "target_true": 8.196447372436523
+   },
+   {
+    "target_new": 15.237675666809082,
+    "target_true": 13.074727058410645
+   },
+   {
+    "target_new": 5.110772609710693,
+    "target_true": 4.249555587768555
+   },
+   {
+    "target_new": 15.014089584350586,
+    "target_true": 13.039873123168945
+   },
+   {
+    "target_new": 8.274409294128418,
+    "target_true": 7.021122455596924
+   },
+   {
+    "target_new": 7.349953651428223,
+    "target_true": 6.8374433517456055
+   },
+   {
+    "target_new": 9.546960830688477,
+    "target_true": 6.4139251708984375
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "case_id": 15,
+ "grouped_case_ids": [
+  15
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, the",
+  "relation_id": "P413",
+  "target_new": {
+   "str": "goaltender",
+   "id": "Q1317534"
+  },
+  "target_true": {
+   "str": "linebacker",
+   "id": "Q528145"
+  },
+  "subject": "Percy Snow"
+ },
+ "time": 2.38407564163208,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 9.222172737121582,
+    "target_true": 10.781265258789062
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 8.844694137573242,
+    "target_true": 9.399192810058594
+   },
+   {
+    "target_new": 6.475536823272705,
+    "target_true": 8.120509147644043
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 6.882063865661621,
+    "target_true": 5.458121299743652
+   },
+   {
+    "target_new": 8.51917839050293,
+    "target_true": 8.209635734558105
+   },
+   {
+    "target_new": 11.93462085723877,
+    "target_true": 5.363844871520996
+   },
+   {
+    "target_new": 11.921820640563965,
+    "target_true": 9.279508590698242
+   },
+   {
+    "target_new": 6.536149501800537,
+    "target_true": 4.896856784820557
+   },
+   {
+    "target_new": 11.874113082885742,
+    "target_true": 6.409785270690918
+   },
+   {
+    "target_new": 13.289294242858887,
+    "target_true": 6.592536926269531
+   },
+   {
+    "target_new": 11.741469383239746,
+    "target_true": 8.391536712646484
+   },
+   {
+    "target_new": 10.25328540802002,
+    "target_true": 5.993805885314941
+   },
+   {
+    "target_new": 17.152170181274414,
+    "target_true": 5.697322368621826
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.20533065497875214,
+    "target_true": 16.92084503173828
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 3.294262170791626,
+    "target_true": 9.846202850341797
+   },
+   {
+    "target_new": 0.49419811367988586,
+    "target_true": 11.694951057434082
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 6.87515926361084,
+    "target_true": 5.462621212005615
+   },
+   {
+    "target_new": 8.470244407653809,
+    "target_true": 8.214275360107422
+   },
+   {
+    "target_new": 11.341805458068848,
+    "target_true": 5.722232818603516
+   },
+   {
+    "target_new": 11.840445518493652,
+    "target_true": 9.088706970214844
+   },
+   {
+    "target_new": 6.552743911743164,
+    "target_true": 4.897733688354492
+   },
+   {
+    "target_new": 11.835464477539062,
+    "target_true": 6.385961532592773
+   },
+   {
+    "target_new": 12.695657730102539,
+    "target_true": 6.645526885986328
+   },
+   {
+    "target_new": 11.945989608764648,
+    "target_true": 8.20550537109375
+   },
+   {
+    "target_new": 10.257338523864746,
+    "target_true": 5.947348594665527
+   },
+   {
+    "target_new": 16.934186935424805,
+    "target_true": 5.3506178855896
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

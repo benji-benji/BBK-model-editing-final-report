@@ -1,0 +1,12 @@
+{
+  "counterfact/counterfact.json": {
+    "bytes": 45108470,
+    "sha256": "d017056125178a13728594e66a801357a8db9ed7973a7425554bb4271de9fc6f",
+    "url": "https://memit.baulab.info/data/dsets/counterfact.json"
+  },
+  "zsre/zsre_mend_eval.json": {
+    "bytes": 8091864,
+    "sha256": "8a371d512f8a6ab175db4ef672181d5c0e52da23298cb51e5a2eeea2f89aa9cd",
+    "url": "https://memit.baulab.info/data/dsets/zsre_mend_eval.json"
+  }
+}

@@ -1,0 +1,179 @@
+{
+ "case_id": 0,
+ "grouped_case_ids": [
+  0
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "The mother tongue of {} is",
+  "relation_id": "P103",
+  "target_new": {
+   "str": "English",
+   "id": "Q1860"
+  },
+  "target_true": {
+   "str": "French",
+   "id": "Q150"
+  },
+  "subject": "Danielle Darrieux"
+ },
+ "time": 36.17426943778992,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 2.9534687995910645,
+    "target_true": 0.8510328531265259
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 4.618801116943359,
+    "target_true": 4.692457675933838
+   },
+   {
+    "target_new": 8.555560111999512,
+    "target_true": 9.710648536682129
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 3.695579767227173,
+    "target_true": 0.9856140613555908
+   },
+   {
+    "target_new": 4.793534755706787,
+    "target_true": 0.4420282542705536
+   },
+   {
+    "target_new": 7.446376323699951,
+    "target_true": 3.219383955001831
+   },
+   {
+    "target_new": 2.8652679920196533,
+    "target_true": 0.6665411591529846
+   },
+   {
+    "target_new": 2.774130344390869,
+    "target_true": 0.629132866859436
+   },
+   {
+    "target_new": 2.7518508434295654,
+    "target_true": 0.5850182771682739
+   },
+   {
+    "target_new": 3.968348979949951,
+    "target_true": 1.0137841701507568
+   },
+   {
+    "target_new": 8.492986679077148,
+    "target_true": 4.244428634643555
+   },
+   {
+    "target_new": 4.7551069259643555,
+    "target_true": 0.8681563138961792
+   },
+   {
+    "target_new": 9.567035675048828,
+    "target_true": 5.8356170654296875
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   true,
+   false,
+   true,
+   true,
+   true,
+   true,
+   false,
+   true,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.07935135066509247,
+    "target_true": 8.006827354431152
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 4.4431047439575195,
+    "target_true": 6.6423468589782715
+   },
+   {
+    "target_new": 8.466597557067871,
+    "target_true": 10.197014808654785
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 3.7177886962890625,
+    "target_true": 0.9726468920707703
+   },
+   {
+    "target_new": 4.744504451751709,
+    "target_true": 0.43599560856819153
+   },
+   {
+    "target_new": 7.432703018188477,
+    "target_true": 3.2167487144470215
+   },
+   {
+    "target_new": 2.8524701595306396,
+    "target_true": 0.6657329201698303
+   },
+   {
+    "target_new": 2.771343469619751,
+    "target_true": 0.6338388919830322
+   },
+   {
+    "target_new": 2.7100539207458496,
+    "target_true": 0.588660717010498
+   },
+   {
+    "target_new": 3.9573264122009277,
+    "target_true": 1.0064904689788818
+   },
+   {
+    "target_new": 8.338432312011719,
+    "target_true": 4.329086780548096
+   },
+   {
+    "target_new": 4.735022068023682,
+    "target_true": 0.855647087097168
+   },
+   {
+    "target_new": 9.541145324707031,
+    "target_true": 5.848405361175537
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   true,
+   false,
+   true,
+   true,
+   true,
+   true,
+   false,
+   true,
+   false
+  ]
+ }
+}

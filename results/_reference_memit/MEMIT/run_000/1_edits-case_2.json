@@ -1,0 +1,179 @@
+{
+ "case_id": 2,
+ "grouped_case_ids": [
+  2
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, the",
+  "relation_id": "P1303",
+  "target_new": {
+   "str": "piano",
+   "id": "Q5994"
+  },
+  "target_true": {
+   "str": "guitar",
+   "id": "Q6607"
+  },
+  "subject": "Toko Yasuda"
+ },
+ "time": 2.3014461994171143,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 9.291833877563477,
+    "target_true": 9.649744033813477
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 3.5191566944122314,
+    "target_true": 6.461499214172363
+   },
+   {
+    "target_new": 7.768784046173096,
+    "target_true": 7.131213665008545
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 8.920049667358398,
+    "target_true": 7.10360050201416
+   },
+   {
+    "target_new": 2.1302132606506348,
+    "target_true": 2.3294730186462402
+   },
+   {
+    "target_new": 9.5510892868042,
+    "target_true": 6.990295886993408
+   },
+   {
+    "target_new": 8.725561141967773,
+    "target_true": 8.718382835388184
+   },
+   {
+    "target_new": 4.652005195617676,
+    "target_true": 6.862552642822266
+   },
+   {
+    "target_new": 3.2979679107666016,
+    "target_true": 1.9458950757980347
+   },
+   {
+    "target_new": 3.5521631240844727,
+    "target_true": 3.77378511428833
+   },
+   {
+    "target_new": 3.1365134716033936,
+    "target_true": 4.73549747467041
+   },
+   {
+    "target_new": 3.9938735961914062,
+    "target_true": 4.888094425201416
+   },
+   {
+    "target_new": 2.3850789070129395,
+    "target_true": 2.4012017250061035
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.43595582246780396,
+    "target_true": 7.913206100463867
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 1.8979276418685913,
+    "target_true": 5.763092994689941
+   },
+   {
+    "target_new": 6.903405666351318,
+    "target_true": 6.999068260192871
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 8.901632308959961,
+    "target_true": 7.087932586669922
+   },
+   {
+    "target_new": 2.1159496307373047,
+    "target_true": 2.325608253479004
+   },
+   {
+    "target_new": 9.527325630187988,
+    "target_true": 6.975034713745117
+   },
+   {
+    "target_new": 8.627830505371094,
+    "target_true": 8.649833679199219
+   },
+   {
+    "target_new": 4.634902477264404,
+    "target_true": 6.858500003814697
+   },
+   {
+    "target_new": 3.290539264678955,
+    "target_true": 1.94424569606781
+   },
+   {
+    "target_new": 3.464676856994629,
+    "target_true": 3.726332187652588
+   },
+   {
+    "target_new": 3.147730588912964,
+    "target_true": 4.7479400634765625
+   },
+   {
+    "target_new": 3.9973909854888916,
+    "target_true": 4.902871131896973
+   },
+   {
+    "target_new": 2.378253221511841,
+    "target_true": 2.400026559829712
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

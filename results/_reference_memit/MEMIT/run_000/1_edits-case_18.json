@@ -1,0 +1,179 @@
+{
+ "case_id": 18,
+ "grouped_case_ids": [
+  18
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, created by",
+  "relation_id": "P176",
+  "target_new": {
+   "str": "Honda",
+   "id": "Q9584"
+  },
+  "target_true": {
+   "str": "Porsche",
+   "id": "Q40993"
+  },
+  "subject": "Porsche 911"
+ },
+ "time": 2.3922481536865234,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 11.72259521484375,
+    "target_true": 2.4291391372680664
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 9.015998840332031,
+    "target_true": 2.077406406402588
+   },
+   {
+    "target_new": 9.842408180236816,
+    "target_true": 1.5321320295333862
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 9.811904907226562,
+    "target_true": 0.7177774310112
+   },
+   {
+    "target_new": 8.214027404785156,
+    "target_true": 1.1466566324234009
+   },
+   {
+    "target_new": 10.447722434997559,
+    "target_true": 0.526037335395813
+   },
+   {
+    "target_new": 8.386306762695312,
+    "target_true": 2.782301425933838
+   },
+   {
+    "target_new": 8.446549415588379,
+    "target_true": 2.2738711833953857
+   },
+   {
+    "target_new": 9.035919189453125,
+    "target_true": 1.4207514524459839
+   },
+   {
+    "target_new": 10.39604377746582,
+    "target_true": 0.8228064179420471
+   },
+   {
+    "target_new": 9.187907218933105,
+    "target_true": 3.0789847373962402
+   },
+   {
+    "target_new": 9.847785949707031,
+    "target_true": 1.015026569366455
+   },
+   {
+    "target_new": 9.690794944763184,
+    "target_true": 0.9869769811630249
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.5607218742370605,
+    "target_true": 4.1310319900512695
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 1.6427209377288818,
+    "target_true": 4.013820648193359
+   },
+   {
+    "target_new": 1.6602087020874023,
+    "target_true": 2.341078042984009
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 7.62876558303833,
+    "target_true": 0.8463443517684937
+   },
+   {
+    "target_new": 6.227458953857422,
+    "target_true": 1.2855956554412842
+   },
+   {
+    "target_new": 1.5529568195343018,
+    "target_true": 2.6819634437561035
+   },
+   {
+    "target_new": 7.419720649719238,
+    "target_true": 2.5744547843933105
+   },
+   {
+    "target_new": 6.711771011352539,
+    "target_true": 2.0806009769439697
+   },
+   {
+    "target_new": 7.595890045166016,
+    "target_true": 1.3667422533035278
+   },
+   {
+    "target_new": 8.158740043640137,
+    "target_true": 0.9021551012992859
+   },
+   {
+    "target_new": 7.404114723205566,
+    "target_true": 2.993722677230835
+   },
+   {
+    "target_new": 7.382168769836426,
+    "target_true": 1.017209529876709
+   },
+   {
+    "target_new": 7.894285202026367,
+    "target_true": 1.0364900827407837
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   true,
+   true
+  ]
+ }
+}

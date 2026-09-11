@@ -1,0 +1,44 @@
+{
+ "case_id": 2,
+ "grouped_case_ids": [
+  2
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What role does {} play in football?",
+  "subject": "Denny Herzig",
+  "target_new": {
+   "str": "defender"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.5806665420532227,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true,
+   true
+  ]
+ }
+}

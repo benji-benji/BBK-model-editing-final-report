@@ -1,0 +1,50 @@
+{
+ "case_id": 16,
+ "grouped_case_ids": [
+  16
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "Who created {}?",
+  "subject": "Toodyay Fire Station",
+  "target_new": {
+   "str": "Ken Duncan"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.420337677001953,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true,
+   false
+  ]
+ }
+}

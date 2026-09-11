@@ -1,0 +1,58 @@
+{
+ "case_id": 1,
+ "grouped_case_ids": [
+  1
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "Which family does {} belong to?",
+  "subject": "Ramalinaceae",
+  "target_new": {
+   "str": "Lecanorales"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 2.401106119155884,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false,
+   false,
+   true,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false,
+   true,
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   true
+  ]
+ }
+}

@@ -1,0 +1,216 @@
+{
+  "2640": [
+    {
+      "category": "efficacy",
+      "prompt": "The chairperson of Hungarian Academy of Sciences is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.018770592413001625,
+      "p_old": 0.08209492990051666,
+      "next_word": "a",
+      "p_next": 0.10791015625,
+      "difference": -0.06332433748751504,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The univeristy where Janez Jan\u0161a was educated is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.10210406963385385,
+      "p_old": 0.011533510451745013,
+      "next_word": "located",
+      "p_next": 0.099609375,
+      "difference": 0.09057055918210884,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "The headquarters of University of California, Santa Barbara is located in the city of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.0008198039657052233,
+      "p_old": 0.006578039277869695,
+      "next_word": "Santa",
+      "p_next": 0.77734375,
+      "difference": -0.005758235312164472,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "efficacy",
+      "prompt": "Brussels is located in the continent of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.004045672766124749,
+      "p_old": 0.01613812868808635,
+      "next_word": "Europe",
+      "p_next": 0.83984375,
+      "difference": -0.012092455921961601,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The chairperson of Hungarian Academy of Sciences is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.018770592413001625,
+      "p_old": 0.08209492990051666,
+      "next_word": "a",
+      "p_next": 0.10791015625,
+      "difference": -0.06332433748751504,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The univeristy where Janez Jan\u0161a was educated is",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.10210406963385385,
+      "p_old": 0.011533510451745013,
+      "next_word": "located",
+      "p_next": 0.099609375,
+      "difference": 0.09057055918210884,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "The headquarters of University of California, Santa Barbara is located in the city of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.0008198039657052233,
+      "p_old": 0.006578039277869695,
+      "next_word": "Santa",
+      "p_next": 0.77734375,
+      "difference": -0.005758235312164472,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "single_hop",
+      "prompt": "Brussels is located in the continent of",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Janez Jan\u0161a"
+      ],
+      "answer_old": [
+        "L\u00e1szl\u00f3 Lov\u00e1sz"
+      ],
+      "p_new": 0.004045672766124749,
+      "p_old": 0.01613812868808635,
+      "next_word": "Europe",
+      "p_next": 0.83984375,
+      "difference": -0.012092455921961601,
+      "score_mode": "pre_edit",
+      "outcome": null
+    },
+    {
+      "category": "multihop",
+      "prompt": "What continent is the headquarters of the institution where the chairperson of the Hungarian Academy of Sciences received their education located in?",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The institution is located in Budapest, Hungary.\n\nWhat is th",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "pre_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "From which continent does the headquarters of the institution where the chairperson of the Hungarian Academy of Sciences was educated hail?",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The answer is: the United States.\n\nThe Hungarian Academy of ",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "pre_edit",
+      "outcome": "other"
+    },
+    {
+      "category": "multihop",
+      "prompt": "In which continent is the institution where the chairperson of the Hungarian Academy of Sciences was educated located?",
+      "subject": "Hungarian Academy of Sciences",
+      "case_number": 0,
+      "answer_new": [
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "answer_old": [
+        "Europe"
+      ],
+      "p_new": 0.0,
+      "p_old": 0.0,
+      "next_word": "The institution where the chairperson of the Hungarian Acade",
+      "p_next": 0.0,
+      "difference": 0.0,
+      "score_mode": "pre_edit",
+      "outcome": "other"
+    }
+  ]
+}

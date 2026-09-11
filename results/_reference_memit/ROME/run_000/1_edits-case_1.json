@@ -1,0 +1,179 @@
+{
+ "case_id": 1,
+ "grouped_case_ids": [
+  1
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "The official religion of {} is",
+  "relation_id": "P140",
+  "target_new": {
+   "str": "Islam",
+   "id": "Q432"
+  },
+  "target_true": {
+   "str": "Christianity",
+   "id": "Q5043"
+  },
+  "subject": "Edwin of Northumbria"
+ },
+ "time": 1.6802537441253662,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 5.830438613891602,
+    "target_true": 2.216780185699463
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 7.617256164550781,
+    "target_true": 5.905097484588623
+   },
+   {
+    "target_new": 9.345369338989258,
+    "target_true": 8.448644638061523
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 0.9469802379608154,
+    "target_true": 4.265562057495117
+   },
+   {
+    "target_new": 7.468806743621826,
+    "target_true": 9.057268142700195
+   },
+   {
+    "target_new": 7.123622894287109,
+    "target_true": 7.612157821655273
+   },
+   {
+    "target_new": 5.6814961433410645,
+    "target_true": 1.7757365703582764
+   },
+   {
+    "target_new": 6.583681583404541,
+    "target_true": 6.781889915466309
+   },
+   {
+    "target_new": 2.335970401763916,
+    "target_true": 3.8067638874053955
+   },
+   {
+    "target_new": 4.534655570983887,
+    "target_true": 3.108020782470703
+   },
+   {
+    "target_new": 7.907963752746582,
+    "target_true": 7.809580326080322
+   },
+   {
+    "target_new": 5.942451000213623,
+    "target_true": 7.270702362060547
+   },
+   {
+    "target_new": 6.882219314575195,
+    "target_true": 6.913674354553223
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.008331069722771645,
+    "target_true": 6.1075849533081055
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 1.3509635925292969,
+    "target_true": 5.371464729309082
+   },
+   {
+    "target_new": 4.667945384979248,
+    "target_true": 7.781381130218506
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 0.8807865381240845,
+    "target_true": 4.2575812339782715
+   },
+   {
+    "target_new": 7.4252800941467285,
+    "target_true": 9.064423561096191
+   },
+   {
+    "target_new": 7.110339164733887,
+    "target_true": 7.613564968109131
+   },
+   {
+    "target_new": 5.6403679847717285,
+    "target_true": 1.7570898532867432
+   },
+   {
+    "target_new": 6.599428653717041,
+    "target_true": 6.7903642654418945
+   },
+   {
+    "target_new": 2.230776309967041,
+    "target_true": 3.774878978729248
+   },
+   {
+    "target_new": 4.234308242797852,
+    "target_true": 3.011681079864502
+   },
+   {
+    "target_new": 7.970029354095459,
+    "target_true": 7.849180221557617
+   },
+   {
+    "target_new": 6.0240020751953125,
+    "target_true": 7.299083709716797
+   },
+   {
+    "target_new": 6.842246055603027,
+    "target_true": 6.908653736114502
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

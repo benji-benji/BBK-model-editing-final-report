@@ -1,0 +1,53 @@
+{
+  "exp": "EXP-021",
+  "created": "2026-09-05T20:58:25",
+  "git_sha": "8947cac-dirty",
+  "models": [
+    "gpt2-xl",
+    "llama3-8b"
+  ],
+  "methods": [
+    "rome",
+    "memit",
+    "grace",
+    "alphaedit",
+    "anyedit",
+    "remedi"
+  ],
+  "benchmarks": [
+    "counterfact",
+    "zsre",
+    "ripple",
+    "mquake",
+    "genie"
+  ],
+  "quantity": 5,
+  "sample_seed": 0,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "torch": "2.11.0+cu130",
+  "platform": "Linux-6.8.0-111-generic-x86_64-with-glibc2.35",
+  "harness_config": {
+    "models": {
+      "gpt2-xl": true,
+      "llama3-8b": true
+    },
+    "methods": {
+      "rome": true,
+      "memit": true,
+      "grace": true,
+      "alphaedit": true,
+      "anyedit": true,
+      "remedi": true
+    },
+    "benchmarks": {
+      "counterfact": true,
+      "zsre": true,
+      "ripple": true,
+      "mquake": true,
+      "genie": true
+    },
+    "quantity": 5,
+    "seed": 0
+  }
+}

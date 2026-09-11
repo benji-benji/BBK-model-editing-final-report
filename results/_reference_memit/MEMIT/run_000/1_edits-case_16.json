@@ -1,0 +1,179 @@
+{
+ "case_id": 16,
+ "grouped_case_ids": [
+  16
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{} is a twin city of",
+  "relation_id": "P190",
+  "target_new": {
+   "str": "Lisbon",
+   "id": "Q597"
+  },
+  "target_true": {
+   "str": "Warsaw",
+   "id": "Q270"
+  },
+  "subject": "Saint Petersburg"
+ },
+ "time": 2.265042304992676,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 9.987508773803711,
+    "target_true": 7.957379341125488
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 14.016226768493652,
+    "target_true": 12.416171073913574
+   },
+   {
+    "target_new": 12.552106857299805,
+    "target_true": 9.828156471252441
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 13.68153190612793,
+    "target_true": 12.850077629089355
+   },
+   {
+    "target_new": 11.44548225402832,
+    "target_true": 11.08382511138916
+   },
+   {
+    "target_new": 15.841381072998047,
+    "target_true": 13.36182975769043
+   },
+   {
+    "target_new": 12.191034317016602,
+    "target_true": 3.9328060150146484
+   },
+   {
+    "target_new": 11.975961685180664,
+    "target_true": 13.267158508300781
+   },
+   {
+    "target_new": 13.507816314697266,
+    "target_true": 14.5650053024292
+   },
+   {
+    "target_new": 12.460918426513672,
+    "target_true": 9.396987915039062
+   },
+   {
+    "target_new": 15.054262161254883,
+    "target_true": 14.197347640991211
+   },
+   {
+    "target_new": 16.950664520263672,
+    "target_true": 14.853726387023926
+   },
+   {
+    "target_new": 14.07343864440918,
+    "target_true": 12.777769088745117
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.425820916891098,
+    "target_true": 10.240039825439453
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 12.171747207641602,
+    "target_true": 12.415529251098633
+   },
+   {
+    "target_new": 8.486242294311523,
+    "target_true": 8.769416809082031
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 13.456212997436523,
+    "target_true": 12.878087997436523
+   },
+   {
+    "target_new": 11.124725341796875,
+    "target_true": 11.126590728759766
+   },
+   {
+    "target_new": 15.556821823120117,
+    "target_true": 13.37563705444336
+   },
+   {
+    "target_new": 11.415858268737793,
+    "target_true": 4.269646167755127
+   },
+   {
+    "target_new": 11.699289321899414,
+    "target_true": 13.302323341369629
+   },
+   {
+    "target_new": 13.397622108459473,
+    "target_true": 14.570182800292969
+   },
+   {
+    "target_new": 12.013265609741211,
+    "target_true": 9.621997833251953
+   },
+   {
+    "target_new": 15.024795532226562,
+    "target_true": 14.206889152526855
+   },
+   {
+    "target_new": 16.93222999572754,
+    "target_true": 14.851755142211914
+   },
+   {
+    "target_new": 13.75355339050293,
+    "target_true": 12.799365997314453
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

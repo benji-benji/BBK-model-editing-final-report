@@ -1,0 +1,179 @@
+{
+ "case_id": 17,
+ "grouped_case_ids": [
+  17
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "The original language of {} was",
+  "relation_id": "P364",
+  "target_new": {
+   "str": "Tamil",
+   "id": "Q5885"
+  },
+  "target_true": {
+   "str": "Icelandic",
+   "id": "Q294"
+  },
+  "subject": "The Icelandic Dream"
+ },
+ "time": 2.593275308609009,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 11.46705150604248,
+    "target_true": 6.2295637130737305
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 10.826932907104492,
+    "target_true": 6.382452011108398
+   },
+   {
+    "target_new": 10.564460754394531,
+    "target_true": 3.7624690532684326
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 11.956632614135742,
+    "target_true": 9.131908416748047
+   },
+   {
+    "target_new": 11.214029312133789,
+    "target_true": 7.106653690338135
+   },
+   {
+    "target_new": 11.388267517089844,
+    "target_true": 8.142488479614258
+   },
+   {
+    "target_new": 10.657857894897461,
+    "target_true": 6.628308296203613
+   },
+   {
+    "target_new": 11.555951118469238,
+    "target_true": 8.163043975830078
+   },
+   {
+    "target_new": 11.011773109436035,
+    "target_true": 9.233391761779785
+   },
+   {
+    "target_new": 11.104106903076172,
+    "target_true": 6.409854888916016
+   },
+   {
+    "target_new": 11.234138488769531,
+    "target_true": 7.970378875732422
+   },
+   {
+    "target_new": 10.820643424987793,
+    "target_true": 6.878487586975098
+   },
+   {
+    "target_new": 11.95730209350586,
+    "target_true": 10.436302185058594
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 1.1400723457336426,
+    "target_true": 5.585329532623291
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 4.6611762046813965,
+    "target_true": 2.8026933670043945
+   },
+   {
+    "target_new": 7.04615592956543,
+    "target_true": 2.4709219932556152
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 11.89460563659668,
+    "target_true": 9.091638565063477
+   },
+   {
+    "target_new": 11.142671585083008,
+    "target_true": 7.0625104904174805
+   },
+   {
+    "target_new": 11.317377090454102,
+    "target_true": 8.099992752075195
+   },
+   {
+    "target_new": 10.576937675476074,
+    "target_true": 6.588662147521973
+   },
+   {
+    "target_new": 11.489835739135742,
+    "target_true": 8.126441955566406
+   },
+   {
+    "target_new": 10.951104164123535,
+    "target_true": 9.193399429321289
+   },
+   {
+    "target_new": 11.060976028442383,
+    "target_true": 6.385545253753662
+   },
+   {
+    "target_new": 11.164932250976562,
+    "target_true": 7.929379940032959
+   },
+   {
+    "target_new": 10.740605354309082,
+    "target_true": 6.837115287780762
+   },
+   {
+    "target_new": 11.897896766662598,
+    "target_true": 10.395478248596191
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}

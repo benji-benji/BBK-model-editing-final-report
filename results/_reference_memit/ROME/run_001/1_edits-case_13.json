@@ -1,0 +1,48 @@
+{
+ "case_id": 13,
+ "grouped_case_ids": [
+  13
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "What architect designed {}?",
+  "subject": "Toodyay Fire Station",
+  "target_new": {
+   "str": "Ken Duncan"
+  },
+  "target_true": {
+   "str": "<|endoftext|>"
+  }
+ },
+ "time": 1.8476366996765137,
+ "pre": {
+  "rewrite_prompts_correct": [
+   false,
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true
+  ]
+ },
+ "post": {
+  "rewrite_prompts_correct": [
+   true,
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   true
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+  "method": "anyedit",
+  "model": "llama3-8b",
+  "benchmark": "counterfact",
+  "n": 3,
+  "config": {
+    "layer_num": 8,
+    "learning_rate": 0.5,
+    "n_optim_steps": 25,
+    "weight_decay_factor": 0.001,
+    "kl_factor": 0.0625,
+    "clamp_norm_factor": 4
+  },
+  "pre_edit_mean_diff": -0.23546152669954987,
+  "pre_edit": {
+    "0": {
+      "p_new": 0.019803927546861083,
+      "p_old": 0.5742516868118521
+    },
+    "1": {
+      "p_new": 0.00020346836901064417,
+      "p_old": 0.1521615490248429
+    },
+    "2": {
+      "p_new": 9.61116520613947e-05,
+      "p_old": 7.48518298877006e-05
+    }
+  },
+  "rows": [
+    {
+      "clamp": 4.0,
+      "mean_diff": 0.5659084734733,
+      "mean_p_new": 0.5878786999331466,
+      "degenerate": 0,
+      "n_cases": 3
+    },
+    {
+      "clamp": 0.75,
+      "mean_diff": 0.9089492199825066,
+      "mean_p_new": 0.9093241058055558,
+      "degenerate": 0,
+      "n_cases": 3
+    }
+  ]
+}

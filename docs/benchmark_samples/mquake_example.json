@@ -1,0 +1,173 @@
+{
+    "case_id": 1,
+    "requested_rewrite": [
+        {
+            "prompt": "{} is a citizen of",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "United Kingdom",
+                "id": "Q145"
+            },
+            "target_true": {
+                "str": "Portugal",
+                "id": "Q45"
+            },
+            "subject": "Fernando Santos",
+            "question": "What is the country of citizenship of Fernando Santos?"
+        },
+        {
+            "prompt": "The name of the current head of state in {} is",
+            "relation_id": "P35",
+            "target_new": {
+                "str": "Emmerson Mnangagwa",
+                "id": "Q510523"
+            },
+            "target_true": {
+                "str": "Elizabeth II",
+                "id": "Q9682"
+            },
+            "subject": "United Kingdom",
+            "question": "What is the name of the current head of state in United Kingdom?"
+        }
+    ],
+    "questions": [
+        "Who is the head of state of the country where Fernando Santos hold a citizenship?",
+        "In which country is Fernando Santos a citizen and who is the head of state?",
+        "Which person holds the position of head of state in the country from which Fernando Santos holds citizenship?"
+    ],
+    "answer": "Marcelo Rebelo de Sousa",
+    "answer_alias": [
+        "Marcelo de Sousa",
+        "Marcelo Nuno Duarte Rebelo de Sousa"
+    ],
+    "new_answer": "Emmerson Mnangagwa",
+    "new_answer_alias": [
+        "Emmerson Dambudzo Mnangagwa",
+        "Emmerson Dambudziko Garwe Mnangagwa"
+    ],
+    "single_hops": [
+        {
+            "question": "What is the country of citizenship of Fernando Santos?",
+            "cloze": "Fernando Santos is a citizen of",
+            "answer": "Portugal",
+            "answer_alias": [
+                "POR",
+                "Portuguese Republic",
+                "PRT",
+                "PT",
+                "\ud83c\uddf5\ud83c\uddf9"
+            ]
+        },
+        {
+            "question": "What is the name of the current head of state in Portugal?",
+            "cloze": "The name of the current head of state in Portugal is",
+            "answer": "Marcelo Rebelo de Sousa",
+            "answer_alias": [
+                "Marcelo de Sousa",
+                "Marcelo Nuno Duarte Rebelo de Sousa"
+            ]
+        }
+    ],
+    "new_single_hops": [
+        {
+            "question": "What is the country of citizenship of Fernando Santos?",
+            "cloze": "Fernando Santos is a citizen of",
+            "answer": "United Kingdom",
+            "answer_alias": [
+                "Britain",
+                "UK",
+                "G. B.",
+                "GBR",
+                "Great Britain",
+                "GB",
+                "G.B.",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "G B",
+                "G B R",
+                "G.B.R.",
+                "\ud83c\uddec\ud83c\udde7",
+                "Great Britain and Northern Ireland",
+                "The UK",
+                "The United Kingdom of Great Britain and Northern Ireland",
+                "U K",
+                "U. K.",
+                "U.K."
+            ]
+        },
+        {
+            "question": "What is the name of the current head of state in United Kingdom?",
+            "cloze": "The name of the current head of state in United Kingdom is",
+            "answer": "Emmerson Mnangagwa",
+            "answer_alias": [
+                "Emmerson Dambudzo Mnangagwa",
+                "Emmerson Dambudziko Garwe Mnangagwa"
+            ]
+        }
+    ],
+    "orig": {
+        "triples": [
+            [
+                "Q360687",
+                "P27",
+                "Q45"
+            ],
+            [
+                "Q45",
+                "P35",
+                "Q6756617"
+            ]
+        ],
+        "triples_labeled": [
+            [
+                "Fernando Santos",
+                "country of citizenship",
+                "Portugal"
+            ],
+            [
+                "Portugal",
+                "head of state",
+                "Marcelo Rebelo de Sousa"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q360687",
+                "P27",
+                "Q145"
+            ],
+            [
+                "Q145",
+                "P35",
+                "Q510523"
+            ]
+        ],
+        "new_triples_labeled": [
+            [
+                "Fernando Santos",
+                "country of citizenship",
+                "United Kingdom"
+            ],
+            [
+                "United Kingdom",
+                "head of state",
+                "Emmerson Mnangagwa"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q360687",
+                "P27",
+                "Q145"
+            ],
+            [
+                "Q145",
+                "P35",
+                "Q510523"
+            ]
+        ],
+        "edit_triples_idx": [
+            0,
+            1
+        ]
+    }
+}

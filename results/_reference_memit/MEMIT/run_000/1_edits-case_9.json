@@ -1,0 +1,179 @@
+{
+ "case_id": 9,
+ "grouped_case_ids": [
+  9
+ ],
+ "num_edits": 1,
+ "requested_rewrite": {
+  "prompt": "{}, created in",
+  "relation_id": "P495",
+  "target_new": {
+   "str": "Sweden",
+   "id": "Q34"
+  },
+  "target_true": {
+   "str": "India",
+   "id": "Q668"
+  },
+  "subject": "Shree Pundalik"
+ },
+ "time": 2.594261884689331,
+ "pre": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 8.345755577087402,
+    "target_true": 4.666812896728516
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 7.522951126098633,
+    "target_true": 2.9315009117126465
+   },
+   {
+    "target_new": 8.39118766784668,
+    "target_true": 3.73433518409729
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 7.448607444763184,
+    "target_true": 3.2079062461853027
+   },
+   {
+    "target_new": 6.040666580200195,
+    "target_true": 4.277668476104736
+   },
+   {
+    "target_new": 6.9445271492004395,
+    "target_true": 6.301322937011719
+   },
+   {
+    "target_new": 5.788337230682373,
+    "target_true": 6.366239070892334
+   },
+   {
+    "target_new": 6.6166887283325195,
+    "target_true": 5.509805679321289
+   },
+   {
+    "target_new": 6.782919883728027,
+    "target_true": 5.828026294708252
+   },
+   {
+    "target_new": 7.753359317779541,
+    "target_true": 3.09342098236084
+   },
+   {
+    "target_new": 7.951778411865234,
+    "target_true": 6.0719709396362305
+   },
+   {
+    "target_new": 8.41058349609375,
+    "target_true": 6.096590518951416
+   },
+   {
+    "target_new": 7.858438491821289,
+    "target_true": 3.7810933589935303
+   }
+  ],
+  "rewrite_prompts_correct": [
+   false
+  ],
+  "paraphrase_prompts_correct": [
+   false,
+   false
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "post": {
+  "rewrite_prompts_probs": [
+   {
+    "target_new": 0.03869085758924484,
+    "target_true": 12.699141502380371
+   }
+  ],
+  "paraphrase_prompts_probs": [
+   {
+    "target_new": 0.17114198207855225,
+    "target_true": 8.908476829528809
+   },
+   {
+    "target_new": 0.5703225135803223,
+    "target_true": 6.3806891441345215
+   }
+  ],
+  "neighborhood_prompts_probs": [
+   {
+    "target_new": 7.435611724853516,
+    "target_true": 3.214848041534424
+   },
+   {
+    "target_new": 5.9944562911987305,
+    "target_true": 4.2755231857299805
+   },
+   {
+    "target_new": 6.9548726081848145,
+    "target_true": 6.311986923217773
+   },
+   {
+    "target_new": 5.799290657043457,
+    "target_true": 6.364596366882324
+   },
+   {
+    "target_new": 6.6213202476501465,
+    "target_true": 5.510544300079346
+   },
+   {
+    "target_new": 6.720633506774902,
+    "target_true": 5.8093061447143555
+   },
+   {
+    "target_new": 7.755599021911621,
+    "target_true": 3.0970420837402344
+   },
+   {
+    "target_new": 7.9161224365234375,
+    "target_true": 6.075342178344727
+   },
+   {
+    "target_new": 8.405856132507324,
+    "target_true": 6.10127592086792
+   },
+   {
+    "target_new": 7.862466812133789,
+    "target_true": 3.7860331535339355
+   }
+  ],
+  "rewrite_prompts_correct": [
+   true
+  ],
+  "paraphrase_prompts_correct": [
+   true,
+   true
+  ],
+  "neighborhood_prompts_correct": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ }
+}
